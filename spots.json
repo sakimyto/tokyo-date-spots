@@ -9,7 +9,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -21,7 +23,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -33,7 +37,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -45,7 +51,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -57,7 +65,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -69,7 +79,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -81,7 +93,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -93,7 +107,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -105,7 +121,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -117,7 +135,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -129,7 +149,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -141,7 +163,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -153,7 +177,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -165,7 +191,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -177,7 +205,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -189,7 +219,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -201,7 +233,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -213,7 +247,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -225,7 +261,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -237,7 +275,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -249,7 +289,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "話題",
@@ -261,7 +303,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": true
+  "trending": true,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -273,7 +317,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -285,7 +331,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -297,7 +345,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -309,7 +359,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -321,7 +373,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -333,7 +387,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -345,7 +401,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -357,7 +415,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -369,7 +429,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -381,7 +443,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -393,7 +457,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -405,7 +471,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -417,7 +485,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -429,7 +499,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -441,7 +513,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -453,7 +527,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -465,7 +541,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -477,7 +555,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -489,7 +569,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -501,7 +583,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -513,7 +597,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -525,7 +611,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -537,7 +625,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -549,7 +639,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -561,7 +653,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -573,7 +667,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -585,7 +681,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -597,7 +695,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -609,7 +709,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -621,7 +723,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -633,7 +737,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -645,7 +751,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -657,7 +765,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "美術館・博物館",
@@ -669,7 +779,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -681,7 +793,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -693,7 +807,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -705,7 +821,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -717,7 +835,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -729,7 +849,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -741,7 +863,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -753,7 +877,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -765,7 +891,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -777,7 +905,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -789,7 +919,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -801,7 +933,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -813,7 +947,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -825,7 +961,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -837,7 +975,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -849,7 +989,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -861,7 +1003,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -873,7 +1017,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -885,7 +1031,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -897,7 +1045,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -909,7 +1059,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "水族館・動物園",
@@ -921,7 +1073,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -933,7 +1087,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -945,7 +1101,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -957,7 +1115,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -969,7 +1129,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -981,7 +1143,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -993,7 +1157,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1005,7 +1171,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1017,7 +1185,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1029,7 +1199,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1041,7 +1213,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1053,7 +1227,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1065,7 +1241,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1077,7 +1255,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1089,7 +1269,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1101,7 +1283,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1113,7 +1297,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1125,7 +1311,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1137,7 +1325,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1149,7 +1339,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1161,7 +1353,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1173,7 +1367,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1185,7 +1381,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1197,7 +1395,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1209,7 +1409,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1221,7 +1423,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1233,7 +1437,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1245,7 +1451,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1257,7 +1465,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1269,7 +1479,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1281,7 +1493,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1293,7 +1507,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1305,7 +1521,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1317,7 +1535,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1329,7 +1549,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1341,7 +1563,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1353,7 +1577,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1365,7 +1591,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1377,7 +1605,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1389,7 +1619,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1401,7 +1633,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1413,7 +1647,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1425,7 +1661,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1437,7 +1675,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1449,7 +1689,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1461,7 +1703,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1473,7 +1717,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1485,7 +1731,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1497,7 +1745,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1509,7 +1759,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1521,7 +1773,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1533,7 +1787,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1545,7 +1801,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1557,7 +1815,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1569,7 +1829,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1581,7 +1843,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1593,7 +1857,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1605,7 +1871,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1617,7 +1885,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1629,7 +1899,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1641,7 +1913,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1653,7 +1927,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1665,7 +1941,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1677,7 +1955,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "公園・庭園・花畑",
@@ -1689,7 +1969,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1701,7 +1983,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1713,7 +1997,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1725,7 +2011,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1737,7 +2025,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1749,7 +2039,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1761,7 +2053,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1773,7 +2067,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1785,7 +2081,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1797,7 +2095,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1809,7 +2109,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1821,7 +2123,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1833,7 +2137,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1845,7 +2151,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1857,7 +2165,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1869,7 +2179,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1881,7 +2193,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1893,7 +2207,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1905,7 +2221,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1917,7 +2235,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "展望台・夜景",
@@ -1929,7 +2249,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -1941,7 +2263,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -1953,7 +2277,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -1965,7 +2291,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -1977,7 +2305,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -1989,7 +2319,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2001,7 +2333,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2013,7 +2347,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2025,7 +2361,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2037,7 +2375,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2049,7 +2389,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2061,7 +2403,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2073,7 +2417,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2085,7 +2431,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2097,7 +2445,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2109,7 +2459,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2121,7 +2473,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2133,7 +2487,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2145,7 +2501,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2157,7 +2515,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2169,7 +2529,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2181,7 +2543,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2193,7 +2557,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2205,7 +2571,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2217,7 +2585,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2229,7 +2599,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2241,7 +2613,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2253,7 +2627,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2265,7 +2641,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2277,7 +2655,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2289,7 +2669,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2301,7 +2683,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2313,7 +2697,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2325,7 +2711,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2337,7 +2725,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2349,7 +2739,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2361,7 +2753,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2373,7 +2767,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2385,7 +2781,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2397,7 +2795,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2409,7 +2809,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2421,7 +2823,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "体験型",
@@ -2433,7 +2837,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2445,7 +2851,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2457,7 +2865,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2469,7 +2879,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2481,7 +2893,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2493,7 +2907,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2505,7 +2921,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2517,7 +2935,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2529,7 +2949,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2541,7 +2963,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2553,7 +2977,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2565,7 +2991,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2577,7 +3005,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2589,7 +3019,9 @@
   "url_status": "none",
   "url_note": "エリア・街歩き等で単一の公式サイトなし",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2601,7 +3033,9 @@
   "url_status": "none",
   "url_note": "エリア・街歩き等で単一の公式サイトなし",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2613,7 +3047,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2625,7 +3061,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2637,7 +3075,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2649,7 +3089,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2661,7 +3103,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2673,7 +3117,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2685,7 +3131,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2697,7 +3145,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2709,7 +3159,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2721,7 +3173,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -2733,7 +3187,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2745,7 +3201,9 @@
   "url_status": "none",
   "url_note": "エリア・街歩き等で単一の公式サイトなし",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2757,7 +3215,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2769,7 +3229,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2781,7 +3243,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2793,7 +3257,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2805,7 +3271,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2817,7 +3285,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2829,7 +3299,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2841,7 +3313,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2853,7 +3327,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2865,7 +3341,9 @@
   "url_status": "none",
   "url_note": "エリア・街歩き等で単一の公式サイトなし",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2877,7 +3355,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2889,7 +3369,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2901,7 +3383,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2913,7 +3397,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2925,7 +3411,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2937,7 +3425,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2949,7 +3439,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2961,7 +3453,9 @@
   "url_status": "none",
   "url_note": "エリア・街歩き等で単一の公式サイトなし",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2973,7 +3467,9 @@
   "url_status": "none",
   "url_note": "エリア・街歩き等で単一の公式サイトなし",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2985,7 +3481,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -2997,7 +3495,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -3009,7 +3509,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "買い物・街歩き",
@@ -3021,7 +3523,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3033,7 +3537,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3045,7 +3551,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3057,7 +3565,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3069,7 +3579,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3081,7 +3593,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3093,7 +3607,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3105,7 +3621,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3117,7 +3635,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3129,7 +3649,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3141,7 +3663,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3153,7 +3677,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3165,7 +3691,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3177,7 +3705,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3189,7 +3719,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3201,7 +3733,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3213,7 +3747,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3225,7 +3761,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3237,7 +3775,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3249,7 +3789,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3261,7 +3803,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3273,7 +3817,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "日帰り旅",
@@ -3285,7 +3831,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3297,7 +3845,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3309,7 +3859,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3321,7 +3873,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3333,7 +3887,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3345,7 +3901,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3357,7 +3915,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3369,7 +3929,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3381,7 +3943,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3393,7 +3957,9 @@
   "url_status": "none",
   "url_note": "エリア・街歩き等で単一の公式サイトなし",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3405,7 +3971,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3417,7 +3985,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3429,7 +3999,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3441,7 +4013,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3453,7 +4027,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3465,7 +4041,9 @@
   "url_status": "none",
   "url_note": "エリア・街歩き等で単一の公式サイトなし",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3477,7 +4055,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3489,7 +4069,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3501,7 +4083,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3513,7 +4097,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3525,7 +4111,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "アウトドア",
@@ -3537,7 +4125,9 @@
   "url_status": "none",
   "url_note": "エリア・街歩き等で単一の公式サイトなし",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3549,7 +4139,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3561,7 +4153,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3573,7 +4167,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3585,7 +4181,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3597,7 +4195,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3609,7 +4209,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3621,7 +4223,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3633,7 +4237,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3645,7 +4251,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3657,7 +4265,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3669,7 +4279,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3681,7 +4293,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3693,7 +4307,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3705,7 +4321,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3717,7 +4335,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3729,7 +4349,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3741,7 +4363,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3753,7 +4377,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3765,7 +4391,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3777,7 +4405,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3789,7 +4419,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3801,7 +4433,9 @@
   "url_status": "blocked",
   "url_note": "URLは検索で公式と確認済みだが、アクセス制限/JS描画のため中身を直接確認できず",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -3813,7 +4447,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3824,8 +4460,10 @@
   "period": "2026年11月12日〜2027年2月14日",
   "url_status": "ok",
   "url_note": "",
-  "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "period_note": "",
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3836,8 +4474,10 @@
   "period": "2026年11月12日〜12月25日",
   "url_status": "ok",
   "url_note": "",
-  "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "period_note": "",
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3849,7 +4489,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3861,7 +4503,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3873,7 +4517,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3885,7 +4531,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3897,7 +4545,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3909,7 +4559,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3921,7 +4573,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3933,7 +4587,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3945,7 +4601,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3957,7 +4615,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3969,7 +4629,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3981,7 +4643,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -3993,7 +4657,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4005,7 +4671,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4017,7 +4685,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4029,7 +4699,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4041,7 +4713,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4053,7 +4727,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4065,7 +4741,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4077,7 +4755,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4089,7 +4769,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4101,7 +4783,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4113,7 +4797,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4125,7 +4811,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4137,7 +4825,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4149,7 +4839,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4161,7 +4853,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4173,7 +4867,9 @@
   "url_status": "none",
   "url_note": "公式ページ未確認",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4185,7 +4881,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4197,7 +4895,9 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
  },
  {
   "genre": "季節イベント",
@@ -4209,6 +4909,358 @@
   "url_status": "ok",
   "url_note": "",
   "period_note": "",
-  "trending": false
+  "trending": false,
+  "venue": "",
+  "reservation": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "ちいかわクリスマスマーケット",
+  "area": "千葉県 千葉市美浜区",
+  "desc": "約6,000㎡にちいかわの世界観のマーケット。高さ6mのシンボルツリーの光と映像のショー、限定フード約35種、グッズ、鎧さんマーケット。11:00〜21:00(最終入場枠18:30〜19:00)",
+  "url": "https://contents-abema.com/chiikawa-christmas-market/",
+  "period": "2026年11月24日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "豊砂公園(イオンモール幕張新都心前)・JR京葉線 幕張豊砂駅 徒歩約10分",
+  "reservation": "日時指定チケット制(アソビュー)。大人 平日2,500円/土日祝2,800円、子ども(4〜11歳)1,200円/1,400円。先行抽選 10/15〜10/25 23:59、当落10/30"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "ちいかわ☆星ふるスカイツリー®とひみつの島",
+  "area": "墨田区 押上",
+  "desc": "「映画ちいかわ」の世界観の展示、天望デッキで特別映像上映、限定フォトサービス、キャラクターライティング、コラボカフェ",
+  "url": "https://www.tokyo-skytree.jp/event/special/chiikawa/",
+  "period": "2026年7月10日〜2026年10月31日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "東京スカイツリー 天望デッキ・天望回廊",
+  "reservation": "展望台入場券が必要。コラボカフェは「お食事券付き展望台入場券」(前日までに購入)が必要"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "ちいかわパーク クリスマス",
+  "area": "豊島区 東池袋",
+  "desc": "体験型施設がクリスマス装飾に。クリスマス限定衣装のグリーティング(予定)、11/24から新グッズ、SNSキャンペーン",
+  "url": "https://chiikawapark-tokyo.jp/",
+  "period": "2026年11月20日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "サンシャインシティ アネックス B1F・1F「ちいかわパーク」",
+  "reservation": "入場チケット制(アソビュー)。完売時間帯は当日券なし"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "ちいかわPOP UP STORE 海老名マルイ",
+  "area": "神奈川県 海老名市",
+  "desc": "ちいかわの期間限定ポップアップストア",
+  "url": "https://chiikawa-info.jp/p26/pus_ebmr/index.html",
+  "period": "2026年10月23日〜2026年11月29日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "ページ本文はほぼ画像。会期はページタイトル表記で確認",
+  "trending": false,
+  "venue": "海老名マルイ",
+  "reservation": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "ふわふわんだーシナモロールパーク",
+  "area": "文京区 後楽",
+  "desc": "シナモロールの体験型イベント。東京ドームシティのイルミネーションともコラボ",
+  "url": "https://cinnamorollpark.sanrio.co.jp/",
+  "period": "2026年11月20日〜2027年1月17日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "東京ドームシティ Gallery AaMo",
+  "reservation": "日時指定チケット制(2,200〜2,500円)"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "TOKYO SNOW DOME CITY × シナモロール(東京ドームシティ ウィンターイルミネーション)",
+  "area": "文京区 後楽",
+  "desc": "高さ約15mのLEDツリー「WONDER SNOW TREE」でシナモロールのテーマ曲連動演出(18:00/18:15)、光のアーチ「SPARKLE TUNNEL with シナモロール」",
+  "url": "https://www.tokyo-dome.co.jp/illumination/highlights/",
+  "period": "2026年11月19日〜2027年2月28日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "東京ドームシティ(セントラルパーク芝生広場・ラクーア)",
+  "reservation": "予約不要(イルミネーションは入場無料)"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "Puroland Illumination Christmas(くまのがっこうコラボ)",
+  "area": "多摩市",
+  "desc": "イルミネーションショー、「くまのがっこう」コラボのスタンプラリー・グッズ、クリスマス衣装のグリーティング、お菓子の家フォトスポット",
+  "url": "https://www.puroland.jp/event-campaign/2026_christmas/",
+  "period": "2026年11月6日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "サンリオピューロランド",
+  "reservation": "ピューロランド入場チケットが必要"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "POMPOMPURIN 30th Anniversary",
+  "area": "多摩市",
+  "desc": "ポムポムプリン30周年。特別展「ポムポムすぎるよ展」、イルミネーション、限定メニュー・グッズ。11/21〜23は多摩中央公園でわんちゃんと楽しむフィナーレイベント",
+  "url": "https://www.puroland.jp/event-campaign/pompompurin30th/",
+  "period": "2026年4月10日〜2026年12月31日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "サンリオピューロランド",
+  "reservation": "ピューロランド入場チケットが必要。スペシャルグリーティング(11/8〜12/19)は有料・事前予約制"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "サンリオピューロランド 35周年",
+  "area": "多摩市",
+  "desc": "開業35周年のアニバーサリーイベント",
+  "url": "https://www.puroland.jp/event-campaign/35th/",
+  "period": "2025年12月5日〜2026年12月31日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "サンリオピューロランド",
+  "reservation": "ピューロランド入場チケットが必要"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "Hotel Floria Tokyo - Sanrio characters Exhibition",
+  "area": "新宿区 歌舞伎町",
+  "desc": "サンリオキャラクターズが考えた“夢のホテル”を巡る没入型展示(韓国発・日本初上陸)。10:00〜20:00",
+  "url": "https://floria-tokyo.jp/",
+  "period": "2026年7月15日〜2027年5月31日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "東急歌舞伎町タワー 4F",
+  "reservation": "日時指定制。一般 平日2,400円/土日祝2,600円"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "スヌーピーミュージアム 企画展「きょうだいって、いいな」",
+  "area": "町田市",
+  "desc": "PEANUTSのきょうだいをテーマにした企画展。併設カフェに企画展メニュー",
+  "url": "https://snoopymuseum.tokyo/s/smt/diary/detail/2440?cd=exhibition&ima=0000",
+  "period": "2026年9月5日〜2027年2月28日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "スヌーピーミュージアム(南町田グランベリーパーク)",
+  "reservation": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "ポケモン レジェンドリサーチ in 日本橋&八重洲",
+  "area": "中央区 日本橋・八重洲",
+  "desc": "100匹以上のポケモンが街に出現。伝説のポケモンを巡る謎解き",
+  "url": "https://mitsui-shopping-park.com/urban/legend-research/",
+  "period": "2026年9月9日〜2026年11月29日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "日本橋・八重洲エリア一帯",
+  "reservation": "街のポケモン展示は自由に見られる。謎解きは有料キット(事前購入の引換券)"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "東京ディズニーシー「ディズニー・クリスマス」",
+  "area": "千葉県 浦安市",
+  "desc": "ミッキーたちとサンタが船で登場するグリーティング、花火「スターブライト・クリスマス」、25周年カラーのツリー、限定グッズ・メニュー",
+  "url": "https://www.tokyodisneyresort.jp/treasure/christmas2026/tds/",
+  "period": "2026年11月11日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "東京ディズニーシー",
+  "reservation": "パークチケット(日付指定)が必要"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "MARUNOUCHI BRIGHT HOLIDAY「ハリー・ポッター」丸の内を彩る魔法の雪",
+  "area": "千代田区 丸の内",
+  "desc": "丸ビルのシンボルツリー「HOGWARTS SNOW TREE」で魔法の雪と音楽のライティングショー。街の装飾、POP UP SHOP、限定商品",
+  "url": "https://www.marunouchi.com/pickup/event/10727/",
+  "period": "2026年11月12日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "丸ビル(1F マルキューブ)・新丸ビル・丸の内オアゾほか",
+  "reservation": "予約不要(参加型コンテンツ等の詳細は10月下旬発表予定)"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "魔法少女まどか☆マギカ POP UP & STAND CAFE",
+  "area": "墨田区 押上",
+  "desc": "限定コラボフードと描き下ろしイラストグッズ",
+  "url": "https://tree-village.jp/news/014485.html",
+  "period": "2026年10月17日〜2026年11月13日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "東京ソラマチ ツリービレッジ東京",
+  "reservation": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "ぷよぷよ×はぴだんぶい POP UP STORE",
+  "area": "千代田区 丸の内",
+  "desc": "ぷよぷよとサンリオ「はぴだんぶい」のコラボグッズ。10:00〜20:30(最終日18:00)",
+  "url": "https://hapi-pop.com/PH/schedule.html",
+  "period": "2026年10月23日〜2026年11月5日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "東京駅一番街 東京キャラクターストリート",
+  "reservation": "入場無料。混雑時は整理券配布の場合あり"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "NARUMIYA CHARACTERS Lovely Stand",
+  "area": "新宿区 新宿",
+  "desc": "ナルミヤキャラクターズ(ミミリーちゃん、ベリエちゃん等)のコラボカフェ。限定フード・ドリンク・グッズ",
+  "url": "https://narumiyacafe.ltr-online.com/",
+  "period": "2026年10月16日〜2026年11月22日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "BOX cafe&space ルミネエスト新宿2号店",
+  "reservation": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "BLEACH 千年血戦篇-禍進譚- THE COLLABORATION CAFE",
+  "area": "渋谷区 宇田川町",
+  "desc": "TVアニメ最終クール放送記念のコラボカフェ。描き下ろしグッズ",
+  "url": "https://cafe.parco.jp/event/BLEACH_cafe_shibuya?area=029438",
+  "period": "2026年9月18日〜2026年11月3日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "渋谷PARCO 6F THE GUEST CAFE BY PARCO",
+  "reservation": "一部日程は事前予約制(LivePocket)。対象外の日も混雑時は店頭で整理券。グッズショップは整理券不要"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "薬屋のひとりごと in SWEETS PARADISE(第3弾)",
+  "area": "渋谷区 神宮前",
+  "desc": "アニメ『薬屋のひとりごと』コラボカフェ第3弾(メニュー・グッズは後日発表)。横浜ビブレ店は2026/11/2〜11/23",
+  "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
+  "period": "2026年10月30日〜2026年11月23日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "スイーツパラダイス SoLaDo原宿店",
+  "reservation": "事前予約はスイパラアプリのみ(5週間前〜前日20時)。コラボメニューはバイキング料金が別途必要"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "アニメ「ハイキュー!!」× and GALLERY Collaboration Cafe",
+  "area": "豊島区 池袋 / 千代田区 有楽町",
+  "desc": "冬の放課後を描いた描き下ろしビジュアルのコラボカフェ。メニュー・グッズ",
+  "url": "https://and-gallery.com/haikyu/",
+  "period": "2026年11月3日〜2026年12月6日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "and GALLERY 池袋店(LABI1 LIFE SELECT池袋7F)・有楽町店(ビックカメラ有楽町店7F)",
+  "reservation": "予約制(予約対象外日あり)"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "『Fate/Grand Order』コラボレーションレストラン「英霊たちの晩餐」",
+  "area": "豊島区 東池袋",
+  "desc": "初のFGOコラボレストラン。描き下ろし正装サーヴァント6騎、前半・後半で延べ62品のメニュー",
+  "url": "https://www.princehotels.co.jp/press/260925_02/",
+  "period": "2026年10月31日〜2026年12月20日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "サンシャインシティプリンスホテル B1「IKEPRI CANVAS」",
+  "reservation": "予約は公式専用ページで受付"
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "アフロ犬×THEキャラCAFE STAND",
+  "area": "文京区 後楽",
+  "desc": "アフロ犬25周年のキッチンカー。限定グッズと購入特典",
+  "url": "https://www.san-x.co.jp/ja/blog/2026-10-post-0158530/",
+  "period": "2026年10月24日〜2026年11月3日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "東京ドームシティ 黄色いビル2階",
+  "reservation": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "『銀河特急 ミルキー☆サブウェイ』コラボレーションカフェ",
+  "area": "豊島区 東池袋",
+  "desc": "アニメ『銀河特急 ミルキー☆サブウェイ』のコラボカフェ。11:00〜20:00",
+  "url": "https://milkysubway.motto-cafe.com/",
+  "period": "2026年12月16日〜2027年2月7日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "会期は運営会社rencontreのプレスリリース(PR TIMES 2026/10/13)で確認。公式サイトは本文を取得できず",
+  "trending": false,
+  "venue": "motto cafe 池袋",
+  "reservation": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "パセラリゾーツ×「バイオハザード」30周年コラボ",
+  "area": "千代田区 秋葉原ほか",
+  "desc": "「バイオハザード」シリーズ30周年記念のコラボメニュー",
+  "url": "https://paselabo.pasela.co.jp/",
+  "period": "2026年10月13日〜2026年12月7日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": false,
+  "venue": "カラオケパセラ 秋葉原電気街店・上野公園前店・新宿靖国通り店・渋谷店・横浜関内店ほか",
+  "reservation": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "僕のヒーローアカデミアカフェ ―WE ARE HERO HOLICS―",
+  "area": "渋谷区 神宮前",
+  "desc": "デクたちヒーローに囲まれたコラボカフェ。来店特典ホログラムステッカー",
+  "url": "https://heroaca.com/news/28602/",
+  "period": "2026年10月16日〜2026年12月20日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "会期は公式発表の全体会期(店舗により異なる)。東京会場の会期は特設サイト(heroaca-cafe.ltr-online.com)で確認を",
+  "trending": false,
+  "venue": "BOX cafe&space キュープラザ原宿3F",
+  "reservation": ""
  }
 ]
