@@ -48,6 +48,7 @@ main{padding:10px 12px 40px;display:grid;gap:10px;grid-template-columns:1fr;max-
 .p .now,.p .soon,.p .end{display:inline-block;white-space:nowrap;color:#fff;font-size:11px;padding:1px 6px;border-radius:6px;margin-left:4px;font-weight:600}
 .p .now{background:#1f9d55}.p .soon{background:#2b6cd4}.p .end{background:#888}
 .c.ended{opacity:.55}
+.rb{display:inline-block;font-size:11px;background:#eef6ff;color:#1565c0;border:1px solid #bbd9f7;padding:0 6px;border-radius:999px;margin-left:4px;white-space:nowrap}
 .bb{display:inline-block;font-size:11px;background:#fff1f6;color:#c2185b;border:1px solid #f6c1d6;padding:0 6px;border-radius:999px;margin-left:4px;white-space:nowrap}
 .v{font-size:12.5px;margin-top:5px;line-height:1.45}
 .f{font-size:11px;color:#999;margin-top:3px;line-height:1.4}
@@ -72,13 +73,14 @@ footer{text-align:center;font-size:11px;color:var(--sub);padding:0 12px 30px;lin
     <button class="chip" id="fNow" aria-pressed="false">🟢 今やっている</button>
     <button class="chip" id="fSoon" aria-pressed="false">🔜 これから</button>
     <button class="chip" id="fBaby" aria-pressed="false">👶 赤ちゃんOK</button>
+    <button class="chip" id="fRain" aria-pressed="false">☔ 雨の日OK</button>
     <button class="chip" id="fEnd" aria-pressed="false">終了も表示</button>
     <button class="chip rand" id="rand">🎲 ランダム</button>
     <span id="cnt" aria-live="polite"></span>
   </div>
 </header>
 <main id="list"></main>
-<footer>「今やっている」「これから」は会期(開始日〜終了日)が年付きで記載されたものだけが対象です。会期が終わったものは自動で非表示になります(「終了も表示」で確認できます)。「👶赤ちゃんOK」は、授乳室・おむつ替え・ベビーカー・乳幼児の入場条件などが公式サイトに書かれているものだけに付けています。会期・営業状況は変わることがあるので、出かける前に公式サイトで確認してください。<br>お気に入りはこの端末のブラウザに保存されます。</footer>
+<footer>「今やっている」「これから」は会期(開始日〜終了日)が年付きで記載されたものだけが対象です。会期が終わったものは自動で非表示になります(「終了も表示」で確認できます)。「👶赤ちゃんOK」は、授乳室・おむつ替え・ベビーカー・乳幼児の入場条件などが公式サイトに書かれているものだけに付けています。「☔雨の日OK」は、主な体験が屋内で完結し雨でも十分楽しめるものだけに付けています(屋外が中心のもの、景色が主役のものは付けていません)。会期・営業状況は変わることがあるので、出かける前に公式サイトで確認してください。<br>お気に入りはこの端末のブラウザに保存されます。</footer>
 <script>
 (function(){
 "use strict";
@@ -102,16 +104,16 @@ function isNow(d,t){t=t||new Date();return !!(d._r&&d._r[0]<=t&&t<=d._r[1]);}
 function isSoon(d,t){t=t||new Date();return !!(d._r&&t<d._r[0]);}
 function isEnded(d,t){t=t||new Date();return !!(d._r&&t>d._r[1]);}
 function daysTo(a,t){var x=new Date(a.getFullYear(),a.getMonth(),a.getDate()),y=new Date(t.getFullYear(),t.getMonth(),t.getDate());return Math.round((x-y)/864e5);}
-var st={g:"話題",q:"",a:"",fav:false,now:false,soon:false,ended:false,baby:false};
+var st={g:"話題",q:"",a:"",fav:false,now:false,soon:false,ended:false,baby:false,rain:false};
 function readHash(){var h=location.hash.replace(/^#/,"");var p=new URLSearchParams(h);
-  var g=p.get("g");st.g=(g&&GENRES.indexOf(g)>=0)?g:"話題";st.q=p.get("q")||"";st.a=p.get("a")||"";st.fav=p.get("fav")==="1";st.now=p.get("now")==="1";st.soon=!st.now&&p.get("soon")==="1";st.ended=p.get("ended")==="1";st.baby=p.get("baby")==="1";}
-function writeHash(){var p=new URLSearchParams();if(st.g!=="話題")p.set("g",st.g);if(st.q)p.set("q",st.q);if(st.a)p.set("a",st.a);if(st.fav)p.set("fav","1");if(st.now)p.set("now","1");if(st.soon)p.set("soon","1");if(st.ended)p.set("ended","1");if(st.baby)p.set("baby","1");
+  var g=p.get("g");st.g=(g&&GENRES.indexOf(g)>=0)?g:"話題";st.q=p.get("q")||"";st.a=p.get("a")||"";st.fav=p.get("fav")==="1";st.now=p.get("now")==="1";st.soon=!st.now&&p.get("soon")==="1";st.ended=p.get("ended")==="1";st.baby=p.get("baby")==="1";st.rain=p.get("rain")==="1";}
+function writeHash(){var p=new URLSearchParams();if(st.g!=="話題")p.set("g",st.g);if(st.q)p.set("q",st.q);if(st.a)p.set("a",st.a);if(st.fav)p.set("fav","1");if(st.now)p.set("now","1");if(st.soon)p.set("soon","1");if(st.ended)p.set("ended","1");if(st.baby)p.set("baby","1");if(st.rain)p.set("rain","1");
   var s=p.toString();var url=location.pathname+location.search+(s?"#"+s:"");if(url!==location.pathname+location.search+location.hash)history.replaceState(null,"",url);}
 var $=function(id){return document.getElementById(id);};
-var tabs=$("tabs"),list=$("list"),q=$("q"),ar=$("ar"),fFav=$("fFav"),fNow=$("fNow"),fSoon=$("fSoon"),fEnd=$("fEnd"),fBaby=$("fBaby"),cnt=$("cnt");
+var tabs=$("tabs"),list=$("list"),q=$("q"),ar=$("ar"),fFav=$("fFav"),fNow=$("fNow"),fSoon=$("fSoon"),fEnd=$("fEnd"),fBaby=$("fBaby"),fRain=$("fRain"),cnt=$("cnt");
 ar.innerHTML='<option value="">全エリア</option>'+Array.from(new Set(D.map(function(d){return pref(d.area);}))).map(function(p){return '<option>'+esc(p)+'</option>';}).join("");
 function base(ignoreGenre){var kw=st.q.trim().toLowerCase(),t=new Date();
-  return D.filter(function(d){return (ignoreGenre||st.g==="すべて"||d.genre===st.g)&&(!st.a||pref(d.area)===st.a)&&(!kw||(d.name+" "+d.desc+" "+d.area+" "+d.period+" "+(d.venue||"")+" "+(d.age||"")+" "+(d.baby||"")).toLowerCase().indexOf(kw)>=0)&&(!st.fav||favs[favKey(d)])&&(!st.now||isNow(d,t))&&(!st.soon||isSoon(d,t))&&(st.ended||!isEnded(d,t))&&(!st.baby||d.baby_ok);});}
+  return D.filter(function(d){return (ignoreGenre||st.g==="すべて"||d.genre===st.g)&&(!st.a||pref(d.area)===st.a)&&(!kw||(d.name+" "+d.desc+" "+d.area+" "+d.period+" "+(d.venue||"")+" "+(d.age||"")+" "+(d.baby||"")).toLowerCase().indexOf(kw)>=0)&&(!st.fav||favs[favKey(d)])&&(!st.now||isNow(d,t))&&(!st.soon||isSoon(d,t))&&(st.ended||!isEnded(d,t))&&(!st.baby||d.baby_ok)&&(!st.rain||d.rain_ok);});}
 function renderTabs(){var all=base(true),c={};all.forEach(function(d){c[d.genre]=(c[d.genre]||0)+1;});
   tabs.innerHTML=GENRES.map(function(g){var k=g==="すべて"?all.length:(c[g]||0);return '<button type="button" data-g="'+esc(g)+'" class="'+(g===st.g?"on":"")+'">'+(g==="話題"?"🔥最新の話題":esc(g))+'<span class="k">'+k+'</span></button>';}).join("");
   var on=tabs.querySelector(".on");if(on&&on.scrollIntoView)on.scrollIntoView({block:"nearest",inline:"nearest"});}
@@ -119,7 +121,7 @@ function mapUrl(d){return "https://www.google.com/maps/search/?api=1&query="+enc
 function card(d,t){var f=!!favs[favKey(d)];
   return '<article class="c'+(d.trending?" t":"")+(isEnded(d,t)?" ended":"")+'" id="s'+d._id+'" data-id="'+d._id+'">'+
   '<button type="button" class="star'+(f?" on":"")+'" data-fav="'+d._id+'" aria-label="お気に入り" aria-pressed="'+f+'">'+(f?"★":"☆")+'</button>'+
-  '<div class="n">'+esc(d.name)+'</div><div class="a">📍'+esc(d.area)+'<span class="g">'+esc(d.genre)+(d.kind?'・'+esc(d.kind):'')+'</span>'+(d.baby_ok?'<span class="bb">👶赤ちゃんOK</span>':'')+'</div>'+
+  '<div class="n">'+esc(d.name)+'</div><div class="a">📍'+esc(d.area)+'<span class="g">'+esc(d.genre)+(d.kind?'・'+esc(d.kind):'')+'</span>'+(d.baby_ok?'<span class="bb">👶赤ちゃんOK</span>':'')+(d.rain_ok?'<span class="rb">☔雨の日OK</span>':'')+'</div>'+
   '<div class="d">'+esc(d.desc)+'</div>'+
   (d.period?'<div class="p">🗓 '+esc(d.period)+(isNow(d,t)?'<span class="now">開催中</span>':isSoon(d,t)?'<span class="soon">これから(あと'+daysTo(d._r[0],t)+'日)</span>':isEnded(d,t)?'<span class="end">終了</span>':'')+'</div>':'')+
   (d.venue?'<div class="v">🏛 '+esc(d.venue)+'</div>':'')+
@@ -134,7 +136,7 @@ var cur=[];
 function render(){cur=base(false);var t=new Date();
   cnt.textContent=cur.length+"件 / 全"+D.length+"件";
   list.innerHTML=cur.length?cur.map(function(d){return card(d,t);}).join(""):'<div class="empty">条件に合うスポットがありません</div>';
-  renderTabs();fFav.setAttribute("aria-pressed",st.fav);fNow.setAttribute("aria-pressed",st.now);fSoon.setAttribute("aria-pressed",st.soon);fEnd.setAttribute("aria-pressed",st.ended);fBaby.setAttribute("aria-pressed",st.baby);
+  renderTabs();fFav.setAttribute("aria-pressed",st.fav);fNow.setAttribute("aria-pressed",st.now);fSoon.setAttribute("aria-pressed",st.soon);fEnd.setAttribute("aria-pressed",st.ended);fBaby.setAttribute("aria-pressed",st.baby);fRain.setAttribute("aria-pressed",st.rain);
   if(q.value!==st.q)q.value=st.q;ar.value=st.a;writeHash();}
 tabs.addEventListener("click",function(e){var b=e.target.closest("button[data-g]");if(!b)return;st.g=b.getAttribute("data-g");render();window.scrollTo(0,0);});
 q.addEventListener("input",function(){st.q=q.value;render();});
@@ -144,6 +146,7 @@ fNow.addEventListener("click",function(){st.now=!st.now;if(st.now)st.soon=false;
 fSoon.addEventListener("click",function(){st.soon=!st.soon;if(st.soon)st.now=false;render();});
 fEnd.addEventListener("click",function(){st.ended=!st.ended;render();});
 fBaby.addEventListener("click",function(){st.baby=!st.baby;render();});
+fRain.addEventListener("click",function(){st.rain=!st.rain;render();});
 list.addEventListener("click",function(e){var b=e.target.closest("button[data-fav]");if(!b)return;var d=D[+b.getAttribute("data-fav")],k=favKey(d);
   if(favs[k])delete favs[k];else favs[k]=1;saveFav();
   if(st.fav){render();return;}var f=!!favs[k];b.classList.toggle("on",f);b.textContent=f?"★":"☆";b.setAttribute("aria-pressed",f);});

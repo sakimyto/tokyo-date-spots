@@ -15,7 +15,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -33,7 +34,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -51,7 +53,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "話題",
@@ -69,7 +72,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -87,7 +91,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -105,7 +110,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "話題",
@@ -123,7 +129,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -141,7 +148,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "話題",
@@ -159,7 +167,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "話題",
@@ -177,7 +186,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -195,7 +205,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -213,7 +224,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -231,7 +243,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -249,7 +262,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "話題",
@@ -267,7 +281,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -285,7 +300,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -303,7 +319,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "話題",
@@ -321,7 +338,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -339,7 +357,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "話題",
@@ -357,7 +376,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "話題",
@@ -375,7 +395,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "話題",
@@ -393,7 +414,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "美術館・博物館",
@@ -411,7 +433,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -429,7 +452,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -447,7 +471,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -465,7 +490,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -483,7 +509,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -501,7 +528,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -519,7 +547,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -537,7 +566,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -555,7 +585,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -573,7 +604,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -591,7 +623,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -609,7 +642,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -627,7 +661,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -645,7 +680,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -663,7 +699,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -681,7 +718,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -699,7 +737,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -717,7 +756,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -735,7 +775,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -753,7 +794,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -771,7 +813,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -789,7 +832,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "美術館・博物館",
@@ -807,7 +851,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -825,25 +870,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
- },
- {
-  "genre": "美術館・博物館",
-  "name": "カップヌードルミュージアム 横浜",
-  "area": "神奈川県 横浜市",
-  "desc": "オリジナルカップ作り",
-  "url": "https://www.cupnoodles-museum.jp/ja/yokohama/",
-  "period": "",
-  "url_status": "ok",
-  "url_note": "",
-  "period_note": "",
-  "trending": false,
-  "venue": "",
-  "reservation": "",
-  "age": "",
-  "baby_ok": false,
-  "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -861,7 +889,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -879,7 +908,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "美術館・博物館",
@@ -897,7 +927,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -915,7 +946,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -933,7 +965,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -951,7 +984,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -969,7 +1003,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -987,7 +1022,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -1005,7 +1041,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "水族館・動物園",
@@ -1023,7 +1060,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "授乳室付きベビー休憩室、ベビーカーのまま回れる(公式)",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "水族館・動物園",
@@ -1041,7 +1079,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "授乳室・おむつ替え・ベビーカー置き場(公式)",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "水族館・動物園",
@@ -1059,7 +1098,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "ベビールーム、館内ベビーカー可(公式)",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "水族館・動物園",
@@ -1077,7 +1117,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "水族館・動物園",
@@ -1095,7 +1136,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "授乳室・おむつ替え、ベビーカーのまま見学可(公式)",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "水族館・動物園",
@@ -1113,7 +1155,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "水族館・動物園",
@@ -1131,7 +1174,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1149,7 +1193,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "水族館・動物園",
@@ -1167,7 +1212,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1185,7 +1231,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "水族館・動物園",
@@ -1203,7 +1250,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "授乳室・おむつ替え・ベビーカー貸出(公式)",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1221,7 +1269,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "授乳室・おむつ交換台・ベビーカー貸出(公式)",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1239,7 +1288,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1257,7 +1307,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1275,7 +1326,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1293,7 +1345,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1311,7 +1364,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1329,7 +1383,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1347,7 +1402,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1365,7 +1421,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -1383,7 +1440,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1401,7 +1459,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1419,7 +1478,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1437,7 +1497,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1455,7 +1516,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1473,7 +1535,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1491,7 +1554,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1509,7 +1573,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1527,7 +1592,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1545,7 +1611,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1563,7 +1630,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1581,7 +1649,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1599,7 +1668,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1617,7 +1687,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1635,7 +1706,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1653,7 +1725,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1671,7 +1744,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1689,7 +1763,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1707,7 +1782,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1725,7 +1801,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1743,7 +1820,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1761,7 +1839,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "プール・スパ・温泉",
@@ -1779,7 +1858,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1797,7 +1877,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1815,7 +1896,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1833,7 +1915,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "2歳以下無料、ベビーセンターあり(公式)",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1851,7 +1934,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1869,7 +1953,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1887,7 +1972,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1905,7 +1991,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1923,7 +2010,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1941,7 +2029,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1959,7 +2048,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1977,7 +2067,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -1995,7 +2086,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -2013,7 +2105,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -2031,7 +2124,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -2049,7 +2143,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -2067,7 +2162,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -2085,7 +2181,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -2103,7 +2200,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -2121,7 +2219,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -2139,7 +2238,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2157,7 +2257,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2175,7 +2276,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2193,7 +2295,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2211,7 +2314,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2229,7 +2333,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2247,7 +2352,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2265,7 +2371,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2283,7 +2390,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2301,7 +2409,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2319,7 +2428,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2337,7 +2447,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2355,7 +2466,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2373,7 +2485,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2391,7 +2504,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2409,7 +2523,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2427,7 +2542,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2445,7 +2561,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2463,7 +2580,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2481,7 +2599,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2499,7 +2618,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2517,7 +2637,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -2535,7 +2656,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2553,7 +2675,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2571,7 +2694,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2589,7 +2713,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2607,7 +2732,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2625,7 +2751,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2643,7 +2770,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2661,7 +2789,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2679,7 +2808,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2697,7 +2827,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2715,7 +2846,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2733,7 +2865,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2751,7 +2884,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2769,7 +2903,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2787,7 +2922,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2805,7 +2941,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2823,7 +2960,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2841,7 +2979,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2859,7 +2998,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2877,7 +3017,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "展望台・夜景",
@@ -2895,7 +3036,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2913,7 +3055,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2931,7 +3074,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2949,7 +3093,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2967,7 +3112,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -2985,7 +3131,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3003,7 +3150,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3021,7 +3169,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3039,7 +3188,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3057,7 +3207,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3075,7 +3226,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3093,7 +3245,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3111,7 +3264,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3129,7 +3283,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3147,7 +3302,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3165,7 +3321,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3183,7 +3340,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3201,7 +3359,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3219,7 +3378,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3237,7 +3397,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3255,7 +3416,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3273,7 +3435,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "映画館・プラネタリウム",
@@ -3291,7 +3454,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3309,7 +3473,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3327,7 +3492,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3345,7 +3511,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3363,7 +3530,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3381,7 +3549,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3399,7 +3568,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3417,7 +3587,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "体験型",
@@ -3435,7 +3606,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "体験型",
@@ -3453,7 +3625,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3471,7 +3644,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3489,7 +3663,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3507,97 +3682,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
- },
- {
-  "genre": "体験型",
-  "name": "JAL SKY MUSEUM(工場見学)",
-  "area": "大田区 羽田",
-  "desc": "格納庫見学+イマーシブシアター",
-  "url": "https://www.jal.co.jp/jp/ja/kengaku/",
-  "period": "",
-  "url_status": "ok",
-  "url_note": "",
-  "period_note": "",
-  "trending": false,
-  "venue": "",
-  "reservation": "",
-  "age": "",
-  "baby_ok": false,
-  "baby": "",
-  "kind": ""
- },
- {
-  "genre": "体験型",
-  "name": "ANA Blue Base(工場見学)",
-  "area": "大田区 羽田",
-  "desc": "ANA訓練施設見学",
-  "url": "https://www.anahd.co.jp/group/tour/ana-blue-base/",
-  "period": "",
-  "url_status": "ok",
-  "url_note": "",
-  "period_note": "",
-  "trending": false,
-  "venue": "",
-  "reservation": "",
-  "age": "",
-  "baby_ok": false,
-  "baby": "",
-  "kind": ""
- },
- {
-  "genre": "体験型",
-  "name": "サントリー〈天然水のビール工場〉東京・武蔵野",
-  "area": "府中市",
-  "desc": "ビール工場見学と試飲",
-  "url": "https://www.suntory.co.jp/factory/musashino/",
-  "period": "",
-  "url_status": "ok",
-  "url_note": "",
-  "period_note": "",
-  "trending": false,
-  "venue": "",
-  "reservation": "",
-  "age": "",
-  "baby_ok": false,
-  "baby": "",
-  "kind": ""
- },
- {
-  "genre": "体験型",
-  "name": "キリンビール横浜工場",
-  "area": "神奈川県 横浜市",
-  "desc": "工場見学と試飲",
-  "url": "https://www.kirin.co.jp/experience/factory/yokohama/",
-  "period": "",
-  "url_status": "ok",
-  "url_note": "",
-  "period_note": "",
-  "trending": false,
-  "venue": "",
-  "reservation": "",
-  "age": "",
-  "baby_ok": false,
-  "baby": "",
-  "kind": ""
- },
- {
-  "genre": "体験型",
-  "name": "アサヒビール 茨城工場",
-  "area": "茨城県 守谷市",
-  "desc": "工場見学",
-  "url": "https://www.asahibeer.co.jp/brewery/ibaraki/",
-  "period": "",
-  "url_status": "ok",
-  "url_note": "",
-  "period_note": "",
-  "trending": false,
-  "venue": "",
-  "reservation": "",
-  "age": "",
-  "baby_ok": false,
-  "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3615,7 +3701,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "体験型",
@@ -3633,10 +3720,11 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
-  "genre": "体験型",
+  "genre": "工場見学・ものづくり",
   "name": "アトリエうかい Cafe & Factory HACHIOJI",
   "area": "八王子市",
   "desc": "お菓子工房見学(無料)とカフェ",
@@ -3651,7 +3739,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3669,7 +3758,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3687,7 +3777,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3705,7 +3796,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3723,7 +3815,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3741,7 +3834,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3759,7 +3853,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3777,7 +3872,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3795,7 +3891,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3813,7 +3910,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3831,7 +3929,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3849,7 +3948,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3867,7 +3967,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3885,7 +3986,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3903,7 +4005,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3921,7 +4024,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3939,7 +4043,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3957,7 +4062,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3975,7 +4081,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -3993,7 +4100,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -4011,7 +4119,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -4029,7 +4138,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -4047,7 +4157,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -4065,7 +4176,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -4083,7 +4195,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "カフェ・食べ歩き",
@@ -4101,7 +4214,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -4119,7 +4233,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4137,7 +4252,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4155,7 +4271,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4173,7 +4290,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4191,7 +4309,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4209,7 +4328,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4227,7 +4347,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -4245,7 +4366,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -4263,7 +4385,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -4281,7 +4404,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4299,7 +4423,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4317,7 +4442,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4335,7 +4461,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4353,7 +4480,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4371,7 +4499,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4389,7 +4518,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -4407,7 +4537,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -4425,7 +4556,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -4443,7 +4575,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4461,7 +4594,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4479,7 +4613,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -4497,7 +4632,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -4515,7 +4651,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "買い物・街歩き",
@@ -4533,7 +4670,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -4551,7 +4689,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4569,7 +4708,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4587,7 +4727,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4605,7 +4746,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4623,7 +4765,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4641,7 +4784,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4659,7 +4803,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4677,7 +4822,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4695,7 +4841,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4713,7 +4860,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4731,7 +4879,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4749,7 +4898,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4767,7 +4917,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4785,7 +4936,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4803,7 +4955,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4821,7 +4974,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4839,7 +4993,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4857,7 +5012,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4875,7 +5031,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4893,7 +5050,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4911,7 +5069,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4929,7 +5088,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -4947,7 +5107,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -4965,7 +5126,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -4983,7 +5145,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5001,7 +5164,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5019,7 +5183,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5037,7 +5202,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5055,7 +5221,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5073,7 +5240,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5091,7 +5259,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5109,7 +5278,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5127,7 +5297,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5145,7 +5316,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5163,7 +5335,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5181,7 +5354,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5199,7 +5373,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5217,7 +5392,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5235,7 +5411,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5253,7 +5430,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5271,7 +5449,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5289,7 +5468,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5307,7 +5487,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "アウトドア",
@@ -5325,7 +5506,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5343,7 +5525,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5361,7 +5544,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5379,7 +5563,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5397,7 +5582,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5415,7 +5601,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5433,7 +5620,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5451,7 +5639,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5469,7 +5658,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5487,7 +5677,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5505,7 +5696,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5523,7 +5715,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5541,7 +5734,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5559,7 +5753,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5577,7 +5772,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5595,7 +5791,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5613,7 +5810,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5631,7 +5829,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5649,7 +5848,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5667,7 +5867,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5685,7 +5886,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5703,7 +5905,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5721,7 +5924,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "スポーツ観戦・ライブ",
@@ -5739,7 +5943,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "季節イベント",
@@ -5757,7 +5962,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5775,7 +5981,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5793,7 +6000,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5811,7 +6019,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5829,7 +6038,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5847,7 +6057,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5865,7 +6076,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5883,7 +6095,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5901,7 +6114,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5919,7 +6133,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5937,7 +6152,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5955,7 +6171,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5973,7 +6190,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -5991,7 +6209,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6009,7 +6228,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6027,7 +6247,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6045,7 +6266,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6063,7 +6285,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6081,7 +6304,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6099,7 +6323,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6117,7 +6342,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6135,7 +6361,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6153,7 +6380,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6171,7 +6399,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6189,7 +6418,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6207,7 +6437,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6225,7 +6456,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6243,7 +6475,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6261,7 +6494,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6279,7 +6513,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6297,7 +6532,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6315,7 +6551,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6333,7 +6570,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6351,7 +6589,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6369,7 +6608,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6387,7 +6627,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6405,7 +6646,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -6423,7 +6665,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6441,7 +6684,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6459,7 +6703,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6477,7 +6722,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6495,7 +6741,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6513,7 +6760,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6531,7 +6779,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6549,7 +6798,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "2歳以下無料、ベビーセンターあり(公式)",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6567,7 +6817,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "2歳以下無料、ベビーセンターあり(公式)",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6585,7 +6836,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "2歳以下無料、ベビーセンターあり(公式)",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6603,7 +6855,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6621,7 +6874,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6639,7 +6893,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6657,7 +6912,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6675,7 +6931,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6693,7 +6950,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6711,7 +6969,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6729,7 +6988,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6747,7 +7007,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6765,7 +7026,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6783,7 +7045,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6801,7 +7064,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6819,7 +7083,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6837,7 +7102,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6855,7 +7121,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6873,7 +7140,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6891,7 +7159,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6909,7 +7178,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6927,7 +7197,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6945,7 +7216,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -6963,7 +7235,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -6981,7 +7254,8 @@
   "age": "0歳から入場可。3歳未満は保護者のひざ上ならチケット不要(保護者1名につき1名まで)",
   "baby": "授乳室・オムツ替えスペースあり(授乳室にお湯はなし)、各会場にベビーカー置き場あり(2026公演FAQ)",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -6999,7 +7273,8 @@
   "age": "未就学児可(0歳〜)",
   "baby": "",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7017,7 +7292,8 @@
   "age": "0〜3歳児と保護者(親子席1,000円)",
   "baby": "授乳室・おむつ替えスペースあり",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7035,7 +7311,8 @@
   "age": "0歳から。こども(0歳〜小学生)500円",
   "baby": "シート席、おむつ替え・授乳コーナー、ベビーカー置き場あり",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7053,7 +7330,8 @@
   "age": "0才〜。小さな子どもも1名1枚チケットが必要(こども1,000円)",
   "baby": "授乳室、おむつ交換室、ベビーカー置場あり",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7071,7 +7349,8 @@
   "age": "0歳から",
   "baby": "",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7089,7 +7368,8 @@
   "age": "0〜3歳児と保護者",
   "baby": "授乳室・ベビーシートあり、ベビーカー貸出あり(来館案内)",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7107,7 +7387,8 @@
   "age": "ツアーはベビーカーに乗る年齢・月齢の赤ちゃんとその家族",
   "baby": "当日15時まで本館もベビーカーで入館可",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7125,7 +7406,8 @@
   "age": "ハイハイができる未歩行の赤ちゃん(0〜1歳頃)",
   "baby": "",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7143,7 +7425,8 @@
   "age": "",
   "baby": "",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7161,7 +7444,8 @@
   "age": "コンサートは0歳から、オーナメント作りは生後3か月から",
   "baby": "会場内に特設の授乳室・おむつ替え室、各フロアにベビーカー置き場あり",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7179,7 +7463,8 @@
   "age": "",
   "baby": "会場内に授乳室・おむつ交換台はなし(東京ドームシティのベビールームを利用)。混雑する午前はベビーカー入場を断る場合あり",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7197,7 +7482,8 @@
   "age": "ミュージアムは1歳以上が有料(0歳は無料)",
   "baby": "1F・3Fに授乳室・おむつ交換台。ミュージアム内はベビーカー不可(2Fに置き場)",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7215,7 +7501,8 @@
   "age": "未就学児は入場無料",
   "baby": "ベビーカーのまま入場可(展示室入口に置き場)、授乳室・おむつ替え室あり(PLAY! FAQ)",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7233,7 +7520,8 @@
   "age": "赤ちゃん木育ひろばは2歳以下限定(3歳以上は入室不可)。6ヶ月未満は入館無料",
   "baby": "授乳室は木育ひろば内、おむつ替えコーナーあり。ベビーカーは建物入口に畳んで置く(館内は抱っこ)",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7251,7 +7539,8 @@
   "age": "ミュージアムは1歳以上が有料(2,200〜2,800円)、0歳は無料",
   "baby": "1F・3Fに授乳室・おむつ交換台。ミュージアム内はベビーカー不可(2Fに置き場)",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7269,7 +7558,8 @@
   "age": "ハイハイガーデンは0〜24ヶ月。5ヶ月以下は入場無料",
   "baby": "ベビールーム(オムツ交換台・授乳室・給湯)あり。ベビーカー置き場あり(折りたたんで置く)",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7287,7 +7577,8 @@
   "age": "ベビーガーデンは6ヶ月〜18ヶ月。6カ月以上は1人1枚の料金が必要(FAQ)",
   "baby": "場内に授乳室・オムツ替え室、ベビーカー置き場あり",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7305,7 +7596,8 @@
   "age": "3歳未満の親子専用エリアあり。料金表は1歳から(1〜2歳 平日1,700円)",
   "baby": "授乳室あり(PLAY!の案内)",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7323,7 +7615,8 @@
   "age": "18歳以下は入館無料",
   "baby": "全館バリアフリー。こどものへやに授乳室、全トイレにベビーキープ・ベビーシート、ベビーカー貸出あり",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7341,7 +7634,8 @@
   "age": "すくすくアイランドは0〜3歳用遊具",
   "baby": "授乳室4か所(オムツ換えシート・給湯器)、A型ベビーカー貸出(生後1か月〜)",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": false
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7359,7 +7653,8 @@
   "age": "幼児は3歳まで入園無料(4歳以上100円)",
   "baby": "授乳室(子ども美術館ほか)、おむつ交換台あり。ベビーカー持込可・B型貸出(腰の座った3歳以下)",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": false
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7377,7 +7672,8 @@
   "age": "",
   "baby": "授乳室付きベビー休憩室2か所(給湯)。スロープ・エレベーターでベビーカーのまま回れる",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7395,7 +7691,8 @@
   "age": "",
   "baby": "授乳室(調乳用温水器)、トイレにおむつ替えシート。ベビーカーのまま見学可(エレベーター・スロープ)",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7413,7 +7710,8 @@
   "age": "",
   "baby": "授乳室(給湯・電子レンジ、女性のみ)、おむつ替え6か所、ベビーカー置き場3か所",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7431,7 +7729,8 @@
   "age": "",
   "baby": "本館2階ベビールーム(オムツ替え・授乳個室・お湯)。館内はベビーカー可(混雑時は置き場推奨)。サンシャインシティでベビーカー貸出",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7449,7 +7748,8 @@
   "age": "ベビーカー貸出は生後7ヵ月〜4歳くらい",
   "baby": "授乳室あり(授乳用チェア・お湯)、おむつ替えベビーベッドあり、B型ベビーカー貸出(1日500円)",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": false
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7467,7 +7767,8 @@
   "age": "ベビーカー貸出は生後7ヵ月〜4歳児くらい",
   "baby": "授乳室4か所(一部に調乳用温水器)、おむつ交換台あり、B型ベビーカー貸出(1日500円)",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": false
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7485,7 +7786,8 @@
   "age": "2歳以下は入場無料",
   "baby": "ベビーセンター(ファミリー授乳室・授乳室・オムツ交換台・調乳キッチン・離乳食スペース)。ベビーセンター内はベビーカー持込不可",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7503,7 +7805,8 @@
   "age": "新生児〜小学校就学前",
   "baby": "",
   "baby_ok": true,
-  "kind": "常設"
+  "kind": "常設",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7521,7 +7824,8 @@
   "age": "どなたでも(0才から)。子ども(0才〜小学生)300円",
   "baby": "シート席あり、おむつ替え・授乳スペース、ベビーカー置場あり",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -7539,7 +7843,8 @@
   "age": "0歳児から",
   "baby": "",
   "baby_ok": true,
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "季節イベント",
@@ -7557,7 +7862,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7575,7 +7881,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7593,7 +7900,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7611,7 +7919,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7629,7 +7938,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7647,7 +7957,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7665,7 +7976,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7683,7 +7995,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7701,7 +8014,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7719,7 +8033,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7737,7 +8052,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7755,7 +8071,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7773,7 +8090,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7791,7 +8109,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "季節イベント",
@@ -7809,7 +8128,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7827,7 +8147,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7845,7 +8166,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7863,7 +8185,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7881,7 +8204,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "季節イベント",
@@ -7899,7 +8223,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7917,7 +8242,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7935,7 +8261,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7953,7 +8280,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "季節イベント",
@@ -7971,7 +8299,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "美術館・博物館",
@@ -7989,7 +8318,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8007,7 +8337,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8025,7 +8356,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8043,7 +8375,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8061,7 +8394,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8079,7 +8413,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8097,7 +8432,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8115,7 +8451,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": false
  },
  {
   "genre": "美術館・博物館",
@@ -8133,7 +8470,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8151,7 +8489,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8169,7 +8508,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8187,7 +8527,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8205,7 +8546,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8223,7 +8565,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8241,7 +8584,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8259,7 +8603,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8277,7 +8622,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8295,7 +8641,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8313,7 +8660,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8331,7 +8679,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8349,7 +8698,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8367,7 +8717,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8385,7 +8736,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8403,7 +8755,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8421,7 +8774,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8439,7 +8793,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8457,7 +8812,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8475,7 +8831,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8493,7 +8850,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8511,7 +8869,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8529,7 +8888,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8547,7 +8907,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8565,7 +8926,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8583,7 +8945,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8601,7 +8964,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8619,7 +8983,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8637,7 +9002,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8655,7 +9021,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8673,7 +9040,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -8691,7 +9059,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -8709,7 +9078,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -8727,7 +9097,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": false
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -8745,7 +9116,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -8763,7 +9135,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -8781,7 +9154,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -8799,7 +9173,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -8817,7 +9192,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -8835,7 +9211,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -8853,25 +9230,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
- },
- {
-  "genre": "体験型",
-  "name": "鉄道博物館",
-  "area": "埼玉県 さいたま市",
-  "desc": "実物車両の展示や運転シミュレータ",
-  "url": "https://www.railway-museum.jp/",
-  "period": "",
-  "url_status": "ok",
-  "url_note": "",
-  "period_note": "",
-  "trending": false,
-  "venue": "",
-  "reservation": "",
-  "age": "",
-  "baby_ok": false,
-  "baby": "",
-  "kind": ""
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -8889,7 +9249,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "日帰り旅",
@@ -8907,7 +9268,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -8925,7 +9287,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -8943,7 +9306,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -8961,7 +9325,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -8979,7 +9344,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -8997,7 +9363,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "日帰り旅",
@@ -9015,7 +9382,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -9033,7 +9401,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "公園・庭園・花畑",
@@ -9051,7 +9420,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "水族館・動物園",
@@ -9069,7 +9439,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -9087,7 +9458,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "テーマパーク・遊園地",
@@ -9105,7 +9477,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -9123,7 +9496,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -9141,7 +9515,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -9159,7 +9534,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "キャラクター・コラボイベント",
@@ -9177,7 +9553,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -9195,7 +9572,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": true
  },
  {
   "genre": "買い物・街歩き",
@@ -9213,7 +9591,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": ""
+  "kind": "",
+  "rain_ok": false
  },
  {
   "genre": "赤ちゃん・親子",
@@ -9231,7 +9610,8 @@
   "age": "0歳から",
   "baby_ok": true,
   "baby": "授乳室・ベビーカー入館可(館内案内参照)",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -9249,7 +9629,8 @@
   "age": "",
   "baby_ok": true,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -9267,7 +9648,8 @@
   "age": "0歳〜3歳くらい",
   "baby_ok": true,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -9285,7 +9667,8 @@
   "age": "乳幼児から",
   "baby_ok": true,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -9303,7 +9686,8 @@
   "age": "0歳から",
   "baby_ok": true,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "赤ちゃん・親子",
@@ -9321,7 +9705,8 @@
   "age": "乳幼児から",
   "baby_ok": true,
   "baby": "",
-  "kind": "イベント"
+  "kind": "イベント",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -9339,7 +9724,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -9357,7 +9743,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -9375,7 +9762,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -9393,7 +9781,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "美術館・博物館",
@@ -9411,7 +9800,8 @@
   "age": "",
   "baby_ok": false,
   "baby": "",
-  "kind": "企画展"
+  "kind": "企画展",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9429,7 +9819,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9447,7 +9838,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9465,7 +9857,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9483,7 +9876,8 @@
   "trending": false,
   "baby_ok": true,
   "baby": "個室あり(別途個室料・公式)",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9501,7 +9895,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9519,7 +9914,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9537,7 +9933,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9555,7 +9952,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9573,7 +9971,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9591,7 +9990,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9609,7 +10009,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9627,7 +10028,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9645,7 +10047,8 @@
   "trending": false,
   "baby_ok": true,
   "baby": "離乳食(5か月〜)・キッズメニュー・お子さま用食器あり(公式)",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9663,7 +10066,8 @@
   "trending": true,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9681,7 +10085,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9699,7 +10104,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9717,7 +10123,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9735,7 +10142,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9753,7 +10161,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9771,7 +10180,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9789,7 +10199,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9807,7 +10218,8 @@
   "trending": true,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9825,7 +10237,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9843,7 +10256,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9861,7 +10275,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9879,7 +10294,8 @@
   "trending": true,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9897,7 +10313,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9915,7 +10332,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9933,7 +10351,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9951,7 +10370,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9969,7 +10389,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -9987,7 +10408,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10005,7 +10427,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10023,7 +10446,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10041,7 +10465,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10059,7 +10484,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10077,7 +10503,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10095,7 +10522,8 @@
   "trending": true,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10113,7 +10541,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10131,7 +10560,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10149,7 +10579,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10167,7 +10598,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10185,7 +10617,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10203,7 +10636,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10221,7 +10655,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10239,7 +10674,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10257,7 +10693,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10275,7 +10712,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10293,7 +10731,8 @@
   "trending": false,
   "baby_ok": true,
   "baby": "段差のない店内でベビーカー可・お子様用椅子あり(公式)",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10311,7 +10750,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10329,7 +10769,8 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
  },
  {
   "genre": "ビュッフェ・食べ放題",
@@ -10347,6 +10788,3617 @@
   "trending": false,
   "baby_ok": false,
   "baby": "",
-  "age": ""
+  "age": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "テーマパーク・遊園地",
+  "kind": "",
+  "name": "スモールワールズTOKYO",
+  "area": "江東区 有明",
+  "venue": "有明物流センター(江東区有明1-3-33)・ゆりかもめ 有明テニスの森駅 徒歩3分",
+  "desc": "アジア最大級のミニチュアミュージアム。屋内で精巧なミニチュアの世界を巡る(ロケット打ち上げ演出も)。9:00〜19:00(最終入場18:00)、大人3,200円・4〜11歳1,700円・3歳以下無料",
+  "url": "https://smallworlds.jp/",
+  "period": "",
+  "period_note": "営業日・時間は公式カレンダーで要確認",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "体験型",
+  "kind": "",
+  "name": "京王れーるランド",
+  "area": "日野市 程久保",
+  "venue": "日野市程久保3-36-39",
+  "desc": "京王電鉄の鉄道テーマパーク。運転体験・ジオラマ・アスレチックコーナー。9:30〜17:30(最終入館17:00)、400円(1歳以上)。車両展示場など屋外部分もあり",
+  "url": "https://www.keio-rail-land.jp/",
+  "period": "",
+  "period_note": "営業カレンダーは公式で要確認",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "体験型",
+  "kind": "",
+  "name": "京急ミュージアム",
+  "area": "神奈川県 横浜市西区",
+  "venue": "京急グループ本社1階(横浜市西区高島1-2-8)・横浜駅東口 徒歩約7分",
+  "desc": "長さ約12mの京急ラインジオラマ(HOゲージ・運転台で操作体験100円)、歴史的名車デハ230形の展示、運転シミュレーター(要予約)。入館無料、10:00〜16:30、火曜休館",
+  "url": "https://www.keikyu.co.jp/museum/",
+  "period": "",
+  "period_note": "開館日カレンダーは公式で要確認",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "美術館・博物館",
+  "kind": "",
+  "name": "東武博物館",
+  "area": "墨田区 東向島",
+  "venue": "墨田区東向島4-28-16",
+  "desc": "横14m×奥行7mの大パノラマに約130両のHOゲージ模型電車が走る約13分のパノラマショー(1日5回)。運転体験100円。10:00〜16:30(入館16:00まで)、月曜休館、大人200円",
+  "url": "https://www.tobu.co.jp/museum/",
+  "period": "",
+  "period_note": "",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "体験型",
+  "kind": "",
+  "name": "ホビーセンターカトー東京",
+  "area": "新宿区 西落合",
+  "venue": "KATO社屋ビル1・2階(新宿区西落合1-24-10)",
+  "desc": "鉄道模型メーカーKATOの直営店。展示・販売・イベント・ワークショップ。平日11:00〜20:00、土日祝10:00〜19:00、年末年始のみ休み",
+  "url": "https://www.hobbycenterkato.com/tokyo",
+  "period": "",
+  "period_note": "",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "体験型",
+  "kind": "",
+  "name": "Vehicle Miniature Gallery JAPAN",
+  "area": "神奈川県 横浜市南区",
+  "venue": "横浜市南区中島町4-81-6 内田ビル102・横浜市営地下鉄 弘明寺駅 徒歩2分",
+  "desc": "鉄道ジオラマを観覧・体験できる小さな鉄道ジオラマ博物館。入館料500円(3歳以下無料・現金のみ)",
+  "url": "https://sites.google.com/view/vmgjapan",
+  "period": "",
+  "period_note": "2026年10月から開館日が変則的(土日祝中心)。公式カレンダーで要確認",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "体験型",
+  "kind": "",
+  "name": "ポポンデッタ with 東武鉄道ギャラリー",
+  "area": "台東区 花川戸",
+  "venue": "東武浅草駅直上 浅草エキミセ5F(台東区花川戸1-4-1)",
+  "desc": "Nゲージ専門店。レンタルレイアウトで自分の車両を走らせられる(60分 平日700円/土日祝1,000円)。東武鉄道の史料・歴代車両ギャラリーも。10:00〜20:00(施設の開館時間に準じる)",
+  "url": "https://popondetta.com/asakusa/index.html",
+  "period": "",
+  "period_note": "レンタルレイアウトは2週間前から電話予約可",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "美術館・博物館",
+  "kind": "企画展",
+  "name": "ミニチュア写真の世界展 in 小田急百貨店新宿店",
+  "area": "新宿区 西新宿",
+  "venue": "小田急百貨店新宿店7階イベントスペース(西新宿1-5-1)",
+  "desc": "精巧なミニチュア作品の合同作品展&物販展(特別展示・限定グッズ)。10:00〜20:00(最終日17時閉場)、入場800円",
+  "url": "https://tgs.jp.net/event/miniature-odakyu-shinjuku/",
+  "period": "2026年10月21日〜2026年11月2日",
+  "period_note": "",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "美術館・博物館",
+  "kind": "企画展",
+  "name": "ミニチュアベーカリーの世界展 2026",
+  "area": "台東区 浅草橋",
+  "venue": "TODAYS GALLERY STUDIO.(台東区浅草橋5-27-6 5F)",
+  "desc": "“小さなパン屋さん”のミニチュア作品の合同展&物販展(ワークショップ・限定グッズ)。平日・日曜11:00〜17:00/土曜・祝日11:00〜18:00、月・火休(11/3・11/23は開館)、入場800円(3歳以下無料)",
+  "url": "https://tgs.jp.net/event/miniature-bakery/",
+  "period": "2026年10月23日〜2026年11月23日",
+  "period_note": "",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "美術館・博物館",
+  "kind": "企画展",
+  "name": "ミニチュアビストロの世界展 in ららぽーと立川立飛",
+  "area": "立川市 泉町",
+  "venue": "ららぽーと立川立飛 3Fららぽーとホール(立川市泉町935-1)",
+  "desc": "48組のクリエイターによる“小さな食の世界”のミニチュア合同作品展&物販展(特別展示・限定グッズ・ワークショップ)。入場500円(3歳以下無料)",
+  "url": "https://tgs.jp.net/event/miniature-bistro-lalaport/",
+  "period": "2026年10月27日〜2026年11月3日",
+  "period_note": "館の営業時間は平日・日曜・祝日10:00〜20:00/土曜10:00〜21:00(最終日は17時まで)",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "美術館・博物館",
+  "kind": "企画展",
+  "name": "装甲騎兵ボトムズ総合模型演習2026",
+  "area": "足立区 千住",
+  "venue": "北千住マルイ 7F「1010 PARK」(足立区千住3-92)",
+  "desc": "サンライズ公式のボトムズ ジオラマ展。今年は「クメン」がテーマ、モデラーのジオラマ作品・限定グッズ・レジンキット販売。10:00〜19:00(最終入場18:30)",
+  "url": "https://www.votoms.net/event/vme2026/",
+  "period": "2026年10月9日〜2026年11月8日",
+  "period_note": "開場時間は期間中変更の場合あり",
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "映画『ゴジラ-0.0』",
+  "area": "東京都 都内・関東の劇場",
+  "desc": "『ゴジラ-0.0』。11月3日(火・祝)公開(公式サイト表記)。上映館は公式サイトのTHEATERで確認",
+  "url": "https://godzilla-minuszero.toho-movie.jp/",
+  "rain_ok": true,
+  "period": "2026年11月3日公開",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "公開日のみで終了日なし",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "映画『ひつじのショーン かぼちゃ畑の怪物!』",
+  "area": "東京都 都内・関東の劇場",
+  "desc": "2026年10月23日劇場公開(公式サイト表記)。家族向けアニメ",
+  "url": "https://movies.shochiku.co.jp/shaun-kabocha/",
+  "rain_ok": true,
+  "period": "2026年10月23日公開",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "公開日のみで終了日なし",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "劇場版 前橋ウィッチーズ ～魔女見習いのエモエモリーズ～",
+  "area": "東京都 都内・関東の劇場",
+  "desc": "2026年10月23日(金)公開。応援上映の実施が公式ニュースで告知(日程は公式で確認)",
+  "url": "https://www.maebashi-witches.com/",
+  "rain_ok": true,
+  "period": "2026年10月23日公開",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "公開日のみで終了日なし",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "映画『負けへんで』",
+  "area": "東京都 都内・関東の劇場",
+  "desc": "11.13 Fri ROADSHOW(公式サイト表記)。内野聖陽・松本若菜・北村一輝出演",
+  "url": "https://gaga.ne.jp/makehende/",
+  "rain_ok": true,
+  "period": "2026年11月13日公開",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "公開日のみで終了日なし",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "映画『装甲騎兵ボトムズ 灰色の魔女』",
+  "area": "東京都 都内・関東の劇場",
+  "desc": "2026年11月20日劇場公開(公式サイト表記)",
+  "url": "https://votoms-gh.com/",
+  "rain_ok": true,
+  "period": "2026年11月20日公開",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "公開日のみで終了日なし",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "映画『魔法使いの夜』",
+  "area": "東京都 都内・関東の劇場",
+  "desc": "11.20(fri)劇場公開(公式サイト表記)",
+  "url": "https://mahoyo-movie.com/",
+  "rain_ok": true,
+  "period": "2026年11月20日公開",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "公開日のみで終了日なし",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "映画『ワンダンス』",
+  "area": "東京都 都内・関東の劇場",
+  "desc": "11.27 Fri 公開(公式サイト表記)。ムビチケ特典あり",
+  "url": "https://happinet-phantom.com/wandance/",
+  "rain_ok": true,
+  "period": "2026年11月27日公開",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "公開日のみで終了日なし",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "Vシネクスト『仮面ライダーカブト20th 天を継ぐもの』",
+  "area": "新宿区 歌舞伎町",
+  "desc": "新宿バルト9ほかで期間限定上映(公式サイト表記)",
+  "url": "https://www.toei-video.co.jp/vcinext-kabuto/",
+  "rain_ok": true,
+  "period": "2026年11月6日より期間限定上映",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "開始日のみ・終了日は公式で確認",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "映画『デューン 砂の惑星 PART3』(IMAX/Dolby Cinema/4DX/MX4D)",
+  "area": "東京都 都内・関東の劇場",
+  "desc": "2026年12月18日(金)日米同時公開。IMAX・Dolby Cinema・4DX・MX4Dでの上映が公式ニュースで告知",
+  "url": "https://dune-movie-3.jp/",
+  "rain_ok": true,
+  "period": "2026年12月18日公開",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "公開日は公式サイト由来(検索要約で確認)・上映館は公式で確認",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "第27回 東京フィルメックス 2026",
+  "area": "千代田区 有楽町",
+  "desc": "アジアの新しい才能を紹介する映画祭。会場は有楽町朝日ホール/丸の内ピカデリー/ヒューマントラストシネマ有楽町",
+  "url": "https://filmex.jp/2026/",
+  "rain_ok": true,
+  "period": "2026年11月20日〜2026年11月29日",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "新宿武蔵野館",
+  "area": "新宿区 新宿",
+  "desc": "新宿3丁目の映画館(ミニシアター系の上映)。上映作品・時間は公式で確認",
+  "url": "https://qualite.musashino-k.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "新宿区新宿3-27-10 武蔵野ビル3F",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "キネカ大森",
+  "area": "品川区 南大井",
+  "desc": "大森駅前の映画館(西友大森店内)。上映作品は公式で確認",
+  "url": "https://ttcg.jp/cineka_omori/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "品川区南大井6-27-25 西友大森店 5F",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "映画館・プラネタリウム",
+  "name": "国立映画アーカイブ",
+  "area": "中央区 京橋",
+  "desc": "国立の映画アーカイブ。上映プログラム(特集上映)を公式で公開",
+  "url": "https://www.nfaj.go.jp/film-program/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "中央区京橋3-7-6",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "リアル脱出ゲーム渋谷店(SCRAP)",
+  "area": "渋谷区 渋谷",
+  "desc": "SCRAPの常設店。『きさらぎ駅からの脱出』ほか屋内の脱出ゲームを随時開催(60〜90分・一般前売3,000円〜の作品あり)",
+  "url": "https://realdgame.jp/shop/shibuya/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "日時指定の予約制(公式で確認)",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "ダークエスケープ 新宿歌舞伎町店",
+  "area": "新宿区 歌舞伎町",
+  "desc": "ホラー・暗い演出の脱出ゲーム(公式の店舗一覧は新宿歌舞伎町・横浜中華街・東銀座)。屋内",
+  "url": "https://www.darkescape.jp/services/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "新宿区歌舞伎町2-46-8",
+  "reservation": "テーマ予約制(公式で確認)",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "魔王の日曜日 新宿三丁目店(イマーシブ脱出ゲーム)",
+  "area": "新宿区 新宿",
+  "desc": "ゴシックな世界観の没入型謎解き・脱出ゲーム(店舗一覧に新宿三丁目店あり)",
+  "url": "https://imgame.jp/stores/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "予約制(公式で確認)",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "謎解きカフェ はてな珈琲店 東京銀座店",
+  "area": "中央区 銀座",
+  "desc": "カフェで謎解きに挑戦(東京は銀座・新宿・池袋に店舗)。公式に料金システムと予約ページあり",
+  "url": "https://hatenacoffee.experiful.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "中央区銀座1-14-14",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "NoEscape リアル体験脱出ゲーム(新宿・池袋)",
+  "area": "豊島区 池袋",
+  "desc": "池袋・新宿に店舗がある脱出ゲーム専門店(50分の脱出ゲームなど)",
+  "url": "https://noescape.co.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "新宿店・池袋店(詳細は公式)",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "ナゾトキ街歩きゲーム『東京謎解きトラベル』(都営地下鉄沿線)",
+  "area": "東京都 都営地下鉄沿線",
+  "desc": "都営地下鉄沿線を巡る街歩き謎解き。累計動員2万人突破で2026年11月30日(月)まで期間延長。所要5〜6時間・キット2,500円",
+  "url": "https://www.scrapmagazine.com/news/toeinazo260911/",
+  "rain_ok": false,
+  "period": "2026年11月30日まで",
+  "venue": "",
+  "reservation": "謎解きキット購入(2,500円)",
+  "kind": "イベント",
+  "period_note": "終了が近い(11/30まで)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "浅草演芸ホール",
+  "area": "台東区 浅草",
+  "desc": "落語・漫才などが楽しめる寄席の定席",
+  "url": "https://www.asakusaengei.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "新宿末廣亭",
+  "area": "新宿区 新宿",
+  "desc": "新宿三丁目の寄席。落語の定席",
+  "url": "https://suehirotei.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "新宿区新宿3-6-12",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "鈴本演芸場",
+  "area": "台東区 上野",
+  "desc": "上野の寄席。落語の定席",
+  "url": "https://rakugo.or.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "ミュージカル『ラ・カージュ・オ・フォール』(日生劇場)",
+  "area": "千代田区 有楽町",
+  "desc": "初のWキャスト(鹿賀丈史/佐藤隆紀、市村正親/石丸幹二ほか)の再演。2026年12月9日〜29日、会場は日生劇場",
+  "url": "https://horipro-stage.jp/special/lacage20260317/",
+  "rain_ok": true,
+  "period": "2026年12月9日〜2026年12月29日",
+  "venue": "日生劇場",
+  "reservation": "チケットは今秋一般発売予定(公式の告知)",
+  "kind": "イベント",
+  "period_note": "一般発売日は公式で確認",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "日生劇場",
+  "area": "千代田区 有楽町",
+  "desc": "日比谷の劇場。公演ラインナップは公式で確認",
+  "url": "https://www.nissaytheatre.or.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "歌舞伎座(歌舞伎美人で公演案内)",
+  "area": "中央区 銀座",
+  "desc": "歌舞伎の公演案内・チケットは公式「歌舞伎美人」で確認",
+  "url": "https://www.kabuki-bito.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "明治座",
+  "area": "中央区 日本橋浜町",
+  "desc": "劇場。公演ラインナップは公式で確認",
+  "url": "https://www.meijiza.co.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "新国立劇場",
+  "area": "渋谷区 本町",
+  "desc": "オペラ・バレエ・演劇の劇場。公演は公式で確認",
+  "url": "https://www.nntt.jac.go.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "東京オペラシティ コンサートホール",
+  "area": "新宿区 西新宿",
+  "desc": "コンサートホール。公演カレンダーは公式で確認",
+  "url": "https://www.operacity.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "新宿区西新宿3-20-2",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "すみだトリフォニーホール",
+  "area": "墨田区 錦糸",
+  "desc": "コンサートホール。公演は公式で確認",
+  "url": "https://www.triphony.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "墨田区錦糸1-2-3",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "ミューザ川崎シンフォニーホール",
+  "area": "神奈川県 川崎市",
+  "desc": "コンサートホール(川崎駅前)。公演は公式で確認",
+  "url": "https://www.kawasaki-sym-hall.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "川崎市幸区大宮町1310",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "NHKホール",
+  "area": "渋谷区 神南",
+  "desc": "ホール。公演・番組観覧は公式で確認",
+  "url": "https://www.nhk.or.jp/nhkhall/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "LIQUIDROOM",
+  "area": "渋谷区 東",
+  "desc": "ライブハウス。公演スケジュールは公式で確認",
+  "url": "https://www.liquidroom.net/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "アルバルク東京(Bリーグ)",
+  "area": "東京都",
+  "desc": "Bリーグのバスケットボールクラブ。試合日程は公式で確認",
+  "url": "https://www.alvark-tokyo.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "会場・日程は公式で確認",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "川崎ブレイブサンダース(Bリーグ)",
+  "area": "神奈川県 川崎市",
+  "desc": "Bリーグのバスケットボールクラブ。試合日程は公式で確認",
+  "url": "https://www.kawasaki-bravethunders.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "横浜ビー・コルセアーズ(Bリーグ)",
+  "area": "神奈川県 横浜市",
+  "desc": "Bリーグのバスケットボールクラブ。試合日程は公式で確認",
+  "url": "https://b-corsairs.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "千葉ジェッツ(Bリーグ)",
+  "area": "千葉県",
+  "desc": "Bリーグのバスケットボールクラブ。試合日程は公式で確認",
+  "url": "https://chibajets.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "FC東京(Jリーグ)",
+  "area": "東京都",
+  "desc": "Jリーグのサッカークラブ。試合日程は公式で確認",
+  "url": "https://www.fctokyo.co.jp/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "川崎フロンターレ(Jリーグ)",
+  "area": "神奈川県 川崎市",
+  "desc": "Jリーグのサッカークラブ。試合日程は公式で確認",
+  "url": "https://www.frontale.co.jp/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "横浜F・マリノス(Jリーグ)",
+  "area": "神奈川県 横浜市",
+  "desc": "Jリーグのサッカークラブ。試合日程は公式で確認",
+  "url": "https://www.f-marinos.com/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "FC町田ゼルビア(Jリーグ)",
+  "area": "町田市",
+  "desc": "Jリーグのサッカークラブ。試合日程は公式で確認",
+  "url": "https://www.zelvia.co.jp/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "浦和レッズ(Jリーグ)",
+  "area": "埼玉県 さいたま市",
+  "desc": "Jリーグのサッカークラブ。試合日程は公式で確認",
+  "url": "https://www.urawa-reds.co.jp/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "柏レイソル(Jリーグ)",
+  "area": "千葉県 柏市",
+  "desc": "Jリーグのサッカークラブ。試合日程は公式で確認",
+  "url": "https://www.reysol.co.jp/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "スポーツ観戦・ライブ",
+  "name": "湘南ベルマーレ(Jリーグ)",
+  "area": "神奈川県 平塚市",
+  "desc": "Jリーグのサッカークラブ。試合日程は公式で確認",
+  "url": "https://www.bellmare.co.jp/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "シブヤボウリング(EST 渋谷東口会館)",
+  "area": "渋谷区 渋谷",
+  "desc": "渋谷東口のボウリング場。同施設にビリヤードもあり",
+  "url": "https://www.shibuyaest.co.jp/bowling/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "東京ドームシティ アクティブパスポート(ボウリングほか)",
+  "area": "文京区 後楽",
+  "desc": "東京ドームシティのスポーツ施設のパスポート(ボウリングを含む)。内容・料金は公式で確認",
+  "url": "https://www.tokyo-dome.co.jp/passport/active",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "東京ドーム ローラースケートアリーナ",
+  "area": "文京区 後楽",
+  "desc": "ローラースケートが楽しめる施設(東京ドームシティ内)。営業日は公式で確認",
+  "url": "https://www.tokyo-dome.co.jp/roller/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "田中貴金属アイスアリーナ",
+  "area": "江東区 辰巳",
+  "desc": "都内最大級のアイスリンク(公式表記)",
+  "url": "https://ia-tatsumi.tokyo/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "江東区辰巳2-8-10",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "屋内か公式で確認できず(☔は付けていない)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "明治神宮外苑アイススケート場",
+  "area": "新宿区 霞ヶ丘町",
+  "desc": "明治神宮外苑のアイススケート場。営業日は公式で確認",
+  "url": "https://meijijingugaien-iceskating.com/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "新宿区霞ヶ丘町11-1",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "屋内・屋外の別を公式で確認できず(☔は付けていない)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "Fish and Bird(クライミング)",
+  "area": "江東区 東陽",
+  "desc": "クライミングジム",
+  "url": "https://www.fish-bird.co.jp/fishandbird/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "江東区東陽7-4-12",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "GiGO秋葉原3号館(ゲームセンター)",
+  "area": "千代田区 外神田",
+  "desc": "秋葉原のゲームセンター(ゲームコーナー案内あり)",
+  "url": "https://www.gigo.co.jp/shops/akihabara3/games",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "ボードゲームカフェ JELLY JELLY CAFE 渋谷",
+  "area": "渋谷区 宇田川町",
+  "desc": "ボードゲームカフェ(渋谷本店)",
+  "url": "https://jellyjellycafe.com/shibuya",
+  "rain_ok": true,
+  "period": "",
+  "venue": "渋谷区宇田川町10-2",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "ボードゲームカフェ サイコロブクロ 新宿",
+  "area": "新宿区 新宿",
+  "desc": "新宿のボードゲームカフェ",
+  "url": "https://saikorobukuro.com/shinjuku/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "新宿区新宿5-10-6",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "ボードゲームと珈琲豆 新宿店",
+  "area": "新宿区 西新宿",
+  "desc": "ボードゲームカフェ(新宿店)",
+  "url": "https://boardgames-coffeebeans.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "新宿区西新宿7-13-5",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "遊び・スポーツ体験",
+  "name": "ボドゲ東京 新宿店",
+  "area": "新宿区 新宿",
+  "desc": "新宿駅近くのボードゲームカフェ",
+  "url": "https://bodoge-tokyo.com/shinjuku",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "創吉 切子体験教室(浅草)",
+  "area": "台東区 雷門",
+  "desc": "江戸切子の体験教室",
+  "url": "https://www.sokichi-workshop.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "台東区雷門2-1-14",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "すみだ江戸切子館 江戸切子体験",
+  "area": "墨田区 太平",
+  "desc": "江戸切子の体験(工房併設)",
+  "url": "https://www.edokiriko.net/taiken",
+  "rain_ok": true,
+  "period": "",
+  "venue": "墨田区太平2-10-9",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "アトリエ ガラス工房ZO",
+  "area": "墨田区",
+  "desc": "吹きガラス等の体験教室",
+  "url": "https://www.glasszo.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "東京ガラス工芸研究所 体験教室",
+  "area": "大田区 東六郷",
+  "desc": "吹きガラスの体験教室",
+  "url": "https://www.tokyo-glass.jp/experience/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "大田区東六郷1-26-13",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "うづまこ陶芸 1日陶芸体験",
+  "area": "港区 芝",
+  "desc": "1日陶芸体験プラン",
+  "url": "https://www.uzumakotougei.com/taiken.html",
+  "rain_ok": true,
+  "period": "",
+  "venue": "港区芝3-29-11",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "陶芸教室Futaba 体験(カップル割あり)",
+  "area": "板橋区 中台",
+  "desc": "陶芸体験。カップル向け割引の案内あり",
+  "url": "https://www.fu-ta-ba.jp/trial/date-2/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "板橋区中台1-29-8 1F",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "ふれぐらんす工房「香」(浅草フレグランス作り)",
+  "area": "台東区 花川戸",
+  "desc": "浅草でフレグランスを作る体験",
+  "url": "https://fragrance-koubou-kaori.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "台東区花川戸2-7-2",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "リングづくり体験 Grace(浅草)",
+  "area": "台東区 浅草",
+  "desc": "ワークショップでリングを作る体験",
+  "url": "https://www.grace-ring.com/workshop",
+  "rain_ok": true,
+  "period": "",
+  "venue": "台東区浅草2-2-2 弐番館",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "お菓子教室 スイートリボン(銀座)",
+  "area": "中央区 銀座",
+  "desc": "お菓子づくり教室",
+  "url": "https://michiyokumabe.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "動物カフェ・ふれあい",
+  "name": "HARRY ハリネズミカフェ 原宿",
+  "area": "渋谷区 神宮前",
+  "desc": "ハリネズミとふれあえるカフェ",
+  "url": "https://harinezumi-cafe.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "渋谷区神宮前1-13-21",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "動物カフェ・ふれあい",
+  "name": "HARRY ASAKUSA(ハリネズミカフェ 浅草)",
+  "area": "台東区 浅草",
+  "desc": "ハリネズミとふれあえるカフェ(浅草店)",
+  "url": "https://harinezumi-cafe.com/store/asakusa/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "台東区浅草1-1-17 増田ビル5F",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "動物カフェ・ふれあい",
+  "name": "もふもふ体験型パーク 浅草 カワウソ・ミーアキャット",
+  "area": "台東区 浅草",
+  "desc": "カワウソ(餌やり付)などとふれあえる屋内施設(公式ページ表記)",
+  "url": "https://www.moff-kalahari.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "動物カフェ・ふれあい",
+  "name": "うさぎcafe もふれる",
+  "area": "千代田区 外神田",
+  "desc": "うさぎとふれあえるカフェ",
+  "url": "https://moff-rell.com/ja/yoyaku",
+  "rain_ok": true,
+  "period": "",
+  "venue": "千代田区外神田5-2-3 アソルティ末広町ビルB1F",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "動物カフェ・ふれあい",
+  "name": "ふくろうカフェ 武蔵野カフェ・オウルビレッジ(原宿)",
+  "area": "渋谷区 神宮前",
+  "desc": "ふくろうカフェ",
+  "url": "https://www.owlvillage.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "渋谷区神宮前1-21-15",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "書店・ブックカフェ",
+  "name": "代官山 蔦屋書店(代官山T-SITE)",
+  "area": "渋谷区 猿楽町",
+  "desc": "蔦屋書店を中核にした代官山T-SITE",
+  "url": "https://store.tsite.jp/daikanyama/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "書店・ブックカフェ",
+  "name": "銀座 蔦屋書店",
+  "area": "中央区 銀座",
+  "desc": "アートのある書店(GINZA SIX内)",
+  "url": "https://store.tsite.jp/ginza/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "書店・ブックカフェ",
+  "name": "青山ブックセンター 本店",
+  "area": "渋谷区 神宮前",
+  "desc": "書店",
+  "url": "https://www.aoyamabc.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "渋谷区神宮前5-53-67",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "書店・ブックカフェ",
+  "name": "本屋 B&B(下北沢)",
+  "area": "世田谷区 北沢",
+  "desc": "ビールが飲める本屋(下北沢)",
+  "url": "https://bookandbeer.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "書店・ブックカフェ",
+  "name": "国立国会図書館 国際子ども図書館",
+  "area": "台東区 上野公園",
+  "desc": "子どもの本の図書館(上野公園内)",
+  "url": "https://www.kodomo.go.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "ナイトライフ・バー",
+  "name": "TOMIJAZ(麻布十番のジャズバー)",
+  "area": "港区 麻布十番",
+  "desc": "隠れ家的なジャズバー(公式表記)",
+  "url": "https://www.tomijaz.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "ナイトライフ・バー",
+  "name": "ライブバー 東京倶楽部",
+  "area": "千代田区 神田駿河台",
+  "desc": "ライブバー(水道橋・御茶ノ水エリア)",
+  "url": "https://tokyo-club.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "千代田区神田駿河台2-11-16",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "ナイトライフ・バー",
+  "name": "新宿ゴールデン街",
+  "area": "新宿区 歌舞伎町",
+  "desc": "小さなバーが並ぶ飲み歩きエリア(新宿三光商店街振興組合)",
+  "url": "https://goldengai.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "新宿区歌舞伎町1-1-6",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "ナイトライフ・バー",
+  "name": "WOMB(渋谷クラブ)",
+  "area": "渋谷区 円山町",
+  "desc": "渋谷のクラブ。イベントは公式で確認",
+  "url": "https://www.womb.co.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "収穫体験",
+  "name": "町田いちご園 MachidaStrawberryFarm",
+  "area": "町田市 相原町",
+  "desc": "電車で行けるいちご狩り。開園は毎年12月下旬〜5月中旬・完全予約制(公式表記)",
+  "url": "https://www.strawberry.tokyo/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "町田市相原町1279",
+  "reservation": "完全予約制(24時間ネット予約)",
+  "kind": "常設",
+  "period_note": "いちご狩りは12月下旬開園",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "収穫体験",
+  "name": "ICHIGO HOUSE.みたか",
+  "area": "三鷹市 牟礼",
+  "desc": "三鷹のいちご農園。開園情報は公式で確認",
+  "url": "https://mitaka.ichigohouse-wegro.com/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "三鷹市牟礼1-8",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "収穫体験",
+  "name": "三岳園(みかん狩り)",
+  "area": "神奈川県 伊勢原市",
+  "desc": "早生みかんから楽しめるみかん狩り(公式表記)",
+  "url": "https://www.mitake-en.jp/mikan",
+  "rain_ok": false,
+  "period": "",
+  "venue": "伊勢原市善波468",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "収穫体験",
+  "name": "小田原 みかん狩り(オレンジガーデン)",
+  "area": "神奈川県 小田原市",
+  "desc": "みかん狩り。シーズンの案内あり(10月10日〜の記載)",
+  "url": "https://www.orange-garden.net/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "アウトドア",
+  "name": "東京スカイツリータウン グランピング&BBQ",
+  "area": "墨田区 押上",
+  "desc": "手ぶらで楽しめるBBQ(スカイツリータウン内・公式サイト)",
+  "url": "https://www.skytreetown-glamping-bbq.com/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "アウトドア",
+  "name": "インドアグランピング OUCHI CAMP(浅草・入谷)",
+  "area": "台東区 千束",
+  "desc": "台東区千束のインドアグランピング",
+  "url": "https://ouchicamp.com/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "台東区千束2-30-5",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "アウトドア",
+  "name": "池袋 東武百貨店 手ぶらBBQ",
+  "area": "豊島区 西池袋",
+  "desc": "東武百貨店池袋店の手ぶらBBQ",
+  "url": "https://ikebukuro-rakuen-bbq.com/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "屋内外の別を公式で確認できず(☔は付けていない)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "アウトドア",
+  "name": "渋谷 冷暖房完備BBQ(雨天OK)",
+  "area": "渋谷区 道玄坂",
+  "desc": "冷暖房完備・雨天OKをうたう屋内BBQ(公式ページ表記)",
+  "url": "https://www.shibuyagardenspace.com/tonai-bbq-reidanbou/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "渋谷区道玄坂2-9-10 松本ビル7F",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "プール・スパ・温泉",
+  "name": "Galera Sauna Tachikawa",
+  "area": "立川市 曙町",
+  "desc": "立川のサウナ",
+  "url": "https://galera-sauna.tokyo/sauna/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "立川市曙町2-14-26",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "プール・スパ・温泉",
+  "name": "Sauna-Tokyo(サウナ東京)赤坂",
+  "area": "港区 赤坂",
+  "desc": "赤坂のサウナ",
+  "url": "https://sauna-tokyo.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "港区赤坂3-13-4",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "屋形船 晴海屋 乗合屋形船",
+  "area": "江東区 東砂",
+  "desc": "乗合の屋形船(両国発着の案内あり)",
+  "url": "https://www.harumiya.co.jp/yakatafune/passenger/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "受付 江東区東砂6-16-9",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "屋形船は屋根付きだが屋外景観が主体のため☔は付けていない",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "水上バス・東京湾クルーズ(東京水辺ライン)",
+  "area": "東京都 隅田川・東京湾",
+  "desc": "水上バス・東京湾クルーズ",
+  "url": "https://www.suijobus.co.jp/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "東京湾クルージングレストラン シンフォニー",
+  "area": "港区 海岸",
+  "desc": "東京湾クルージングのレストラン船",
+  "url": "https://www.symphony-cruise.co.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "港区海岸2-7-104",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "屋内ダイニング主体(公式の詳細は要確認)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "SEA SHANKS 東京貸切クルーズ",
+  "area": "東京都 東京湾",
+  "desc": "東京の貸切クルーズ",
+  "url": "https://www.tokyo-cruising.com/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "横浜 ロイヤルウイング(クルーズ船)",
+  "area": "神奈川県 横浜市",
+  "desc": "横浜のクルーズ船",
+  "url": "https://www.royalwing.co.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "ヘリコプター・プライベートフライト(ARIAIR東京)",
+  "area": "東京都 東京ヘリポート",
+  "desc": "ヘリコプターで東京上空を遊覧するプラン",
+  "url": "https://ariair.arila.co.jp/special/ariair_tokyo_helicopter/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "体験型",
+  "name": "人力車のえびす屋(浅草)",
+  "area": "台東区 浅草",
+  "desc": "人力車で観光する体験",
+  "url": "https://www.ebisuya.com/",
+  "rain_ok": false,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "日帰り旅",
+  "name": "箱根湯本 吉池旅館 日帰りプラン",
+  "area": "神奈川県 箱根町",
+  "desc": "日帰り・0泊プランで温泉に入れる(公式)",
+  "url": "https://www.yoshiike.org/day_trip/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "箱根町湯本597",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "日帰り旅",
+  "name": "箱根湯本 かもん 日帰り温泉と食事プラン",
+  "area": "神奈川県 箱根町",
+  "desc": "日帰り温泉と昼食・夕食のプラン(公式)",
+  "url": "https://www.hakone-kamon.jp/dayplan/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "箱根町湯本435",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "日帰り旅",
+  "name": "箱根湯本 ゆの里 日帰りプラン",
+  "area": "神奈川県 箱根町",
+  "desc": "日帰りプラン(公式)",
+  "url": "https://www.yunosato-y.jp/plan.html",
+  "rain_ok": true,
+  "period": "",
+  "venue": "箱根町湯本茶屋191",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "日帰り旅",
+  "name": "富士屋ホテル 日帰りプラン(宮ノ下)",
+  "area": "神奈川県 箱根町",
+  "desc": "日帰りで富士屋ホテルを楽しむプラン(公式ページ)",
+  "url": "https://www.fujiyahotel.jp/recommend/recommend22.html",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "",
+  "kind": "常設",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "東京ディズニーランド「ディズニー・クリスマス」",
+  "area": "千葉県 浦安市",
+  "desc": "パレード「トイズ・ワンダラス・クリスマス!」、エレクトリカルパレード・ドリームライツ(クリスマス版)、花火「スターブライト・クリスマス」、エントランスのデコレーション初登場。ジョリーフード・プラザが初登場",
+  "url": "https://www.tokyodisneyresort.jp/treasure/christmas2026/tdl/",
+  "rain_ok": false,
+  "period": "2026年11月11日〜2026年12月25日",
+  "venue": "",
+  "reservation": "パークチケット(日付指定)が必要。ディズニー・プレミアアクセス(有料)あり",
+  "kind": "イベント",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "Grandberry Christmas「Together this Holiday」(スヌーピーときょうだい)",
+  "area": "町田市 鶴間",
+  "desc": "スヌーピーときょうだいたちのクリスマス装飾をパーク全体で展開。足跡ステッカー、キャラクターパネル。アイススケートリンク「SNOOPY ICE ARENA」は12月5日〜2027年2月28日",
+  "url": "https://www.tokyu-tmd.co.jp/news/grandberry-park-20261022/",
+  "rain_ok": false,
+  "period": "2026年11月14日〜2026年12月25日",
+  "venue": "グランベリーパーク(田園都市線 南町田グランベリーパーク駅直結)",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "SNOOPY ICE ARENAは2026年12月5日〜2027年2月28日",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "ミッフィーほかほかダイニング(東京ソラマチ)",
+  "area": "墨田区 押上",
+  "desc": "ミッフィーのお顔のグラタンパイやほかほかシチュー・スープの冬限定ダイニング。BOX cafe&space 東京ソラマチ店",
+  "url": "https://hokahoka-dining.ltr-online.com",
+  "rain_ok": true,
+  "period": "2026年10月31日〜2027年1月24日",
+  "venue": "BOX cafe&space 東京ソラマチ店",
+  "reservation": "事前予約 2026年10月23日18:00〜(予約してメニュー注文でマルチケースをプレゼント)",
+  "kind": "イベント",
+  "period_note": "事前予約が10/23 18:00から開始済み",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "アクアシティお台場×リラックマ「クリスマスパーティー」",
+  "area": "港区 台場",
+  "desc": "アクアシティお台場がリラックマ一色に。展示・スタンプラリー(3階アクアアリーナほか)、コラボカフェ(11/25〜12/25・5階R.O.STAR Seaside Terrace)",
+  "url": "https://www.aquacity.jp/news/detail.php?id=63939",
+  "rain_ok": true,
+  "period": "2026年11月13日〜2026年12月25日",
+  "venue": "アクアシティお台場",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "期間はサンエックス公式リリースの記載",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "スヌーピータウンミニ東京駅一番街店 クリスマスフェア2026",
+  "area": "千代田区 丸の内",
+  "desc": "東京駅一番街 地下1階 東京キャラクターストリート内。11/7発売「SWEET CANDY CHRISTMAS with Siblings」。税込5,500円以上でマグカップかミニボウル、11,000円以上で両方プレゼント(先着各6,000名)",
+  "url": "https://www.tokyoeki-1bangai.co.jp/event/detail/?cd=001267",
+  "rain_ok": true,
+  "period": "2026年11月7日〜2026年12月25日",
+  "venue": "東京駅一番街 地下1階 東京キャラクターストリート 10:00〜20:30",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "特典は先着・なくなり次第終了",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "サクラ大戦30周年記念展 ～夢はよみがえる～(東京会場)",
+  "area": "千代田区 有楽町",
+  "desc": "サクラ大戦30周年記念展。東京会場は有楽町マルイ8F SPACE1(当日券販売場所)。2,000円(前売・税込)、当日券2,400円",
+  "url": "https://sakura-30th-exhibition.com/ticket/",
+  "rain_ok": true,
+  "period": "2026年10月31日〜2026年11月15日",
+  "venue": "有楽町マルイ 8F イベントスペース SPACE1",
+  "reservation": "日時指定券10/31・11/1、指定期間中有効券11/2〜11/15。前売はイープラスで10/30 23:59まで、以降は当日券",
+  "kind": "企画展",
+  "period_note": "前売は10/30 23:59まで",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "キャラクター・コラボイベント",
+  "name": "ギルティクラウン×甲鉄城のカバネリ展(東京会場)",
+  "area": "中央区 銀座",
+  "desc": "ギルティクラウン×甲鉄城のカバネリ展。全日日時指定制、11:00〜20:00(最終日17:00閉場・日曜19:30閉場)",
+  "url": "https://www.gc-kabaneri-ten.com/",
+  "rain_ok": true,
+  "period": "2026年10月30日〜2026年11月23日",
+  "venue": "ギンザミライミュージアム",
+  "reservation": "全日日時指定制",
+  "kind": "企画展",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "買い物・街歩き",
+  "name": "PLAZA TOKYO+(新宿マルイ 本館B1F)",
+  "area": "新宿区 新宿",
+  "desc": "60周年のPLAZAが新宿マルイ本館B1Fにオープン。食品・菓子、文具、玩具、キャラクター雑貨、化粧品、衣料品、常設POPUP、カフェなど。11:00〜21:00",
+  "url": "https://prtimes.jp/main/html/rd/p/000004216.000003860.html",
+  "rain_ok": true,
+  "period": "2026年11月20日オープン",
+  "venue": "新宿マルイ 本館B1F",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "オープン日のみ",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "買い物・街歩き",
+  "name": "アトレ中野",
+  "area": "中野区 中野",
+  "desc": "アトレ中野 NEW OPEN(公式ページ表記)",
+  "url": "https://www.atre.co.jp/campaign/newopen/nakano/",
+  "rain_ok": true,
+  "period": "2026年12月9日オープン",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "オープン日のみ",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "買い物・街歩き",
+  "name": "秋葉原UDX 商業ゾーン リニューアル",
+  "area": "千代田区 外神田",
+  "desc": "「秋葉原UDX」商業ゾーン 12/10 リニューアル(NTT都市開発の公式ニュース)",
+  "url": "https://www.nttud.co.jp/news/detail/id/n28040.html",
+  "rain_ok": true,
+  "period": "2026年12月10日リニューアル",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "リニューアル日のみ",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "買い物・街歩き",
+  "name": "明治安田新宿ビル 商業エリア",
+  "area": "新宿区 西新宿",
+  "desc": "新宿駅直結の1階・地下1階に全21店舗(キル フェボン、Shake Shack、スターバックスなど)が開業(明治安田の公式リリース)",
+  "url": "https://www.meijiyasuda.co.jp/profile/news/release/2026/pdf/20261022_02.pdf",
+  "rain_ok": true,
+  "period": "2026年11月28日開業",
+  "venue": "明治安田新宿ビル 1F・B1F",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "開業日のみ",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "公式リリースはPDF。店舗リストは検索要約で確認",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "劇団四季『アナと雪の女王』東京公演(JR東日本四季劇場[春])",
+  "area": "港区 竹芝・浜松町",
+  "desc": "ディズニーミュージカル。2027年1月17日(日)千秋楽(公式発表)。2027年5月からは同劇場で『ウィキッド』上演予定(公式)。上演約2時間25分(休憩含む)。3歳未満は入場不可",
+  "url": "https://www.shiki.jp/special/lineup/",
+  "rain_ok": true,
+  "period": "2025年10月30日〜2027年1月17日",
+  "venue": "JR東日本四季劇場[春](浜松町・竹芝)",
+  "reservation": "当日券の有無・販売方法は公式「当日券情報」で確認",
+  "kind": "イベント",
+  "period_note": "3歳未満入場不可・3歳以上有料(膝上観劇不可)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "劇団四季の公式サイトはメンテナンス中のことあり(10/24時点)",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "劇団四季『バック・トゥ・ザ・フューチャー』東京公演(JR東日本四季劇場[秋])",
+  "area": "港区 竹芝・浜松町",
+  "desc": "映画『バック・トゥ・ザ・フューチャー』のミュージカル。2026年4月開幕のロングラン(公式)。上演約2時間55分(休憩含む)。3歳未満は入場不可",
+  "url": "https://www.shiki.jp/special/lineup/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "JR東日本四季劇場[秋](浜松町・竹芝)",
+  "reservation": "当日券は公式「当日券情報」で確認",
+  "kind": "イベント",
+  "period_note": "ロングラン上演中・3歳未満入場不可",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "劇団四季の公式サイトはメンテナンス中のことあり(10/24時点)",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "劇団四季『アラジン』東京公演(電通四季劇場[海])",
+  "area": "港区 汐留",
+  "desc": "ディズニーミュージカル。ロングラン上演中(公式)。上演約2時間45分(休憩含む)。3歳未満は入場不可",
+  "url": "https://www.shiki.jp/special/lineup/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "電通四季劇場[海](汐留)",
+  "reservation": "当日券は公式「当日券情報」で確認",
+  "kind": "イベント",
+  "period_note": "ロングラン上演中・3歳未満入場不可",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "劇団四季の公式サイトはメンテナンス中のことあり(10/24時点)",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "劇団四季『ライオンキング』東京公演(有明四季劇場)",
+  "area": "江東区 有明",
+  "desc": "ディズニーミュージカル。無期限ロングラン、12月20日に日本上演27周年(公式)。上演約2時間40分(休憩含む)。3歳未満は入場不可",
+  "url": "https://www.shiki.jp/special/lineup/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "有明四季劇場",
+  "reservation": "当日券は公式「当日券情報」で確認",
+  "kind": "イベント",
+  "period_note": "ロングラン上演中・3歳未満入場不可",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "劇団四季の公式サイトはメンテナンス中のことあり(10/24時点)",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "劇団四季『ロボット・イン・ザ・ガーデン』東京公演(自由劇場)",
+  "area": "港区 竹芝・浜松町",
+  "desc": "劇団四季のミュージカル。2026年11月7日(土)開幕〜2027年2月13日(土)。3歳未満は入場不可",
+  "url": "https://www.shiki.jp/applause/robot/",
+  "rain_ok": true,
+  "period": "2026年11月7日〜2027年2月13日",
+  "venue": "自由劇場(浜松町・竹芝)",
+  "reservation": "11/8〜2027/2/12公演分は一般発売中(公式)。初日(11/7)・千秋楽(2/13)は四季の会会員向け事前抽選のみで販売終了",
+  "kind": "イベント",
+  "period_note": "初日・千秋楽は抽選のみ・販売終了",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "劇団四季の公式サイトはメンテナンス中のことあり(10/24時点)",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "劇団四季『リトルマーメイド』舞浜公演(舞浜アンフィシアター)",
+  "area": "千葉県 浦安市 舞浜",
+  "desc": "ディズニーミュージカル。2026年8月26日開幕。舞浜アンフィシアターで上演(公式)。3歳未満は入場不可",
+  "url": "https://www.shiki.jp/stage_schedule/?aj=0&ggc=1573&rid=0073",
+  "rain_ok": true,
+  "period": "2026年8月26日開幕",
+  "venue": "舞浜アンフィシアター",
+  "reservation": "2027年9月30日公演分まで発売中(公式)",
+  "kind": "イベント",
+  "period_note": "3歳未満入場不可",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "劇団四季の公式サイトはメンテナンス中のことあり(10/24時点)",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "宝塚歌劇 星組『RRR × TAKA\"R\"AZUKA ～√Rama～』(東京宝塚劇場)",
+  "area": "千代田区 有楽町",
+  "desc": "インド映画『RRR』を原作とした宝塚版。公演約3時間(休憩含む)。料金 SS席14,000円〜B席3,500円",
+  "url": "https://kageki.hankyu.co.jp/revue/2026/rrr/index.html",
+  "rain_ok": true,
+  "period": "2026年10月31日〜2026年12月13日",
+  "venue": "東京宝塚劇場",
+  "reservation": "一般前売は2026/9/27から発売中(宝塚歌劇Webチケットサービス)。完売回あり得る・当日残席があれば購入可",
+  "kind": "イベント",
+  "period_note": "一般前売発売中",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "宝塚歌劇 花組『エリザベート』(東京宝塚劇場)",
+  "area": "千代田区 有楽町",
+  "desc": "東京宝塚劇場は2026年12月19日〜2027年2月7日",
+  "url": "https://kageki.hankyu.co.jp/revue/2026/elisabeth/index.html",
+  "rain_ok": true,
+  "period": "2026年12月19日〜2027年2月7日",
+  "venue": "東京宝塚劇場",
+  "reservation": "宝塚友の会の抽選先行(第3抽選は10/21〜10/27 23:00締切)、共通ID+抽選は11/1〜11/2。一般前売は11/15(日)10:00開始・電話は11/22から",
+  "kind": "イベント",
+  "period_note": "友の会抽選は10/27 23:00締切・一般前売は11/15 10:00",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "歌舞伎座『吉例顔見世大歌舞伎』(通し狂言 仮名手本忠臣蔵)",
+  "area": "中央区 銀座",
+  "desc": "2026年11月1日〜25日。通し狂言『仮名手本忠臣蔵』。1等席18,000円(公式)",
+  "url": "https://www.kabuki-bito.jp/theaters/kabukiza/play/986/",
+  "rain_ok": true,
+  "period": "2026年11月1日〜2026年11月25日",
+  "venue": "歌舞伎座",
+  "reservation": "チケット好評販売中(公式)。休演日は9日・17日",
+  "kind": "イベント",
+  "period_note": "休演11/9・11/17",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "歌舞伎座『十二月大歌舞伎』",
+  "area": "中央区 銀座",
+  "desc": "2026年12月2日〜25日。三部制(休演12/9・12/17)",
+  "url": "https://www.kabuki-bito.jp/theaters/kabukiza/play/987",
+  "rain_ok": true,
+  "period": "2026年12月2日〜2026年12月25日",
+  "venue": "歌舞伎座",
+  "reservation": "チケット発売は2026年11月14日(土)予定(公式)",
+  "kind": "イベント",
+  "period_note": "チケット発売は11/14(土)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "ミュージカル『ミス・サイゴン』(東急シアターオーブ)",
+  "area": "渋谷区 渋谷",
+  "desc": "東宝製作。2026年10月16日〜11月29日(10/16〜22はプレビュー)。上演約2時間45分。未就学児は入場不可",
+  "url": "https://theatre-orb.com/lineup/26_miss_saigon/",
+  "rain_ok": true,
+  "period": "2026年10月16日〜2026年11月29日",
+  "venue": "東急シアターオーブ(渋谷ヒカリエ11階)",
+  "reservation": "一般発売は8/1に開始済み。当日券は開演60分前から劇場入口前で販売(公式)",
+  "kind": "イベント",
+  "period_note": "未就学児入場不可・当日券あり",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "ブロードウェイ クリスマス・ワンダーランド2026(東急シアターオーブ)",
+  "area": "渋谷区 渋谷",
+  "desc": "ブロードウェイのクリスマス公演。2026年12月12日〜25日(休演12/14〜16・12/21)、全席指定 S席11,800円・A席7,800円・B席4,800円",
+  "url": "https://theatre-orb.com/lineup/26_bcw/",
+  "rain_ok": true,
+  "period": "2026年12月12日〜2026年12月25日",
+  "venue": "東急シアターオーブ(渋谷ヒカリエ11階)",
+  "reservation": "一般発売は10/10から発売中",
+  "kind": "イベント",
+  "period_note": "日程・料金は公式検索要約で確認、詳細は公式で再確認",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "ミュージカル『ミー＆マイガール』(EXシアター有明)",
+  "area": "江東区 有明",
+  "desc": "東宝製作・東宝/テレビ朝日主催。2026年12月6日〜27日、EXシアター有明(東京ドリームパーク3階)。未就学児は入場不可",
+  "url": "https://www.tohostage.com/me_and_mygirl/",
+  "rain_ok": true,
+  "period": "2026年12月6日〜2026年12月27日",
+  "venue": "EXシアター有明(東京ドリームパーク3階)",
+  "reservation": "一般発売中(テレ朝チケットは先着先行販売終了、一部公演に抽選先行あり)。S16,000円〜(平日)",
+  "kind": "イベント",
+  "period_note": "日程・料金はテレ朝チケット公演情報で確認",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "ミュージカル『メイビー、ハッピーエンディング』(シアタークリエ)",
+  "area": "千代田区 有楽町",
+  "desc": "近未来を舞台にしたヘルパーロボットのミュージカル。2026年11月に再演(浦井健治・花澤香菜ほか)。11月20日〜12月13日、日比谷シアタークリエ",
+  "url": "https://www.tohostage.com/maybe/",
+  "rain_ok": true,
+  "period": "2026年11月20日〜2026年12月13日",
+  "venue": "日比谷シアタークリエ",
+  "reservation": "当日券は劇場窓口では販売せず、残席があれば東宝ナビザーブで当日も購入可",
+  "kind": "イベント",
+  "period_note": "公演期間は検索要約で確認、詳細は公式で再確認",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "新国立劇場バレエ団『くるみ割り人形』",
+  "area": "渋谷区 初台",
+  "desc": "2026年12月18日〜2027年1月3日、約2時間10分。4歳未満の入場不可。S席17,600円〜D席6,600円・Z席1,980円",
+  "url": "https://www.nntt.jac.go.jp/ballet/nutcracker/",
+  "rain_ok": true,
+  "period": "2026年12月18日〜2027年1月3日",
+  "venue": "新国立劇場 オペラパレス",
+  "reservation": "一般発売中。Z席は公演当日朝10:00から先着販売。託児室(予約制)あり",
+  "kind": "イベント",
+  "period_note": "4歳未満入場不可",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "東京バレエ団『くるみ割り人形』横須賀公演",
+  "area": "神奈川県 横須賀市",
+  "desc": "東京バレエ団オリジナル版。12月20日(日)12:30・17:00、横須賀芸術劇場。約2時間10分。5歳以上入場可(4歳以下不可)",
+  "url": "https://thetokyoballet.com/performance/nutcracker2026/",
+  "rain_ok": true,
+  "period": "2026年12月20日〜2026年12月20日",
+  "venue": "横須賀芸術劇場",
+  "reservation": "一般発売は2026/8/29から(公式)",
+  "kind": "イベント",
+  "period_note": "5歳以上入場可",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "屋外クリスマスサーカス「AURA」(上野・東京クリスマスアドベント)",
+  "area": "台東区 上野公園",
+  "desc": "不忍池エリアの特設会場で上演する屋外クリスマスサーカス。2026年11月27日〜12月24日(月・火休演)、1公演約45分(18:00/20:00)。前売3,500円・当日4,000円・中学生以下1,000円",
+  "url": "https://christmas-advent.jp/aura/",
+  "rain_ok": false,
+  "period": "2026年11月27日〜2026年12月24日",
+  "venue": "上野恩賜公園 不忍池エリア 特設サーカス会場",
+  "reservation": "前売は10/20からLivePocketで販売中",
+  "kind": "イベント",
+  "period_note": "雨天・荒天時は公演中止(公式)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "公式サイトは動的表示。概要はPR TIMESリリース(主催者)で確認",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "コットンクラブ ケニー・バロン・トリオ",
+  "area": "千代田区 丸の内",
+  "desc": "ジャズ・ピアニストのケニー・バロンが新トリオで来日。2026年11月20日(金)〜22日(日)",
+  "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kenny-barron-trio-261120/",
+  "rain_ok": true,
+  "period": "2026年11月20日〜2026年11月22日",
+  "venue": "COTTON CLUB(東京・丸の内)",
+  "reservation": "予約は公式サイトから",
+  "kind": "イベント",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "ブルーノート東京 JUJU JAZZ LIVE 2026",
+  "area": "港区 南青山",
+  "desc": "JUJUのジャズライブ。2026年11月12日〜18日の6日間(12・13・14・16・17・18日)",
+  "url": "https://www.bluenote.co.jp/jp/artists/juju/",
+  "rain_ok": true,
+  "period": "2026年11月12日〜2026年11月18日",
+  "venue": "ブルーノート東京",
+  "reservation": "予約は公式サイトから",
+  "kind": "イベント",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "N響第九 Special Concert(サントリーホール)",
+  "area": "港区 赤坂",
+  "desc": "マレク・ヤノフスキ指揮、NHK交響楽団。2026年12月23日(水)19:00開演、約2時間(休憩20分)",
+  "url": "https://www.nhkso.or.jp/concert/20261223.html",
+  "rain_ok": true,
+  "period": "2026年12月23日〜2026年12月23日",
+  "venue": "サントリーホール",
+  "reservation": "チケットは公式サイトのチケット購入から",
+  "kind": "イベント",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "ようこそ！誰でもコンサート(新日本フィル・すみだトリフォニーホール)",
+  "area": "墨田区 錦糸",
+  "desc": "赤ちゃんも未就学児も障がいのある方もみんなで楽しむオーケストラ。「未就学児可(0歳〜)」と公式に明記。2026年11月21日(土)10:30開演、指揮 和田一樹、トトロ「さんぽ」・ハンガリー舞曲第5番ほか",
+  "url": "https://www.njp.or.jp/concerts/261121/",
+  "rain_ok": true,
+  "period": "2026年11月21日〜2026年11月21日",
+  "venue": "すみだトリフォニーホール 大ホール",
+  "reservation": "チケットはすみだトリフォニーホールの案内で確認",
+  "kind": "イベント",
+  "period_note": "0歳から入場可(公式)",
+  "baby_ok": true,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "舞台・ミュージカル・ライブ",
+  "name": "0～3歳児のための ロビーでよちよちコンサート(第一生命ホール)",
+  "area": "中央区 晴海",
+  "desc": "0〜3歳児とその保護者向けのコンサート。第一生命ホールのロビーで生演奏。2026年11月19日(木)・20日(金)、各日3回・各回25席限定、10:00/11:30/13:20",
+  "url": "https://www.triton-arts.net/ja/concert/2026/11/20/4396/",
+  "rain_ok": true,
+  "period": "2026年11月19日〜2026年11月20日",
+  "venue": "第一生命ホール ロビー(晴海トリトンスクエア)",
+  "reservation": "チケット発売は2026年10月15日(木)11:00から(各回25席限定)",
+  "kind": "イベント",
+  "period_note": "0〜3歳児向け・各回25席限定",
+  "baby_ok": true,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "カップヌードルミュージアム 横浜",
+  "area": "神奈川県 横浜市みなとみらい",
+  "desc": "自分だけのカップヌードルを作るマイカップヌードルファクトリー(1食500円・約45分)など。入館料は大学生以上500円・高校生以下無料",
+  "url": "https://www.cupnoodles-museum.jp/ja/yokohama/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "マイカップヌードルファクトリーは公式オンラインチケットで事前予約(毎月1日10:00に翌月分発売)",
+  "kind": "常設",
+  "period_note": "10:00〜18:00(入館17:00まで)/休館日:火曜(祝日の場合は翌日)・年末年始",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "JAL SKY MUSEUM(工場見学)",
+  "area": "大田区 羽田空港",
+  "desc": "羽田空港内の格納庫見学+イマーシブシアター。公式プレスリリースでリニューアルオープンを告知",
+  "url": "https://www.jal.co.jp/jp/ja/kengaku/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "完全予約制・クレジットカード事前決済。見学日1か月前の同日9:30から公式サイトで受付",
+  "kind": "常設",
+  "period_note": "基本コース:大人(13歳以上)1,000円・12歳以下無料/小学生未満は入場不可/通常は水曜休館(公式予約カレンダーで確認)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "ANA Blue Base(工場見学)",
+  "area": "大田区 羽田",
+  "desc": "ANA訓練施設(安全教育センター)の見学ツアー。一般ツアー約75分",
+  "url": "https://www.anahd.co.jp/group/tour/ana-blue-base/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "事前予約制。参加希望日の1か月前同日0時〜前日まで公式サイトで受付",
+  "kind": "常設",
+  "period_note": "大人・大学生2,000円(土日祝2,500円)/小中高生1,500円(土日祝2,000円)/原則土・日・祝・年末年始は休み(不定期に土日祝も一般ツアー開催)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "サントリー〈天然水のビール工場〉東京・武蔵野",
+  "area": "府中市",
+  "desc": "ビール工場見学と試飲(おいしさ発見ツアー約90分)。10月は「金麦」おいしさ体感ツアー(土日祝限定)も開催",
+  "url": "https://www.suntory.co.jp/factory/musashino/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "WEB予約のみ(原則2か月前の第1営業日9:30から)",
+  "kind": "常設",
+  "period_note": "通常ツアー1,000円(税込)・20歳以上限定/年末年始・工場休業日は休み/荒天・災害時は臨時休業あり",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "キリンビール横浜工場",
+  "area": "神奈川県 横浜市鶴見区",
+  "desc": "一番搾りおいしさ実感ツアー(約90分・試飲あり。見学65分+試飲25分)",
+  "url": "https://www.kirin.co.jp/experience/factory/yokohama/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "予約必須(事前決済)。毎月1日8:00に翌月末分まで公式サイトで受付。開始30分前まで変更・キャンセル可",
+  "kind": "常設",
+  "period_note": "20歳以上1,000円(10月から改定)・19歳以下無料/20歳未満のみでの見学は不可(20歳以上と同伴)/月曜休館(祝日の場合は翌平日)・年末年始/パッケージングラインが止まっている日は映像",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "アサヒビール 茨城工場",
+  "area": "茨城県 守谷市",
+  "desc": "スーパードライ ミュージアム。工場見学(試飲あり)",
+  "url": "https://www.asahibeer.co.jp/brewery/ibaraki/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "完全予約制(Webまたは電話 0297-45-7335 受付9:15〜16:00)。12月分は10/21 9:15から受付",
+  "kind": "常設",
+  "period_note": "20歳以上1,000円・小学生以上300円・未就学児無料/休館日(公式案内):11/7・11/26・12/10・12/17・12/26〜31・年末年始",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "羽生蒸溜所 見学ツアー",
+  "area": "埼玉県 羽生市",
+  "desc": "ベンチャーウイスキー関連の蒸溜所。ポットスチル・糖化槽・発酵槽・樽貯蔵庫を見学(ビジターセンター)",
+  "url": "https://hanyu-distillery.jp/distillery-tour/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "完全予約制(公式の見学予約カレンダーから)",
+  "kind": "常設",
+  "period_note": "20歳以上テイスティング付き2,500円/運転する方・飲めない方1,500円/休館日:毎週火・水(祝日の場合は翌日)・年末年始/未成年の見学可否は公式で確認",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "キッコーマンもの知りしょうゆ館(野田)",
+  "area": "千葉県 野田市",
+  "desc": "しょうゆ工場内の見学施設。もろみの熟成、しょうゆの色・香りの体験、まめカフェ・売店",
+  "url": "https://www.kikkoman.com/jp/shokuiku/factory/noda/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "完全予約制(前日の営業日までにWEBまたは電話 04-7123-5136。2〜9名はWEB可・会員登録が必要)",
+  "kind": "常設",
+  "period_note": "入館無料・約60分/土日祝・毎月第4月曜・GW・お盆・年末年始は休館(10/22は臨時休館)/中学生以下は保護者同伴",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "明治なるほどファクトリー坂戸",
+  "area": "埼玉県 坂戸市",
+  "desc": "明治ミルクチョコレートやアポロの製造ラインを見学(約80分・歩行約500m)",
+  "url": "https://www.meiji.co.jp/learned/factory/sakado/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "完全予約制。2〜10名はWEB(見学日30日前の0時から)。11名以上は電話 049-283-1398",
+  "kind": "常設",
+  "period_note": "無料/平日のみ(9:40・11:30・14:00)・土日休(祝日は家族向け見学会を実施する場合あり)/4歳未満は入場不可/中学生以下は保護者同伴/車・バイク・自転車での来場不可/アポロのラインは10/13〜23メンテナンス停止",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "グリコピア・イースト",
+  "area": "埼玉県 北本市",
+  "desc": "ポッキー・プリッツの製造ライン見学、クイズツアー、おもちゃ展示、デコポッキー体験(有料500円)",
+  "url": "https://www.glico.com/jp/enjoy/experience/glicopia/east/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "完全予約制(2名以上、グリコメンバーズ登録のうえWebで予約番号を取得)。現在11/30分まで受付",
+  "kind": "常設",
+  "period_note": "無料・約70分/金曜休館(10/25・10/30・11/6・11/13・11/21・11/22・11/27 も休館)/0歳から入館可(予約は0歳も1名分)/土日はポッキーのラインが停止し映像紹介/10/24は北本工場防災フェア(10:00〜14:00・予約不要)",
+  "baby_ok": true,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "森永製菓 MORIUM&鶴見工場",
+  "area": "神奈川県 横浜市鶴見区",
+  "desc": "森永エンゼルミュージアム MORIUMと鶴見工場の見学(試食・ショップ含め約80分)",
+  "url": "https://www.morinaga.co.jp/factory/tsurumi/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "完全事前予約制(公式予約サイトのみ。1か月前の1日9:00受付、1〜6名)",
+  "kind": "常設",
+  "period_note": "無料/平日のみ(9:45・12:15・14:00ほか日により異なる)・土日祝・年末年始は休み/小学生以上(未就学児は入場不可)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "ロッテ浦和工場 おかしの学校",
+  "area": "埼玉県 さいたま市",
+  "desc": "ガーナチョコレートやパイの実などを学べる工場見学施設(約90分)",
+  "url": "https://www.lotte.co.jp/kengaku/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "予約必須(公式予約サイトのみ。一般の電話予約は不可)",
+  "kind": "常設",
+  "period_note": "料金・開館日は公式予約カレンダーで確認/狭山工場の見学は現在中止",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "ヤクルト本社 茨城工場",
+  "area": "茨城県 五霞町",
+  "desc": "Y1000の生産工程見学(試飲・ビデオ上映つき、約60分)。小さな子どもから見学可と公式",
+  "url": "https://www.yakult.co.jp/visit/factory/c02.html",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "完全予約制(インターネットは60日前の0時〜前日13時。10名以上は電話)",
+  "kind": "常設",
+  "period_note": "無料/月〜土(9:30・11:00・13:30)・日曜と年末年始は休み/11/14(土)は2026年度ヤクルト特別工場見学会(別予約)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "味の素グループうま味体験館(川崎工場 1階展示)",
+  "area": "神奈川県 川崎市",
+  "desc": "うま味調味料「味の素」の製造方法やうま味発見の歴史を展示。1階展示スペースは予約不要",
+  "url": "https://www.ajinomoto.co.jp/kfb/kengaku/kawasaki/tour_umami.html",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "1階展示は予約不要(製造ラインを見るコースは予約制)",
+  "kind": "常設",
+  "period_note": "無料・対象年齢制限なし/開館日・時間は公式の自由見学カレンダーで確認",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "澤乃井 酒蔵見学(小澤酒造)",
+  "area": "青梅市 沢井",
+  "desc": "酒造りの工程や蔵の話を聞きながら蔵内を案内(試飲・お猪口付き)",
+  "url": "https://www.sawanoi-sake.com/service/kengaku/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "1〜10名は予約制(前日までにネット予約。空席があれば当日も売店で申込可)",
+  "kind": "常設",
+  "period_note": "700円(1人)/平日11:00・13:00ほか土日祝も実施/月曜定休(営業カレンダーで確認)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "石川酒造(多摩自慢) 酒蔵見学",
+  "area": "福生市",
+  "desc": "酒蔵見学。現在は毎月開催の感謝デーの日に実施",
+  "url": "https://www.tamajiman.co.jp/tour/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "オンライン予約のみ",
+  "kind": "イベント",
+  "period_note": "見学は現在、毎月の感謝デー開催日のみ/石川酒造は火曜定休(12月を除く)/その他のコースは休止中と公式に表記",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "鉄道博物館",
+  "area": "埼玉県 さいたま市大宮区",
+  "desc": "実物車両の展示や運転シミュレータ",
+  "url": "https://www.railway-museum.jp/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "公式オンラインチケット(前売券・当日券)あり",
+  "kind": "常設",
+  "period_note": "一般1,500円(前売)/1,600円(当日)・小中高500円/600円・3歳以上の未就学児200円/300円/10:00〜17:00(最終入館16:30)/休館:火曜(11/4・11・18・25、12/2・9・16・23・30)・年末年始",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "池袋防災館",
+  "area": "豊島区 西池袋",
+  "desc": "地震・煙・消火・応急手当などを体験できる東京消防庁の防災体験施設。開館40周年のイベントも開催",
+  "url": "https://www.tfd.metro.tokyo.lg.jp/taiken/ikebukuro/index.html",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "防災体験ツアーはWeb予約が可能(基本ツアーは毎日)",
+  "kind": "常設",
+  "period_note": "入館・体験無料/休館:第1・第3火曜ほか・年末年始(公式の利用案内で確認)/サンセットナイトツアー 12/19・1/9",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "本所防災館",
+  "area": "墨田区 横川",
+  "desc": "地震・火災・風水害などを体験できる東京消防庁の防災体験施設",
+  "url": "https://www.tfd.metro.tokyo.lg.jp/taiken/honjo/index.html",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "Web予約あり(公式の利用案内で確認)",
+  "kind": "常設",
+  "period_note": "入館・体験無料/休館:水曜・第3木曜・年末年始(公式の利用案内で確認)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "立川防災館",
+  "area": "立川市 泉町",
+  "desc": "地震・消火・煙などを体験できる東京消防庁の防災体験施設",
+  "url": "https://www.tfd.metro.tokyo.lg.jp/taiken/tachikawa/index.html",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "10名以上の団体は予約必須。個人のWeb予約は利用日7日前まで",
+  "kind": "常設",
+  "period_note": "入館・体験無料/休館:木曜・第3金曜・年末年始(公式の利用案内で確認)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "工場見学・ものづくり",
+  "name": "日産グローバル本社ギャラリー",
+  "area": "横浜市西区 高島",
+  "desc": "日産の新車・歴史車展示、試乗、イベント。入場・試乗・イベント参加は無料",
+  "url": "https://www.nissan.co.jp/GALLERY/HQ/",
+  "rain_ok": true,
+  "period": "",
+  "venue": "",
+  "reservation": "入場は予約不要(イベントは公式で確認)",
+  "kind": "常設",
+  "period_note": "平日10:00〜18:00・土日祝10:00〜20:00/休館日:11/2・12/7・12/28〜31(公式案内)",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": false,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "ちいかわクリスマスマーケット",
+  "area": "千葉県 千葉市美浜区",
+  "desc": "約6,000㎡にちいかわの世界観のマーケット。高さ6mのシンボルツリーの光と映像のショー、限定フード約35種、グッズ、鎧さんマーケット。11:00〜21:00(最終入場枠18:30〜19:00)",
+  "url": "https://contents-abema.com/chiikawa-christmas-market/",
+  "period": "2026年11月24日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "⚠先行抽選の申込は2026/10/25(日)23:59まで(当落発表10/30)。日時指定チケット制",
+  "trending": true,
+  "venue": "豊砂公園(イオンモール幕張新都心前)・JR京葉線 幕張豊砂駅 徒歩約10分",
+  "reservation": "日時指定チケット制(アソビュー)。大人 平日2,500円/土日祝2,800円、子ども(4〜11歳)1,200円/1,400円。先行抽選 10/15〜10/25 23:59、当落10/30",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "",
+  "rain_ok": false
+ },
+ {
+  "genre": "話題",
+  "name": "ちいかわパーク クリスマス",
+  "area": "豊島区 東池袋",
+  "desc": "体験型施設がクリスマス装飾に。クリスマス限定衣装のグリーティング(予定)、11/24から新グッズ、SNSキャンペーン",
+  "url": "https://chiikawapark-tokyo.jp/",
+  "period": "2026年11月20日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "サンシャインシティ アネックス B1F・1F「ちいかわパーク」",
+  "reservation": "入場チケット制(アソビュー)。完売時間帯は当日券なし",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "話題",
+  "name": "Puroland Illumination Christmas(くまのがっこうコラボ)",
+  "area": "多摩市",
+  "desc": "イルミネーションショー、「くまのがっこう」コラボのスタンプラリー・グッズ、クリスマス衣装のグリーティング、お菓子の家フォトスポット",
+  "url": "https://www.puroland.jp/event-campaign/2026_christmas/",
+  "period": "2026年11月6日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "サンリオピューロランド",
+  "reservation": "ピューロランド入場チケットが必要",
+  "age": "",
+  "baby_ok": true,
+  "baby": "2歳以下無料、ベビーセンターあり(公式)",
+  "kind": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "話題",
+  "name": "ふわふわんだーシナモロールパーク",
+  "area": "文京区 後楽",
+  "desc": "シナモロールの体験型イベント。東京ドームシティのイルミネーションともコラボ",
+  "url": "https://cinnamorollpark.sanrio.co.jp/",
+  "period": "2026年11月20日〜2027年1月17日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "先行抽選(9/17〜9/27)は終了。一般販売は公式で確認",
+  "trending": true,
+  "venue": "東京ドームシティ Gallery AaMo",
+  "reservation": "日時指定チケット制(2,200〜2,500円)",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "話題",
+  "name": "スヌーピーミュージアム 企画展「きょうだいって、いいな」",
+  "area": "町田市",
+  "desc": "PEANUTSのきょうだいをテーマにした企画展。併設カフェに企画展メニュー",
+  "url": "https://snoopymuseum.tokyo/s/smt/diary/detail/2440?cd=exhibition&ima=0000",
+  "period": "2026年9月5日〜2027年2月28日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "スヌーピーミュージアム(南町田グランベリーパーク)",
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "",
+  "rain_ok": true
+ },
+ {
+  "genre": "話題",
+  "name": "東京ディズニーシー「ディズニー・クリスマス」",
+  "area": "千葉県 浦安市",
+  "desc": "ミッキーたちとサンタが船で登場するグリーティング、花火「スターブライト・クリスマス」、25周年カラーのツリー、限定グッズ・メニュー",
+  "url": "https://www.tokyodisneyresort.jp/treasure/christmas2026/tds/",
+  "period": "2026年11月11日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "東京ディズニーシー",
+  "reservation": "パークチケット(日付指定)が必要",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "",
+  "rain_ok": false
+ },
+ {
+  "genre": "話題",
+  "name": "東京ディズニーランド「ディズニー・クリスマス」",
+  "area": "千葉県 浦安市",
+  "desc": "パレード「トイズ・ワンダラス・クリスマス!」、エレクトリカルパレード・ドリームライツ(クリスマス版)、花火「スターブライト・クリスマス」、エントランスのデコレーション初登場。ジョリーフード・プラザが初登場",
+  "url": "https://www.tokyodisneyresort.jp/treasure/christmas2026/tdl/",
+  "rain_ok": false,
+  "period": "2026年11月11日〜2026年12月25日",
+  "venue": "",
+  "reservation": "パークチケット(日付指定)が必要。ディズニー・プレミアアクセス(有料)あり",
+  "kind": "イベント",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": true,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "MARUNOUCHI BRIGHT HOLIDAY「ハリー・ポッター」丸の内を彩る魔法の雪",
+  "area": "千代田区 丸の内",
+  "desc": "丸ビルのシンボルツリー「HOGWARTS SNOW TREE」で魔法の雪と音楽のライティングショー。街の装飾、POP UP SHOP、限定商品",
+  "url": "https://www.marunouchi.com/pickup/event/10727/",
+  "period": "2026年11月12日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "丸ビル(1F マルキューブ)・新丸ビル・丸の内オアゾほか",
+  "reservation": "予約不要(参加型コンテンツ等の詳細は10月下旬発表予定)",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "",
+  "rain_ok": false
+ },
+ {
+  "genre": "話題",
+  "name": "東京クリスマスアドベント(上野恩賜公園)",
+  "area": "台東区 上野公園",
+  "desc": "袴腰広場にクリスマスマーケットとイルミネーション。11/18からは不忍池エリアも点灯。入場無料",
+  "url": "https://christmas-advent.jp/tokyo-ueno/",
+  "period": "2026年11月6日〜2026年12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "上野恩賜公園 袴腰広場・不忍池",
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "イベント",
+  "rain_ok": false
+ },
+ {
+  "genre": "話題",
+  "name": "東京スカイツリータウン ドリームクリスマス2026",
+  "area": "墨田区 押上",
+  "desc": "スカイツリー周辺のクリスマス",
+  "url": "https://www.tokyo-solamachi.jp/",
+  "period": "2026年11月5日〜12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
+  "trending": true,
+  "venue": "",
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "",
+  "rain_ok": false
+ },
+ {
+  "genre": "話題",
+  "name": "ムーミン谷のクリスマス 2026",
+  "area": "埼玉県 飯能市",
+  "desc": "ムーミンバレーパークのクリスマス",
+  "url": "https://metsa-hanno.com/",
+  "period": "2026年10月31日〜12月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "会期はイベント情報サイト(Walker+/enjoytokyo/のびば/キョウチカ等)掲載値。公式発表との照合は未実施",
+  "trending": true,
+  "venue": "",
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "",
+  "rain_ok": false
+ },
+ {
+  "genre": "話題",
+  "name": "Grandberry Christmas「Together this Holiday」(スヌーピーときょうだい)",
+  "area": "町田市 鶴間",
+  "desc": "スヌーピーときょうだいたちのクリスマス装飾をパーク全体で展開。足跡ステッカー、キャラクターパネル。アイススケートリンク「SNOOPY ICE ARENA」は12月5日〜2027年2月28日",
+  "url": "https://www.tokyu-tmd.co.jp/news/grandberry-park-20261022/",
+  "rain_ok": false,
+  "period": "2026年11月14日〜2026年12月25日",
+  "venue": "グランベリーパーク(田園都市線 南町田グランベリーパーク駅直結)",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "SNOOPY ICE ARENAは2026年12月5日〜2027年2月28日",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": true,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "ミッフィーほかほかダイニング(東京ソラマチ)",
+  "area": "墨田区 押上",
+  "desc": "ミッフィーのお顔のグラタンパイやほかほかシチュー・スープの冬限定ダイニング。BOX cafe&space 東京ソラマチ店",
+  "url": "https://hokahoka-dining.ltr-online.com",
+  "rain_ok": true,
+  "period": "2026年10月31日〜2027年1月24日",
+  "venue": "BOX cafe&space 東京ソラマチ店",
+  "reservation": "事前予約 2026年10月23日18:00〜(予約してメニュー注文でマルチケースをプレゼント)",
+  "kind": "イベント",
+  "period_note": "事前予約は10/23 18:00から開始済み / 事前予約が10/23 18:00から開始済み",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": true,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "アクアシティお台場×リラックマ「クリスマスパーティー」",
+  "area": "港区 台場",
+  "desc": "アクアシティお台場がリラックマ一色に。展示・スタンプラリー(3階アクアアリーナほか)、コラボカフェ(11/25〜12/25・5階R.O.STAR Seaside Terrace)",
+  "url": "https://www.aquacity.jp/news/detail.php?id=63939",
+  "rain_ok": true,
+  "period": "2026年11月13日〜2026年12月25日",
+  "venue": "アクアシティお台場",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "期間はサンエックス公式リリースの記載",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": true,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "スヌーピータウンミニ東京駅一番街店 クリスマスフェア2026",
+  "area": "千代田区 丸の内",
+  "desc": "東京駅一番街 地下1階 東京キャラクターストリート内。11/7発売「SWEET CANDY CHRISTMAS with Siblings」。税込5,500円以上でマグカップかミニボウル、11,000円以上で両方プレゼント(先着各6,000名)",
+  "url": "https://www.tokyoeki-1bangai.co.jp/event/detail/?cd=001267",
+  "rain_ok": true,
+  "period": "2026年11月7日〜2026年12月25日",
+  "venue": "東京駅一番街 地下1階 東京キャラクターストリート 10:00〜20:30",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "特典は先着・なくなり次第終了",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": true,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "THE WORLD OF BIOHAZARD 30周年展",
+  "area": "渋谷区 宇田川町",
+  "desc": "バイオハザード30周年の展覧会",
+  "url": "https://bhre30th-exhibition.jp/",
+  "period": "2026年10月30日〜2026年12月24日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "渋谷BEAMギャラリー",
+  "reservation": "チケットは公式で案内",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "企画展",
+  "rain_ok": true
+ },
+ {
+  "genre": "話題",
+  "name": "芥見下々『呪術廻戦』完結展",
+  "area": "新宿区 西新宿",
+  "desc": "連載完結を記念した原画展",
+  "url": "https://jujutsuten.com/",
+  "period": "2026年12月25日〜2027年1月25日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "新宿住友ビル 三角広場",
+  "reservation": "チケットは公式で案内",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "企画展",
+  "rain_ok": true
+ },
+ {
+  "genre": "話題",
+  "name": "ティム・バートンのラビリンス 東京",
+  "area": "江東区 豊洲",
+  "desc": "ティム・バートンの世界を巡る没入型展覧会",
+  "url": "https://tokyo.timburtonexhibition.com/",
+  "period": "2026年11月25日〜2027年2月21日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "CREVIA BASE Tokyo(豊洲)",
+  "reservation": "チケットは公式で案内",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "企画展",
+  "rain_ok": true
+ },
+ {
+  "genre": "話題",
+  "name": "サクラ大戦30周年記念展 ～夢はよみがえる～(東京会場)",
+  "area": "千代田区 有楽町",
+  "desc": "サクラ大戦30周年記念展。東京会場は有楽町マルイ8F SPACE1(当日券販売場所)。2,000円(前売・税込)、当日券2,400円",
+  "url": "https://sakura-30th-exhibition.com/ticket/",
+  "rain_ok": true,
+  "period": "2026年10月31日〜2026年11月15日",
+  "venue": "有楽町マルイ 8F イベントスペース SPACE1",
+  "reservation": "日時指定券10/31・11/1、指定期間中有効券11/2〜11/15。前売はイープラスで10/30 23:59まで、以降は当日券",
+  "kind": "企画展",
+  "period_note": "⚠前売(イープラス)は2026/10/30 23:59まで / 前売は10/30 23:59まで",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": true,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "ギルティクラウン×甲鉄城のカバネリ展(東京会場)",
+  "area": "中央区 銀座",
+  "desc": "ギルティクラウン×甲鉄城のカバネリ展。全日日時指定制、11:00〜20:00(最終日17:00閉場・日曜19:30閉場)",
+  "url": "https://www.gc-kabaneri-ten.com/",
+  "rain_ok": true,
+  "period": "2026年10月30日〜2026年11月23日",
+  "venue": "ギンザミライミュージアム",
+  "reservation": "全日日時指定制",
+  "kind": "企画展",
+  "period_note": "",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": true,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "テート美術館 ターナー展",
+  "area": "台東区 上野公園",
+  "desc": "崇高の絵画、現代美術との対話",
+  "url": "https://turner2026-27.exhibit.jp/outline/",
+  "period": "2026年10月24日〜2027年2月21日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "国立西洋美術館",
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "企画展",
+  "rain_ok": true
+ },
+ {
+  "genre": "話題",
+  "name": "少女漫画・インフィニティ 萩尾望都×山岸凉子×大和和紀",
+  "area": "港区 六本木",
+  "desc": "少女漫画の巨匠3人の原画展",
+  "url": "https://www.nact.jp/exhibition_special/",
+  "period": "2026年10月28日〜2027年2月8日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "国立新美術館",
+  "reservation": "",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "企画展",
+  "rain_ok": true
+ },
+ {
+  "genre": "話題",
+  "name": "第39回東京国際映画祭",
+  "area": "千代田区 日比谷ほか",
+  "desc": "日比谷・有楽町・銀座エリアを中心に開催される国際映画祭",
+  "url": "https://2026.tiff-jp.net/news/ja/?p=68648",
+  "period": "2026年10月26日〜2026年11月4日",
+  "url_status": "ok",
+  "url_note": "",
+  "period_note": "",
+  "trending": true,
+  "venue": "日比谷・有楽町・銀座エリア",
+  "reservation": "上映チケットは公式で案内",
+  "age": "",
+  "baby_ok": false,
+  "baby": "",
+  "kind": "イベント",
+  "rain_ok": true
+ },
+ {
+  "genre": "話題",
+  "name": "PLAZA TOKYO+(新宿マルイ 本館B1F)",
+  "area": "新宿区 新宿",
+  "desc": "60周年のPLAZAが新宿マルイ本館B1Fにオープン。食品・菓子、文具、玩具、キャラクター雑貨、化粧品、衣料品、常設POPUP、カフェなど。11:00〜21:00",
+  "url": "https://prtimes.jp/main/html/rd/p/000004216.000003860.html",
+  "rain_ok": true,
+  "period": "2026年11月20日オープン",
+  "venue": "新宿マルイ 本館B1F",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "オープン日のみ",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": true,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "アトレ中野",
+  "area": "中野区 中野",
+  "desc": "アトレ中野 NEW OPEN(公式ページ表記)",
+  "url": "https://www.atre.co.jp/campaign/newopen/nakano/",
+  "rain_ok": true,
+  "period": "2026年12月9日オープン",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "オープン日のみ",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": true,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "秋葉原UDX 商業ゾーン リニューアル",
+  "area": "千代田区 外神田",
+  "desc": "「秋葉原UDX」商業ゾーン 12/10 リニューアル(NTT都市開発の公式ニュース)",
+  "url": "https://www.nttud.co.jp/news/detail/id/n28040.html",
+  "rain_ok": true,
+  "period": "2026年12月10日リニューアル",
+  "venue": "",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "リニューアル日のみ",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "",
+  "trending": true,
+  "age": "",
+  "baby": ""
+ },
+ {
+  "genre": "話題",
+  "name": "明治安田新宿ビル 商業エリア",
+  "area": "新宿区 西新宿",
+  "desc": "新宿駅直結の1階・地下1階に全21店舗(キル フェボン、Shake Shack、スターバックスなど)が開業(明治安田の公式リリース)",
+  "url": "https://www.meijiyasuda.co.jp/profile/news/release/2026/pdf/20261022_02.pdf",
+  "rain_ok": true,
+  "period": "2026年11月28日開業",
+  "venue": "明治安田新宿ビル 1F・B1F",
+  "reservation": "",
+  "kind": "イベント",
+  "period_note": "開業日のみ",
+  "baby_ok": false,
+  "url_status": "ok",
+  "url_note": "公式リリースはPDF。店舗リストは検索要約で確認",
+  "trending": true,
+  "age": "",
+  "baby": ""
  }
 ]
