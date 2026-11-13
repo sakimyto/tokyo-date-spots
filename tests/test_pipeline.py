@@ -50,10 +50,39 @@ def candidate(index=0):
                 url=f'https://example.test/event/{index}/?lang=ja', period='2026年11月13日〜14日',
                 venue='検査用会場', reservation='', kind='イベント', period_note='',
                 url_status='ok', url_note='', source_checked_at='2026-11-13 JST',
-                source_evidence='会期・会場を確認', rain_ok=True, baby_ok=False)
+                source_evidence='会期・会場を確認', venue_status='confirmed',
+                venue_evidence='https://example.test/official 会場：検査用会場', rain_ok=True, baby_ok=False)
 
 
 class CollectionTests(unittest.TestCase):
+    def test_period_intervals_against_explicit_calendar(self):
+        market = '2026年12月19日〜21日、12月23日〜25日'
+        sunrise = '2027年1月1日(金・祝) 5:30〜7:30'
+        for period, note, cases in [
+            (market, '', [('2026-12-18', 'soon'), ('2026-12-19', 'now'),
+              ('2026-12-21', 'now'), ('2026-12-22', 'soon'), ('2026-12-23', 'now'),
+              ('2026-12-24', 'now'), ('2026-12-25', 'now'), ('2026-12-26', 'ended')]),
+            (sunrise, '1日のみ', [('2026-12-31', 'soon'), ('2027-01-01', 'now'), ('2027-01-02', 'ended')]),
+        ]:
+            for day, expected in cases:
+                with self.subTest(period=period, day=day):
+                    self.assertEqual(collection.period_phase(period, dt.date.fromisoformat(day), note), expected)
+        self.assertEqual(collection.period_bounds(market)[1], dt.date(2026, 12, 25))
+        row = {**candidate(), 'period': sunrise, 'period_note': '1日のみ'}
+        removal = {k: row[k] for k in ('genre', 'name', 'period', 'url')}
+        removal['reason'] = '会期終了'
+        self.assertEqual(len(collection.validate([], [removal], [row], dt.date(2027, 1, 2))['removals']), 1)
+
+    def test_venue_confirmation_is_more_than_nonempty(self):
+        for status, venue, proof in [('unconfirmed', '未確認（上映館）', ''),
+              ('confirmed', '上映館は各劇場サイトで確認', '公式サイト'),
+              ('confirmed', '具体的会場', '')]:
+            rows = [candidate(i) for i in range(30)]
+            rows[0].update(venue_status=status, venue=venue, venue_evidence=proof)
+            report = collection.validate(rows, [], [], DATE)
+            self.assertFalse(report['ready'])
+            self.assertEqual(len(report['accepted']), 29)
+
     def test_source_pruning_all_supported_row_shapes(self):
         text = '''ROWS = [R('g', 'ended', 'a'), dict(name='ended'), {'name':'ended'}, {'name':'keep'}]
 rows.extend([{'name':'ended'}, {'name':'keep'}])

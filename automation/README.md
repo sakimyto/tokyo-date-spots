@@ -15,7 +15,7 @@ launchctl print "gui/$(id -u)/com.sakimyto.tokyo-date-spots-weekly"
 
 ロード時は実行しない。登録内容はWeekday=5、Hour=9、Minute=5、RunAtLoad=falseと実行先を読み戻す。`launchctl print`が次の絶対日時を表示しない場合は、JSTの現在時刻と登録calendarから次の金曜日を算出して記録する。
 
-Claudeは`claude-fable-5-2`を指定し、読み取り・Web取得だけのツールで構造化データを返す。実モデルが違えば停止する。候補0件・除外0件はRESULT.mdに「変更なし」とだけ書く。新規の有効候補30件未満は適用・pushしない。
+Claudeは`claude-fable-5-2`を指定し、読み取り・Web取得だけのツールで構造化データを返す。指定した主モデルをmodelUsageの先頭・canonicalModel・正のoutputTokensと照合し、違えば停止する。後続の補助モデルとWeb検索利用は許容する。候補0件・除外0件はRESULT.mdに「変更なし」とだけ書く。新規の有効候補30件未満は適用・pushしない。
 
 Codexの実装・確認・公開は別セッションで順に行い、追加AI起動は禁止する。モデル・reasoningは既存の選択を使う。実装・公開はworktree操作・通常GitHub公開・既存hook・配備確認を要するためCLIの`danger-full-access`を使い、確認は`read-only`にする。`dangerously-bypass-*`やhook回避は使わない。理由は本人が依頼したローカルMacでの週次公開、範囲はこの2repositoryの週次更新、期限は定期処理の停止まで、承認者はsakimyto、承認日は2026-11-13。これは新しいログイン・権限・課金・秘密・外部通知の承認ではない。
 

@@ -5,7 +5,7 @@
 
 正本はこのrepositoryの`automation/`と[PUBLISH.md](../PUBLISH.md)。実行コピー・cursor・lock・停止ファイル・結果は`~/.codex/automation-state/tokyo-date-spots-weekly/`。1週のキーはJSTの日付。`state.json`へ実行前にphaseをpendingとして原子的に保存し、確認した出力とcommitを記録してから進む。成功済みの日付は再実行しない。実行中のlockは同一Macでの二重実行を防ぐ。別環境の旧処理との排他は保証せず、9-05-botの停止は親担当が行う。
 
-観測対象は、当週の公式情報と採用済みJSON。Claude Code `claude-fable-5-2`が読み取り用ツールだけで収集し、構造化出力を返す。実モデル名をCLIのmodelUsageで照合する。parserが成果物を保存し、必須フィールド・URL重複・終了条件・新規30件を機械検査する。追加も除外も0なら結果は「変更なし」の1行だけとし、追加調査・通知をせず終了する。入力欠落やCLI失敗を0件扱いしない。
+観測対象は、当週の公式情報と採用済みJSON。Claude Code `claude-fable-5-2`が読み取り用ツールだけで収集し、構造化出力を返す。指定した主モデルをCLIのmodelUsageの先頭・canonicalModel・正のoutputTokensで照合し、後続の補助モデルとWeb検索は許容する。parserが成果物を保存し、必須フィールド・URL重複・終了条件・新規30件を機械検査する。追加も除外も0なら結果は「変更なし」の1行だけとし、追加調査・通知をせず終了する。入力欠落やCLI失敗を0件扱いしない。
 
 Codexの実装セッションは元データの採用判断を変えず、両repositoryの作業branchへ実装・検証・commitする。この段階ではpushしない。別のread-only Codexセッションが仕様・commit・実行証拠を検査する。実装担当の自己申告は独立レビューとしない。reviewのHEADが両方一致したときだけ、別のCodexセッションが許可済みの通常push・PR・merge・配備確認を行う。モデル・reasoningはCLIの既存選択を保持する。子CLIは追加AIを起動しない。
 

@@ -96,14 +96,26 @@ var GENRES=["話題","すべて"].concat(Array.from(new Set(D.map(function(d){re
 var PREFS=["神奈川県","埼玉県","千葉県","栃木県","群馬県","茨城県","山梨県","静岡県","長野県"];
 function pref(a){for(var i=0;i<PREFS.length;i++){if(a.indexOf(PREFS[i])===0)return PREFS[i];}return "東京都";}
 function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
-// 会期: 「YYYY年M月D日〜[YYYY年][M月]D日」「YYYY年M月D日・D日」形式のみ解釈。年が無いもの・開業日のみは対象外
-var RE=/(\d{4})年(\d{1,2})月(\d{1,2})日\s*(?:〜|～|・)\s*(?:(\d{4})年)?(?:(\d{1,2})月)?(\d{1,2})日/;
-var RE1=/(\d{4})年(\d{1,2})月(\d{1,2})日[^〜～・]*?1日のみ/;
-function range(p){var m=RE.exec(p||"");if(!m){var o=RE1.exec(p||"");if(!o)return null;return [new Date(+o[1],+o[2]-1,+o[3]),new Date(+o[1],+o[2]-1,+o[3],23,59,59)];}var y1=+m[1],m1=+m[2],d1=+m[3];var m2=m[5]?+m[5]:m1,d2=+m[6];var y2=m[4]?+m[4]:y1;
-  var s=new Date(y1,m1-1,d1),e=new Date(y2,m2-1,d2,23,59,59);if(!m[4]&&e<s)e=new Date(y1+1,m2-1,d2,23,59,59);return [s,e];}
-D.forEach(function(d){d._r=range(d.period);});
-function isNow(d,t){t=t||new Date();return !!(d._r&&d._r[0]<=t&&t<=d._r[1]);}
-function isSoon(d,t){t=t||new Date();return !!(d._r&&t<d._r[0]);}
+// 会期は区間ごとに保持し、休催日は次の区間の開催前とする。
+function ranges(p,n){var out=[],year=null,parts=(p||'').split('、');
+  for(var part of parts){var m=/^\s*(?:(\d{4})年)?(\d{1,2})月(\d{1,2})日/.exec(part);
+    if(!m||!(m[1]||year))return null;year=+(m[1]||year);
+    var month=+m[2],day=+m[3],s=new Date(year,month-1,day);
+    if(s.getFullYear()!==year||s.getMonth()!==month-1||s.getDate()!==day)return null;
+    var tail=part.slice(m[0].length).replace(/^[（(][^）)]*[）)]/,'').trim();
+    var e=/^([〜～~・])\s*(?:(\d{4})年)?(?:(\d{1,2})月)?(\d{1,2})日/.exec(tail);
+    if(e){var ey=e[2]?+e[2]:year,em=e[3]?+e[3]:month,ed=+e[4],end=new Date(ey,em-1,ed,23,59,59,999);
+      if(end.getFullYear()!==ey||end.getMonth()!==em-1||end.getDate()!==ed)return null;
+      if(!e[2]&&end<s)end=new Date(ey+1,em-1,ed,23,59,59,999);if(end<s)return null;
+      if(e[1]==='・'){out.push([s,new Date(year,month-1,day,23,59,59,999)]);out.push([new Date(end.getFullYear(),end.getMonth(),ed),end]);}
+      else out.push([s,end]);
+    }else if((tail+(n||'')).includes('1日のみ')||tail==='のみ')out.push([s,new Date(year,month-1,day,23,59,59,999)]);
+    else return null;
+  }return out.sort(function(a,b){return a[0]-b[0];});}
+D.forEach(function(d){d._rs=ranges(d.period,d.period_note);d._r=d._rs&&[d._rs[0][0],new Date(Math.max.apply(null,d._rs.map(function(r){return +r[1];})))];});
+function isNow(d,t){t=t||new Date();return !!(d._rs&&d._rs.some(function(r){return r[0]<=t&&t<=r[1];}));}
+function isSoon(d,t){t=t||new Date();return !!(d._rs&&!isNow(d,t)&&d._rs.some(function(r){return t<r[0];}));}
+function nextStart(d,t){return d._rs.find(function(r){return t<r[0];})[0];}
 function isEnded(d,t){t=t||new Date();return !!(d._r&&t>d._r[1]);}
 function daysTo(a,t){var x=new Date(a.getFullYear(),a.getMonth(),a.getDate()),y=new Date(t.getFullYear(),t.getMonth(),t.getDate());return Math.round((x-y)/864e5);}
 var st={g:"話題",q:"",a:"",fav:false,now:false,soon:false,ended:false,baby:false,rain:false};
@@ -125,7 +137,7 @@ function card(d,t){var f=!!favs[favKey(d)];
   '<button type="button" class="star'+(f?" on":"")+'" data-fav="'+d._id+'" aria-label="お気に入り" aria-pressed="'+f+'">'+(f?"★":"☆")+'</button>'+
   '<div class="n">'+esc(d.name)+'</div><div class="a">📍'+esc(d.area)+'<span class="g">'+esc(d.genre)+(d.kind?'・'+esc(d.kind):'')+'</span>'+(d.baby_ok?'<span class="bb">👶赤ちゃんOK</span>':'')+(d.rain_ok?'<span class="rb">☔雨の日OK</span>':'')+'</div>'+
   '<div class="d">'+esc(d.desc)+'</div>'+
-  (d.period?'<div class="p">🗓 '+esc(d.period)+(isNow(d,t)?'<span class="now">開催中</span>':isSoon(d,t)?'<span class="soon">これから(あと'+daysTo(d._r[0],t)+'日)</span>':isEnded(d,t)?'<span class="end">終了</span>':'')+'</div>':'')+
+  (d.period?'<div class="p">🗓 '+esc(d.period)+(isNow(d,t)?'<span class="now">開催中</span>':isSoon(d,t)?'<span class="soon">これから(あと'+daysTo(nextStart(d,t),t)+'日)</span>':isEnded(d,t)?'<span class="end">終了</span>':'')+'</div>':'')+
   (d.venue?'<div class="v">🏛 '+esc(d.venue)+'</div>':'')+
   (d.age?'<div class="v">👶 対象: '+esc(d.age)+'</div>':'')+
   (d.reservation?'<div class="v">🎟 '+esc(d.reservation)+'</div>':'')+

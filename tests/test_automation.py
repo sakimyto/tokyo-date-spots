@@ -38,7 +38,8 @@ class AutomationTests(unittest.TestCase):
             return dict(genre='test', name=f'candidate-{index}', area='東京', desc='検査',
                 url=f'https://example.test/{index}', period='2026年11月20日〜21日', venue='東京',
                 reservation='', kind='イベント', period_note='', url_status='ok', url_note='',
-                source_checked_at='2026-11-20 JST', source_evidence='会期・会場', rain_ok=True, baby_ok=False)
+                source_checked_at='2026-11-20 JST', source_evidence='会期・会場', venue_status='confirmed',
+                venue_evidence='https://example.test/official 会場：東京', rain_ok=True, baby_ok=False)
         return {'additions': [row(index) for index in range(30)], 'removals': [], 'notes': 'test'}
 
     def test_no_change_and_duplicate_no_model_work(self):
@@ -80,6 +81,25 @@ class AutomationTests(unittest.TestCase):
             with self.assertRaisesRegex(RuntimeError, '実モデル'):
                 weekly.collect({'claude': 'fake'}, ROOT, self.root, 'test')
         self.assertFalse((self.root / 'collect/COLLECTED.json').exists())
+
+    def test_real_mixed_model_usage_and_wrong_primary(self):
+        usage = json.loads((ROOT / 'tests/fixtures/claude-collect-model-usage.json').read_text())
+        result = {'is_error': False, 'modelUsage': usage, 'structured_output': self.valid_packet()}
+        with patch.object(weekly, 'command', return_value=json.dumps(result)) as command:
+            self.assertEqual(weekly.collect({'claude': 'fake'}, ROOT, self.root, 'test'), self.valid_packet())
+            self.assertEqual(command.call_args.args[0][2:4], ['--model', 'claude-fable-5-2'])
+        self.assertEqual((self.root / 'collect/MODEL.txt').read_text(), 'claude-fable-5-2\n')
+        for models, extra in [
+            ({'claude-haiku-5-5': usage['claude-haiku-5-5']}, {}),
+            (dict(reversed(list(usage.items()))), {}),
+            (usage, {'model': 'claude-haiku-5-5'}),
+            ({'claude-fable-5-2': {**usage['claude-fable-5-2'], 'outputTokens': 0}}, {}),
+        ]:
+            with self.subTest(models=list(models), extra=extra):
+                output = {**result, 'modelUsage': models, **extra}
+                with patch.object(weekly, 'command', return_value=json.dumps(output)):
+                    with self.assertRaisesRegex(RuntimeError, '実モデル'):
+                        weekly.collect({'claude': 'fake'}, ROOT, self.root, 'test')
 
     def test_unapproved_review_cannot_publish(self):
         implementation = dict(status='ready', summary='test', tokyo_head='t', site_head='s', site_worktree='test')

@@ -164,6 +164,24 @@ async function run(browser) {
   await matches(later, future, {rain: true}, '未来の雨でも終了を除く');
   await later.close();
 
+  // Expected dates/states come from the official calendar, not the oracle parser.
+  for (const [name, cases] of [
+    ['HIBIYA CHRISTMAS MARKET', [['2026-12-18','soon'],['2026-12-19','now'],
+      ['2026-12-21','now'],['2026-12-22','soon'],['2026-12-23','now'],
+      ['2026-12-24','now'],['2026-12-25','now'],['2026-12-26','ended']]],
+    ['初日の出特別営業', [['2026-12-31','soon'],['2027-01-01','now'],['2027-01-02','ended']]],
+  ]) {
+    for (const [day, state] of cases) {
+      const target = await pageAt(day, '#'+new URLSearchParams({g:'すべて',q:name}));
+      try {
+        equal(await target.locator('article').count(), state==='ended'?0:1, name+' '+day+' initial');
+        if (state==='ended') await target.click('#fEnd');
+        equal(await target.locator('article .'+{soon:'soon',now:'now',ended:'end'}[state]).count(),1,name+' '+day+' badge');
+        if (day==='2026-12-22') equal(await target.locator('.soon').textContent(),'これから(あと1日)','休催日の次回開始日');
+      } finally {await target.close();}
+    }
+  }
+
   await tab('すべて');
   ok(await page.evaluate(() => {
     const tabs = document.getElementById('tabs');

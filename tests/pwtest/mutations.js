@@ -12,6 +12,8 @@ withBrowser(async browser => {
   const scratch = fs.mkdtempSync(path.join(base, 'ui-mutations-'));
   const detected = [];
   const cases = [
+    {name:'SPLIT_PERIOD',before:'d._rs=ranges(d.period,d.period_note);',after:'d._rs=ranges(d.period,d.period_note);if(d._rs)d._rs=d._rs.slice(0,1);',date:'2026-12-24',filters:{}},
+    {name:'SINGLE_NOTE',before:'ranges(d.period,d.period_note)',after:'ranges(d.period)',date:'2027-01-02',filters:{}},
     {name: 'NO_EXPIRED', before: '(st.ended||!isEnded(d,t))', after: 'true',
       date: futureDate(today), filters: {}},
     {name: 'EXCLUSIVE', before: 'if(st.now)st.soon=false;', after: '',

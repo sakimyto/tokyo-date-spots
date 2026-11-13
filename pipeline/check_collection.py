@@ -8,7 +8,7 @@ from urllib.parse import urlsplit, urlunsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 STRINGS = ('genre', 'name', 'area', 'desc', 'url', 'period', 'venue', 'reservation',
-           'kind', 'period_note', 'url_status', 'url_note', 'source_checked_at', 'source_evidence')
+           'kind', 'period_note', 'url_status', 'url_note', 'source_checked_at', 'source_evidence', 'venue_status', 'venue_evidence')
 NONEMPTY = ('genre', 'name', 'area', 'desc', 'url', 'venue', 'kind', 'source_evidence')
 
 
@@ -19,23 +19,55 @@ def canonical_url(url):
     return urlunsplit((parsed.scheme.lower(), parsed.netloc.lower(), parsed.path.rstrip('/'), '', ''))
 
 
-def period_bounds(text):
-    first = re.search(r'(\d{4})年(\d+)月(\d+)日', text)
-    if not first:
+def period_intervals(text, note=''):
+    intervals = []
+    year = None
+    for part in text.split('、'):
+        first = re.match(r'\s*(?:(\d{4})年)?(\d{1,2})月(\d{1,2})日', part)
+        if not first or not (first[1] or year):
+            return None
+        year = int(first[1] or year)
+        try:
+            start = dt.date(year, int(first[2]), int(first[3]))
+            tail = re.sub(r'^[（(][^）)]*[）)]', '', part[first.end():]).strip()
+            last = re.match(r'([〜～~・])\s*(?:(\d{4})年)?(?:(\d{1,2})月)?(\d{1,2})日', tail)
+            if last:
+                separator, yy, mm, dd = last.groups()
+                end = dt.date(int(yy or year), int(mm or first[2]), int(dd))
+                if not yy and end < start:
+                    end = end.replace(year=year + 1)
+                if end < start:
+                    return None
+                intervals.extend([(start, start), (end, end)] if separator == '・' else [(start, end)])
+            elif '1日のみ' in tail + note or tail == 'のみ':
+                intervals.append((start, start))
+            else:
+                return None
+        except ValueError:
+            return None
+    return sorted(intervals) or None
+
+
+def period_bounds(text, note=''):
+    intervals = period_intervals(text, note)
+    return (min(s for s, _ in intervals), max(e for _, e in intervals)) if intervals else None
+
+
+def period_phase(text, date, note=''):
+    intervals = period_intervals(text, note)
+    if not intervals:
         return None
-    year, month, day = map(int, first.groups())
-    tail = text[first.end():]
-    last = re.match(r'\s*[〜～・]\s*(?:(\d{4})年)?(?:(\d+)月)?(\d+)日', tail)
-    if not last and not re.match(r'[^〜～・]*?1日のみ', tail):
-        return None
-    start = dt.date(year, month, day)
-    if not last:
-        return start, start
-    yy, mm, dd = last.groups()
-    end = dt.date(int(yy or year), int(mm or month), int(dd))
-    if not yy and end < start:
-        end = end.replace(year=year + 1)
-    return start, end
+    if any(start <= date <= end for start, end in intervals):
+        return 'now'
+    return 'ended' if date > max(end for _, end in intervals) else 'soon'
+
+
+def confirmed_venue(row):
+    # A nonempty instruction to check a venue is not a confirmed physical venue.
+    return (row.get('venue_status') == 'confirmed'
+            and bool(row.get('venue_evidence', '').strip())
+            and bool(row.get('venue', '').strip())
+            and not re.search(r'未確認|未定|各劇場|上映館は|で確認|要確認', row['venue']))
 
 
 def validate(additions, removals, baseline, date):
@@ -53,6 +85,8 @@ def validate(additions, removals, baseline, date):
             missing += [key for key in ('rain_ok', 'baby_ok') if type(row.get(key)) is not bool]
             if missing:
                 raise ValueError('必須フィールド欠落・型不正: ' + ', '.join(missing))
+            if not confirmed_venue(row):
+                raise ValueError('公式会場の確認が完了していない（venue_status / venue_evidence）')
             if row['source_checked_at'] != date.isoformat() + ' JST':
                 raise ValueError('公式確認日が対象週と不一致')
             if row['url_status'] != 'ok':
@@ -61,7 +95,7 @@ def validate(additions, removals, baseline, date):
                 raise ValueError('kindはイベントまたは常設が必要')
             if row['kind'] == 'イベント' and not row['period'].strip():
                 raise ValueError('イベントの会期がない')
-            period = period_bounds(row['period'])
+            period = period_bounds(row['period'], row.get('period_note', ''))
             if period and period[1] < date:
                 raise ValueError('追加候補の会期が終了済み')
             name, url = row['name'].strip(), canonical_url(row['url'])
@@ -85,7 +119,7 @@ def validate(additions, removals, baseline, date):
             old = existing.get(key)
             if not old or old['period'] != row['period'] or canonical_url(old['url']) != canonical_url(row['url']):
                 raise ValueError('既存行の会期・URLと一致しない')
-            bounds = period_bounds(row['period'])
+            bounds = period_bounds(row['period'], old.get('period_note', ''))
             if not bounds or bounds[1] >= date or old.get('kind') == '常設':
                 raise ValueError('終了確定の期間イベントではない（常設・開業日・当日以降終了を保持）')
             if key in removed_keys:

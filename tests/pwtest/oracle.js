@@ -16,27 +16,44 @@ function dateNumber(year, month, day) {
   return year * 10000 + month * 100 + day;
 }
 
-function bounds(period = '') {
-  const first = /(\d{4})年(\d+)月(\d+)日/.exec(period);
-  if (!first) return null;
-  const [year, month, day] = first.slice(1).map(Number);
-  const tail = period.slice(first.index + first[0].length);
-  const end = /^\s*[〜～・]\s*(?:(\d{4})年)?(?:(\d+)月)?(\d+)日/.exec(tail);
-  if (!end && !/^[^〜～・]*?1日のみ/.test(tail)) return null;
-  const start = dateNumber(year, month, day);
-  if (!end) return [start, start];
-  let endYear = end[1] ? Number(end[1]) : year;
-  const endMonth = end[2] ? Number(end[2]) : month;
-  const endDay = Number(end[3]);
-  if (!end[1] && dateNumber(endYear, endMonth, endDay) < start) endYear++;
-  return [start, dateNumber(endYear, endMonth, endDay)];
+function intervals(period = '', note = '') {
+  let year;
+  const result = [];
+  for (const part of period.split('、')) {
+    const tokens = [...part.replace('1日のみ', '').matchAll(/(?:(\d{4})年)?(?:(\d+)月)?(\d+)日/g)].slice(0, 2);
+    const first = tokens[0];
+    if (!first || !first[2] || (!first[1] && !year) || part.slice(0, first.index).trim()) return null;
+    year = Number(first[1] || year);
+    const start = dateNumber(year, Number(first[2]), Number(first[3]));
+    if (tokens.length === 1) {
+      if (!(part + note).includes('1日のみ') && !part.endsWith('のみ')) return null;
+      result.push([start, start]);
+    } else if (tokens.length === 2) {
+      const last = tokens[1];
+      const between = part.slice(first.index + first[0].length, last.index).trim();
+      if (!['〜','～','~','・'].includes(between)) return null;
+      let endYear = Number(last[1] || year);
+      const endMonth = Number(last[2] || first[2]);
+      let end = dateNumber(endYear, endMonth, Number(last[3]));
+      if (!last[1] && end < start) end = dateNumber(++endYear, endMonth, Number(last[3]));
+      if (end < start) return null;
+      result.push(...(between === '・' ? [[start,start],[end,end]] : [[start,end]]));
+    } else return null;
+  }
+  return result;
+}
+
+function bounds(period = '', note = '') {
+  const ranges = intervals(period, note);
+  return ranges ? [Math.min(...ranges.map(r=>r[0])), Math.max(...ranges.map(r=>r[1]))] : null;
 }
 
 function phase(row, date) {
-  const range = bounds(row.period);
-  if (!range) return 'permanent';
+  const ranges = intervals(row.period, row.period_note);
+  if (!ranges) return 'permanent';
   const now = Number(date.replaceAll('-', ''));
-  return now < range[0] ? 'soon' : now > range[1] ? 'ended' : 'now';
+  if (ranges.some(([s,e])=>s<=now&&now<=e)) return 'now';
+  return now > Math.max(...ranges.map(r=>r[1])) ? 'ended' : 'soon';
 }
 
 function prefecture(area) {
