@@ -12,21 +12,33 @@ collection = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(collection)
 
 
-def verify(data, baseline, evidence):
+def verify(data, baseline, evidence, *, require_minimum=True):
     key = lambda row: (row['genre'], row['name'])
     old, new = {key(row): row for row in baseline}, {key(row): row for row in data}
     date = dt.date.fromisoformat(evidence['date'])
     assert len(new) == len(data), 'UNIQUE'
-    assert not any((period := collection.period_bounds(row['period'])) and period[1] < date for row in data), 'NO_EXPIRED'
+    assert not any((period := collection.period_bounds(row['period'], row.get('period_note', ''))) and period[1] < date for row in data), 'NO_EXPIRED'
     assert old.keys() - new.keys() == {key(row) for row in evidence['removals']}, 'KEEP'
-    assert all(old[k] == new[k] for k in old.keys() & new.keys()), 'KEEP_FIELDS'
+    corrections = {key(row): row['fields'] for row in evidence.get('corrections', [])}
+    assert all({**old[k], **corrections.get(k, {})} == new[k] for k in old.keys() & new.keys()), 'KEEP_FIELDS'
     additions = new.keys() - old.keys()
-    assert len({name for genre, name in additions}) >= 30, 'NEW30'
-    assert additions == {key(row) for row in evidence['accepted']}, 'ADOPTION'
-    for candidate in evidence['accepted']:
+    confirmed = [row for row in evidence['accepted'] if collection.confirmed_venue(row)]
+    valid_names = {row['name'] for row in confirmed if key(row) in additions}
+    if require_minimum:
+        assert len(valid_names) >= 30, 'NEW30'
+    published = evidence['accepted'] + evidence.get('published_unconfirmed', [])
+    assert additions == {key(row) for row in published}, 'ADOPTION'
+    for candidate in published:
         row = new[key(candidate)]
         assert all(row[k] == value for k, value in candidate.items() if k in row), 'FACTS'
-    return len(additions), len(old.keys() - new.keys())
+    return len(valid_names), len(old.keys() - new.keys())
+
+
+def below_minimum(data, accepted):
+    remove_count = len(accepted) - 29
+    assert remove_count > 0
+    removed = {(row['genre'], row['name']) for row in accepted[:remove_count]}
+    return [row for row in data if (row['genre'], row['name']) not in removed]
 
 
 class WeeklyDataTests(unittest.TestCase):
@@ -35,21 +47,46 @@ class WeeklyDataTests(unittest.TestCase):
         evidence = json.loads(path.read_text())
         baseline = json.loads(subprocess.check_output(['git', 'show', evidence['baseline_ref'] + ':spots.json'], cwd=ROOT))
         rows = json.loads((ROOT / 'spots.json').read_text())
-        self.assertEqual(verify(rows, baseline, evidence), (len(evidence['accepted']), len(evidence['removals'])))
+        # This is an authorized correction of already published rows, not a new weekly application.
+        self.assertEqual(verify(rows, baseline, evidence, require_minimum=False),
+                         (len(evidence['accepted']), len(evidence['removals'])))
+        self.assertEqual(evidence['valid_additions'], 28)
+        report = collection.validate(evidence['accepted'] + evidence['published_unconfirmed'],
+                                     evidence['removals'], baseline, dt.date.fromisoformat(evidence['date']))
+        self.assertEqual(len(report['accepted']), 28)
+        self.assertEqual(len(report['rejected']), 3)
+        self.assertFalse(report['ready'])
+        with self.assertRaisesRegex(AssertionError, '^NEW30$'):
+            verify(rows, baseline, evidence)
+        for row in rows:
+            if row['name'] == 'ちいかわクリスマスマーケット':
+                self.assertNotRegex(json.dumps(row, ensure_ascii=False), '⚠|10/25|10/30|先行抽選')
         names = {row['name'] for row in evidence['removals']}
         for source in list((ROOT / 'pipeline').glob('batch*.py')) + [ROOT / 'pipeline' / name for name in (
             'collab_events.py', 'baby_spots.py', 'buffet_spots.py', 'miniature_spots.py', 'data2.txt')]:
             self.assertFalse(any(name in source.read_text() for name in names), source.name)
         variants = [('NO_EXPIRED', rows + [next(row for row in baseline if row['name'] in names)]),
                     ('KEEP', rows[1:])]
-        added_names = {row['name'] for row in evidence['accepted'][:2]}
-        variants.append(('NEW30', [row for row in rows if row['name'] not in added_names]))
         changed = copy.deepcopy(rows)
         changed[0]['desc'] += ' broken'
         variants.append(('KEEP_FIELDS', changed))
         for label, broken in variants:
             with self.subTest(label=label), self.assertRaisesRegex(AssertionError, '^' + label + '$'):
-                verify(broken, baseline, evidence)
+                verify(broken, baseline, evidence, require_minimum=False)
+
+    def test_new30_for_variable_adoption_counts(self):
+        from test_pipeline import candidate
+        baseline = [{**candidate(100), 'name': '既存'}]
+        for count in (30, 31, 32, 36):
+            accepted = [candidate(index) for index in range(count)]
+            evidence = {'date': '2026-11-13', 'accepted': accepted, 'removals': []}
+            rows = baseline + accepted
+            with self.subTest(count=count):
+                self.assertEqual(verify(rows, baseline, evidence), (count, 0))
+                broken = below_minimum(rows, accepted)
+                self.assertEqual(len(broken) - len(baseline), 29)
+                with self.assertRaisesRegex(AssertionError, '^NEW30$'):
+                    verify(broken, baseline, evidence)
 
 
 if __name__ == '__main__':

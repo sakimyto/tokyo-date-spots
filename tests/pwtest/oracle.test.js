@@ -44,3 +44,16 @@ test('全64状態でフィルタの不変条件を列挙し、壊れた変種を
     select(rows, '2026-11-13', {soon: true}),
     select(rows, '2026-11-13', {now: true, soon: true})), assert.AssertionError);
 });
+
+// 日付と期待値は公式会期から手で固定し、解析器から導出しない。
+test('分離会期・休催日・period_noteの単日境界', () => {
+  const market = {period: '2026年12月19日〜21日、12月23日〜25日'};
+  for (const [day, want] of [['2026-12-18','soon'],['2026-12-19','now'],
+    ['2026-12-21','now'],['2026-12-22','soon'],['2026-12-23','now'],
+    ['2026-12-24','now'],['2026-12-25','now'],['2026-12-26','ended']]) {
+    assert.equal(phase(market,day),want,day);
+  }
+  const sunrise = {period:'2027年1月1日(金・祝) 5:30〜7:30',period_note:'1日のみ'};
+  for (const [day,want] of [['2026-12-31','soon'],['2027-01-01','now'],['2027-01-02','ended']])
+    assert.equal(phase(sunrise,day),want,day);
+});

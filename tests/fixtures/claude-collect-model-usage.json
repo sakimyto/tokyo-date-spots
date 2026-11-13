@@ -1,0 +1,34 @@
+{
+  "claude-fable-5-2": {
+    "inputTokens": 46,
+    "outputTokens": 44097,
+    "cacheReadInputTokens": 2468997,
+    "cacheCreationInputTokens": 166271,
+    "webSearchRequests": 0,
+    "costUSD": 4.9183834000000015,
+    "contextWindow": 1000000,
+    "maxOutputTokens": 128000,
+    "thinkingTokens": 8128,
+    "cacheCreationEphemeral5mInputTokens": 0,
+    "cacheCreationEphemeral1hInputTokens": 166271,
+    "canonicalModel": "claude-fable-5-2",
+    "provider": "firstParty",
+    "costBasis": "list"
+  },
+  "claude-haiku-5-5": {
+    "inputTokens": 838993,
+    "outputTokens": 118882,
+    "cacheReadInputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "webSearchRequests": 14,
+    "costUSD": 0.28334030000000004,
+    "contextWindow": 1000000,
+    "maxOutputTokens": 128000,
+    "thinkingTokens": 74217,
+    "cacheCreationEphemeral5mInputTokens": 0,
+    "cacheCreationEphemeral1hInputTokens": 0,
+    "canonicalModel": "claude-haiku-5-5",
+    "provider": "firstParty",
+    "costBasis": "list"
+  }
+}

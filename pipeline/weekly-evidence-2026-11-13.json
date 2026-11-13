@@ -18,7 +18,9 @@
       "url_status": "ok",
       "url_note": "料金・予約要否は番組ページに記載なし。未確認。番組ページは席ごとに内容が切り替わり、年の表記なし（2026-11-13閲覧時に11月中席を表示）",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「鈴本演芸場 11月中席（11日〜20日）」"
+      "source_evidence": "「鈴本演芸場 11月中席（11日〜20日）」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://www.rakugo-kyokai.jp/joseki/suzumoto 「鈴本演芸場 11月中席（11日〜20日）」"
     },
     {
       "genre": "歌舞伎・落語・お笑い・演芸",
@@ -36,7 +38,9 @@
       "url_status": "ok",
       "url_note": "料金・予約要否は番組ページに記載なし。未確認。番組ページは席ごとに内容が切り替わり、年の表記なし（2026-11-13閲覧時に11月中席を表示）",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「池袋演芸場 11月中席（11日〜20日）」"
+      "source_evidence": "「池袋演芸場 11月中席（11日〜20日）」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://www.rakugo-kyokai.jp/joseki/ikebukuro 「池袋演芸場 11月中席（11日〜20日）」"
     },
     {
       "genre": "舞台・ミュージカル・ライブ",
@@ -54,7 +58,9 @@
       "url_status": "ok",
       "url_note": "休演日と残席は公式本文に記載なし。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「会場 新橋演舞場」「2026年11月14日(土)～12月25日(金)」「※未就学児入場不可」"
+      "source_evidence": "「会場 新橋演舞場」「2026年11月14日(土)～12月25日(金)」「※未就学児入場不可」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://www.shochiku.co.jp/play/schedules/detail/20261112_enbujo/ 「会場 新橋演舞場」「2026年11月14日(土)～12月25日(金)」「※未就学児入場不可」"
     },
     {
       "genre": "歌舞伎・落語・お笑い・演芸",
@@ -72,7 +78,9 @@
       "url_status": "ok",
       "url_note": "演目・料金・休演日は本文に記載なし。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「初春大歌舞伎」「新橋演舞場」「2027年1月3日（日）～27日（水）」「11月25日（水）チケット発売予定」"
+      "source_evidence": "「初春大歌舞伎」「新橋演舞場」「2027年1月3日（日）～27日（水）」「11月25日（水）チケット発売予定」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://www.shochiku.co.jp/play/schedules/detail/202701_enbujo/ 「初春大歌舞伎」「新橋演舞場」「2027年1月3日（日）～27日（水）」「11月25日（水）チケット発売予定」"
     },
     {
       "genre": "舞台・ミュージカル・ライブ",
@@ -90,7 +98,9 @@
       "url_status": "ok",
       "url_note": "作・演出・出演者と残席は取得した本文で確認できず。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「東京 PARCO劇場」「2026年12月6日(日) ～ 2026年12月28日(月)」「一般発売日 2026年10月17日(土)」"
+      "source_evidence": "「東京 PARCO劇場」「2026年12月6日(日) ～ 2026年12月28日(月)」「一般発売日 2026年10月17日(土)」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://stage.parco.jp/program/zurakaru/11010/ 「東京 PARCO劇場」「2026年12月6日(日) ～ 2026年12月28日(月)」「一般発売日 2026年10月17日(土)」"
     },
     {
       "genre": "舞台・ミュージカル・ライブ",
@@ -108,7 +118,9 @@
       "url_status": "ok",
       "url_note": "残席は未確認。貸切公演あり",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「よみうり大手町ホール」「2026年12月4日(金) ～ 2026年12月20日(日)」「A＝太田基裕・彩風咲奈」"
+      "source_evidence": "「よみうり大手町ホール」「2026年12月4日(金) ～ 2026年12月20日(日)」「A＝太田基裕・彩風咲奈」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://stage.parco.jp/program/johnandjen2026/10983/ 「よみうり大手町ホール」「2026年12月4日(金) ～ 2026年12月20日(日)」「A＝太田基裕・彩風咲奈」"
     },
     {
       "genre": "歌舞伎・落語・お笑い・演芸",
@@ -126,7 +138,9 @@
       "url_status": "ok",
       "url_note": "残席は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「東京 PARCO劇場」「2027年1月5日(火) ～ 2027年1月31日(日)」「料金(全席指定・税込) 8,000円」"
+      "source_evidence": "「東京 PARCO劇場」「2027年1月5日(火) ～ 2027年1月31日(日)」「料金(全席指定・税込) 8,000円」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://stage.parco.jp/program/shinosuke2027/11012/ 「東京 PARCO劇場」「2027年1月5日(火) ～ 2027年1月31日(日)」「料金(全席指定・税込) 8,000円」"
     },
     {
       "genre": "舞台・ミュージカル・ライブ",
@@ -144,7 +158,9 @@
       "url_status": "ok",
       "url_note": "作・演出・出演者と残席は取得した本文で確認できず。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「PARCO劇場」「2026年11月5日(木) ～ 2026年11月29日(日)」「U-30チケット=5,500円」"
+      "source_evidence": "「PARCO劇場」「2026年11月5日(木) ～ 2026年11月29日(日)」「U-30チケット=5,500円」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://stage.parco.jp/program/seichi-x/10993/ 「PARCO劇場」「2026年11月5日(木) ～ 2026年11月29日(日)」「U-30チケット=5,500円」"
     },
     {
       "genre": "舞台・ミュージカル・ライブ",
@@ -162,7 +178,9 @@
       "url_status": "ok",
       "url_note": "料金・販売方法・残席は取得した本文に記載なし。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「『Ｅｎｄｌｅｓｓ　ＳＨＯＣＫ Memories -CONTINUE-』」「2026年11月28日(土)～30日(月)」"
+      "source_evidence": "「『Ｅｎｄｌｅｓｓ　ＳＨＯＣＫ Memories -CONTINUE-』」「2026年11月28日(土)～30日(月)」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://www.tohostage.com/shock/ 「『Ｅｎｄｌｅｓｓ　ＳＨＯＣＫ Memories -CONTINUE-』」「2026年11月28日(土)～30日(月)」"
     },
     {
       "genre": "季節イベント",
@@ -180,7 +198,9 @@
       "url_status": "ok",
       "url_note": "料金・予約要否は本文に記載なし。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「2026年12月11日（金）〜 2026年12月27日（日）」「17:00～22:00」「渋谷公園通りから代々木公園ケヤキ並木」"
+      "source_evidence": "「2026年12月11日（金）〜 2026年12月27日（日）」「17:00～22:00」「渋谷公園通りから代々木公園ケヤキ並木」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://shibuya-aonodokutsu.jp/ 「2026年12月11日（金）〜 2026年12月27日（日）」「17:00～22:00」「渋谷公園通りから代々木公園ケヤキ並木」"
     },
     {
       "genre": "季節イベント",
@@ -198,61 +218,9 @@
       "url_status": "ok",
       "url_note": "既存「HIBIYA Magic Time Illumination 2026」内の別企画。出店内容は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「HIBIYA CHRISTMAS MARKET 2026」「2026/12/19 SAT - 21 MON, 2026/12/23 WED - 25 FRI」「12：00〜19：00」「東京ミッドタウン日比谷 B1 日比谷アーケード」「無料」"
-    },
-    {
-      "genre": "映画館・プラネタリウム",
-      "name": "映画『アベンジャーズ／ドゥームズデイ』",
-      "area": "東京都 都内・関東の劇場",
-      "desc": "ルッソ兄弟が監督するマーベル最新作。ロバート・ダウニー・Jr.がドクター・ドゥーム役で出演。日米同時公開",
-      "url": "https://marvel.disney.co.jp/movie/avengers-doomsday",
-      "rain_ok": true,
-      "period": "2026年12月18日公開",
-      "venue": "上映館は各劇場サイトで確認",
-      "reservation": "各上映館の鑑賞券が必要。販売日・空席は各劇場で確認",
-      "kind": "イベント",
-      "period_note": "公開日のみ。上映終了日は劇場ごとに異なる",
-      "baby_ok": false,
-      "url_status": "ok",
-      "url_note": "上映館・IMAX等の上映形式・前売券は本文に記載なし。未確認",
-      "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「アベンジャーズ／ドゥームズデイ」「2026年12月18日（金）日米同時公開」"
-    },
-    {
-      "genre": "映画館・プラネタリウム",
-      "name": "映画『VIVANT』",
-      "area": "東京都 都内・関東の劇場",
-      "desc": "TBSドラマ『VIVANT』の映画版。主演は堺雅人、監督は福澤克雄",
-      "url": "https://vivant.toho-movie.jp/",
-      "rain_ok": true,
-      "period": "2026年12月4日公開",
-      "venue": "上映館は各劇場サイトで確認",
-      "reservation": "各上映館の鑑賞券が必要。公式サイトに「12/4～ 鑑賞チケットはこちら」の案内あり",
-      "kind": "イベント",
-      "period_note": "公開日のみ。上映終了日は劇場ごとに異なる",
-      "baby_ok": false,
-      "url_status": "ok",
-      "url_note": "本文に年の表記なし(12月4日が金曜の2026年)。上映館・空席は未確認",
-      "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「映画『VIVANT』」「12月4日(金)公開！」「主演：堺雅人／監督：福澤克雄」"
-    },
-    {
-      "genre": "映画館・プラネタリウム",
-      "name": "映画『BYE BYE LOVE 探偵はBARにいる』",
-      "area": "東京都 都内・関東の劇場",
-      "desc": "大泉洋と松田龍平の『探偵はBARにいる』シリーズ第4作。監督は白石和彌、共演に鈴木京香",
-      "url": "https://tantei-bar.com/",
-      "rain_ok": true,
-      "period": "2026年12月25日公開",
-      "venue": "上映館は各劇場サイトで確認",
-      "reservation": "各上映館の鑑賞券が必要。公式サイトにムビチケカードの販売案内あり",
-      "kind": "イベント",
-      "period_note": "公開日のみ。上映終了日は劇場ごとに異なる",
-      "baby_ok": false,
-      "url_status": "ok",
-      "url_note": "本文に年の表記なし(12月25日が金曜の2026年)。上映館・空席は未確認",
-      "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「映画『BYE BYE LOVE 探偵はBARにいる』」「12.25Fri」「出演：大泉洋、松田龍平、鈴木京香。」「監督：白石和彌。」"
+      "source_evidence": "「HIBIYA CHRISTMAS MARKET 2026」「2026/12/19 SAT - 21 MON, 2026/12/23 WED - 25 FRI」「12：00〜19：00」「東京ミッドタウン日比谷 B1 日比谷アーケード」「無料」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://www.hibiya.tokyo-midtown.com/xmas/ 「HIBIYA CHRISTMAS MARKET 2026」「2026/12/19 SAT - 21 MON, 2026/12/23 WED - 25 FRI」「12：00〜19：00」「東京ミッドタウン日比谷 B1 日比谷アーケード」「無料」"
     },
     {
       "genre": "映画館・プラネタリウム",
@@ -262,15 +230,17 @@
       "url": "https://housemaid-movie.com/",
       "rain_ok": true,
       "period": "2026年11月27日公開",
-      "venue": "上映館は公式THEATER(劇場情報)で確認",
+      "venue": "丸の内ピカデリー、新宿バルト9、ヒューマントラストシネマ渋谷ほか",
       "reservation": "各上映館の鑑賞券が必要。販売日・空席は各劇場で確認",
       "kind": "イベント",
       "period_note": "公開日のみ。上映終了日は劇場ごとに異なる",
       "baby_ok": false,
       "url_status": "ok",
-      "url_note": "レーティング・都内の上映館・前売券は本文に記載なし。未確認",
+      "url_note": "公式サイトのTHEATERリンク先で都内上映館・11/27公開・R15+を確認（2026-11-13）。根拠: https://eigakan.org/theaterpage/schedule.php?t=housemaid 。上映時刻・空席は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「11/27(金)公開『ハウスメイド』公式サイト」"
+      "source_evidence": "「11/27(金)公開『ハウスメイド』公式サイト」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://eigakan.org/theaterpage/schedule.php?t=housemaid 東京：丸の内ピカデリー、新宿バルト9、ヒューマントラストシネマ渋谷（11/27〜）"
     },
     {
       "genre": "キャラクター・コラボイベント",
@@ -288,7 +258,9 @@
       "url_status": "ok",
       "url_note": "各企画の詳細・日時指定の要否は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「日程：2026年12月1日（火）〜2027年3月2日（火）」「場所：東京スカイツリー天望デッキ・天望回廊 他」「料金：天望デッキ・天望回廊への入場料金がかかります。」"
+      "source_evidence": "「日程：2026年12月1日（火）〜2027年3月2日（火）」「場所：東京スカイツリー天望デッキ・天望回廊 他」「料金：天望デッキ・天望回廊への入場料金がかかります。」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://www.tokyo-skytree.jp/event/special/sanrio/hokusai/ 「日程：2026年12月1日（火）〜2027年3月2日（火）」「場所：東京スカイツリー天望デッキ・天望回廊 他」「料金：天望デッキ・天望回廊への入場料金がかかります。」"
     },
     {
       "genre": "キャラクター・コラボイベント",
@@ -306,7 +278,9 @@
       "url_status": "ok",
       "url_note": "チケットの購入方法・予約要否は本文に記載なし。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「2026/12/30(水)～2027/01/11(月)」「展示ホールD」「1歳以下：無料」"
+      "source_evidence": "「2026/12/30(水)～2027/01/11(月)」「展示ホールD」「1歳以下：無料」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://sunshinecity.jp/event/entry-39282.html 「2026/12/30(水)～2027/01/11(月)」「展示ホールD」「1歳以下：無料」"
     },
     {
       "genre": "キャラクター・コラボイベント",
@@ -324,7 +298,9 @@
       "url_status": "ok",
       "url_note": "日時指定チケットの販売状況は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「2026年12月10日(木)〜2027年1月4日(月)　※12月31日(木)・1月1日(金・祝)は休業」「池袋・サンシャインシティ 展示ホールA」"
+      "source_evidence": "「2026年12月10日(木)〜2027年1月4日(月)　※12月31日(木)・1月1日(金・祝)は休業」「池袋・サンシャインシティ 展示ホールA」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://anime-dr-stone.event-tenjikai.com/ 「2026年12月10日(木)〜2027年1月4日(月)　※12月31日(木)・1月1日(金・祝)は休業」「池袋・サンシャインシティ 展示ホールA」"
     },
     {
       "genre": "キャラクター・コラボイベント",
@@ -342,7 +318,9 @@
       "url_status": "ok",
       "url_note": "残券は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「2026年12月19日(土)～2027年1月11日(月・祝)」「池袋・サンシャインシティ　展示ホールA」「12月19日(土)は先着販売による日時指定制」"
+      "source_evidence": "「2026年12月19日(土)～2027年1月11日(月・祝)」「池袋・サンシャインシティ　展示ホールA」「12月19日(土)は先着販売による日時指定制」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://cinderellagray-gengaten.event-tenjikai.com/ 「2026年12月19日(土)～2027年1月11日(月・祝)」「池袋・サンシャインシティ　展示ホールA」「12月19日(土)は先着販売による日時指定制」"
     },
     {
       "genre": "キャラクター・コラボイベント",
@@ -360,7 +338,9 @@
       "url_status": "ok",
       "url_note": "予約・特別チケットの残数は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「2026/12/11(金)～2027/01/17(日)」"
+      "source_evidence": "「2026/12/11(金)～2027/01/17(日)」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://sunshinecity.jp/aquarium/event_performance/event/entry-39038.html 「2026/12/11(金)～2027/01/17(日)」"
     },
     {
       "genre": "キャラクター・コラボイベント",
@@ -378,7 +358,9 @@
       "url_status": "ok",
       "url_note": "チケットの購入方法は本文に記載なし。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「舞台『魔法使いの約束』 5th Anniversary展 ーGrand Wardrobe Exhibition & VR Theatreー」「2027/01/02(土)～2027/01/17(日)」「展示ホールB」"
+      "source_evidence": "「舞台『魔法使いの約束』 5th Anniversary展 ーGrand Wardrobe Exhibition & VR Theatreー」「2027/01/02(土)～2027/01/17(日)」「展示ホールB」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://sunshinecity.jp/event/entry-39207.html 「舞台『魔法使いの約束』 5th Anniversary展 ーGrand Wardrobe Exhibition & VR Theatreー」「2027/01/02(土)～2027/01/17(日)」「展示ホールB」"
     },
     {
       "genre": "展示会・物産フェア",
@@ -396,7 +378,9 @@
       "url_status": "ok",
       "url_note": "予約要否は本文に記載なし。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「アイランダー2026」「2026/11/21(土)～2026/11/22(日)」「展示ホールD」「無料」"
+      "source_evidence": "「アイランダー2026」「2026/11/21(土)～2026/11/22(日)」「展示ホールD」「無料」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://sunshinecity.jp/event/entry-39206.html 「アイランダー2026」「2026/11/21(土)～2026/11/22(日)」「展示ホールD」「無料」"
     },
     {
       "genre": "展示会・物産フェア",
@@ -414,7 +398,9 @@
       "url_status": "ok",
       "url_note": "食べ放題の予約要否・混雑状況は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「卵フェスin東京2026」「2026/11/27(金)～2026/11/29(日)」「展示ホールA」「入場無料」"
+      "source_evidence": "「卵フェスin東京2026」「2026/11/27(金)～2026/11/29(日)」「展示ホールA」「入場無料」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://sunshinecity.jp/event/entry-39172.html 「卵フェスin東京2026」「2026/11/27(金)～2026/11/29(日)」「展示ホールA」「入場無料」"
     },
     {
       "genre": "キャラクター・コラボイベント",
@@ -432,7 +418,9 @@
       "url_status": "ok",
       "url_note": "各エリアの参加条件・整理券の有無は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「2026.11.16（月）〜29（日）」「10時〜20時」「サンシャインシティ 噴水広場 （アルパ B1）」「入場無料」"
+      "source_evidence": "「2026.11.16（月）〜29（日）」「10時〜20時」「サンシャインシティ 噴水広場 （アルパ B1）」「入場無料」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://sunshinecity.jp/file/official/pokepeace/ 「2026.11.16（月）〜29（日）」「10時〜20時」「サンシャインシティ 噴水広場 （アルパ B1）」「入場無料」"
     },
     {
       "genre": "展示会・物産フェア",
@@ -450,7 +438,9 @@
       "url_status": "ok",
       "url_note": "予約要否は本文に記載なし。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「冬スポ！！WINTER SPORTS FESTA season26」「2026/11/27(金)～2026/11/29(日)」「展示ホールD」「入場無料」"
+      "source_evidence": "「冬スポ！！WINTER SPORTS FESTA season26」「2026/11/27(金)～2026/11/29(日)」「展示ホールD」「入場無料」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://sunshinecity.jp/event/entry-39205.html 「冬スポ！！WINTER SPORTS FESTA season26」「2026/11/27(金)～2026/11/29(日)」「展示ホールD」「入場無料」"
     },
     {
       "genre": "スポーツ観戦・ライブ",
@@ -468,7 +458,9 @@
       "url_status": "ok",
       "url_note": "日程欄に年の表記なし(「2026-27シーズン」のバナーと曜日で確認)。料金・残席は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「第1節 12.12土 15:05 秩父宮 (東京都)」「第1節 12.13日 14:30 秩父宮 (東京都)」"
+      "source_evidence": "「第1節 12.12土 15:05 秩父宮 (東京都)」「第1節 12.13日 14:30 秩父宮 (東京都)」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://league-one.jp/ 「第1節 12.12土 15:05 秩父宮 (東京都)」「第1節 12.13日 14:30 秩父宮 (東京都)」"
     },
     {
       "genre": "季節イベント",
@@ -486,7 +478,9 @@
       "url_status": "ok",
       "url_note": "屋内の展望台だが、日の出が見えるかは天候による。抽選結果の時期は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「2027年1月1日（金・祝）　5:30〜7:30」「東京スカイツリー 天望デッキ（350m）・天望回廊（450m）」"
+      "source_evidence": "「2027年1月1日（金・祝）　5:30〜7:30」「東京スカイツリー 天望デッキ（350m）・天望回廊（450m）」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://www.tokyo-skytree.jp/lp/first-sunrise2027/ 「2027年1月1日（金・祝）　5:30〜7:30」「東京スカイツリー 天望デッキ（350m）・天望回廊（450m）」"
     },
     {
       "genre": "季節イベント",
@@ -504,7 +498,9 @@
       "url_status": "ok",
       "url_note": "観覧料金と各会場の巡回時刻は本文に記載なし。未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「2027/01/01(金)～2027/01/02(土)」「11:30～16:30」「アルパ , サンシャイン水族館 , サンシャイン60展望台 てんぼうパーク」"
+      "source_evidence": "「2027/01/01(金)～2027/01/02(土)」「11:30～16:30」「アルパ , サンシャイン水族館 , サンシャイン60展望台 てんぼうパーク」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://sunshinecity.jp/event/entry-39223.html 「2027/01/01(金)～2027/01/02(土)」「11:30～16:30」「アルパ , サンシャイン水族館 , サンシャイン60展望台 てんぼうパーク」"
     },
     {
       "genre": "工場見学・ものづくり",
@@ -522,7 +518,9 @@
       "url_status": "ok",
       "url_note": "混雑時の受付終了条件は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「2026/11/07(土)～2026/12/31(木)」「サンシャイン60展望台 てんぼうパーク」「事前予約は行っておりません。」"
+      "source_evidence": "「2026/11/07(土)～2026/12/31(木)」「サンシャイン60展望台 てんぼうパーク」「事前予約は行っておりません。」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://sunshinecity.jp/observatory/event/entry-39310.html 「2026/11/07(土)～2026/12/31(木)」「サンシャイン60展望台 てんぼうパーク」「事前予約は行っておりません。」"
     },
     {
       "genre": "キャラクター・コラボイベント",
@@ -540,7 +538,9 @@
       "url_status": "ok",
       "url_note": "各企画の参加条件は未確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「2026年11月15日（日）にバボカ!!ファンフェスを開催します！」「参加無料・入場自由です。」"
+      "source_evidence": "「2026年11月15日（日）にバボカ!!ファンフェスを開催します！」「参加無料・入場自由です。」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://sunshinecity.jp/event/entry-39287.html 「2026年11月15日（日）にバボカ!!ファンフェスを開催します！」「参加無料・入場自由です。」"
     },
     {
       "genre": "映画館・プラネタリウム",
@@ -558,7 +558,9 @@
       "url_status": "ok",
       "url_note": "料金は本文に記載なし。未確認。年の表記はなく、11月27日が金曜の2026年として確認",
       "source_checked_at": "2026-11-13 JST",
-      "source_evidence": "「『人間嫌い』：11/27(金)〜TOHOシネマズ日比谷他」"
+      "source_evidence": "「『人間嫌い』：11/27(金)〜TOHOシネマズ日比谷他」",
+      "venue_status": "confirmed",
+      "venue_evidence": "https://www.ntlive.jp/ 「『人間嫌い』：11/27(金)〜TOHOシネマズ日比谷他」"
     }
   ],
   "rejected": [
@@ -800,5 +802,86 @@
       "reason": "periodの終了日2026-11-08が2026-11-12以前(年の明記あり)。常設・開業日・年なし表記ではない"
     }
   ],
-  "baseline_ref": "02ae2f512a58b81cec5c3c153f5c532f0077a133"
+  "baseline_ref": "02ae2f512a58b81cec5c3c153f5c532f0077a133",
+  "published_unconfirmed": [
+    {
+      "genre": "映画館・プラネタリウム",
+      "name": "映画『アベンジャーズ／ドゥームズデイ』",
+      "area": "東京都 都内・関東の劇場",
+      "desc": "ルッソ兄弟が監督するマーベル最新作。ロバート・ダウニー・Jr.がドクター・ドゥーム役で出演。日米同時公開",
+      "url": "https://marvel.disney.co.jp/movie/avengers-doomsday",
+      "rain_ok": true,
+      "period": "2026年12月18日公開",
+      "venue": "未確認（都内・関東の上映館）",
+      "reservation": "各上映館の鑑賞券が必要。販売日・空席は各劇場で確認",
+      "kind": "イベント",
+      "period_note": "公開日のみ。上映終了日は劇場ごとに異なる",
+      "baby_ok": false,
+      "url_status": "ok",
+      "url_note": "上映館・IMAX等の上映形式・前売券は本文に記載なし。未確認",
+      "source_checked_at": "2026-11-13 JST",
+      "source_evidence": "「アベンジャーズ／ドゥームズデイ」「2026年12月18日（金）日米同時公開」",
+      "venue_status": "unconfirmed",
+      "venue_evidence": ""
+    },
+    {
+      "genre": "映画館・プラネタリウム",
+      "name": "映画『VIVANT』",
+      "area": "東京都 都内・関東の劇場",
+      "desc": "TBSドラマ『VIVANT』の映画版。主演は堺雅人、監督は福澤克雄",
+      "url": "https://vivant.toho-movie.jp/",
+      "rain_ok": true,
+      "period": "2026年12月4日公開",
+      "venue": "未確認（都内・関東の上映館）",
+      "reservation": "各上映館の鑑賞券が必要。公式サイトに「12/4～ 鑑賞チケットはこちら」の案内あり",
+      "kind": "イベント",
+      "period_note": "公開日のみ。上映終了日は劇場ごとに異なる",
+      "baby_ok": false,
+      "url_status": "ok",
+      "url_note": "公式本文で2026年12月4日公開を確認。上映館・空席は未確認",
+      "source_checked_at": "2026-11-13 JST",
+      "source_evidence": "「映画『VIVANT』」「12月4日(金)公開！」「主演：堺雅人／監督：福澤克雄」",
+      "venue_status": "unconfirmed",
+      "venue_evidence": ""
+    },
+    {
+      "genre": "映画館・プラネタリウム",
+      "name": "映画『BYE BYE LOVE 探偵はBARにいる』",
+      "area": "東京都 都内・関東の劇場",
+      "desc": "大泉洋と松田龍平の『探偵はBARにいる』シリーズ第4作。監督は白石和彌、共演に鈴木京香",
+      "url": "https://tantei-bar.com/",
+      "rain_ok": true,
+      "period": "2026年12月25日公開",
+      "venue": "未確認（都内・関東の上映館）",
+      "reservation": "各上映館の鑑賞券が必要。公式サイトにムビチケカードの販売案内あり",
+      "kind": "イベント",
+      "period_note": "公開日のみ。上映終了日は劇場ごとに異なる",
+      "baby_ok": false,
+      "url_status": "ok",
+      "url_note": "本文に年の表記なし(12月25日が金曜の2026年)。上映館・空席は未確認",
+      "source_checked_at": "2026-11-13 JST",
+      "source_evidence": "「映画『BYE BYE LOVE 探偵はBARにいる』」「12.25Fri」「出演：大泉洋、松田龍平、鈴木京香。」「監督：白石和彌。」",
+      "venue_status": "unconfirmed",
+      "venue_evidence": ""
+    }
+  ],
+  "valid_additions": 28,
+  "review_correction": "2026-11-13本人指定。公開済み31件の訂正。有効追加28件のためNEW30は不成立。候補の補充なし。新規週次適用の30件ガードは維持。",
+  "corrections": [
+    {
+      "genre": "キャラクター・コラボイベント",
+      "name": "ちいかわクリスマスマーケット",
+      "fields": {
+        "reservation": "日時指定チケット制(アソビュー)。大人 平日2,500円/土日祝2,800円、子ども(4〜11歳)1,200円/1,400円"
+      }
+    },
+    {
+      "genre": "話題",
+      "name": "ちいかわクリスマスマーケット",
+      "fields": {
+        "period_note": "日時指定チケット制",
+        "reservation": "日時指定チケット制(アソビュー)。大人 平日2,500円/土日祝2,800円、子ども(4〜11歳)1,200円/1,400円"
+      }
+    }
+  ]
 }

@@ -20,7 +20,7 @@ JST = ZoneInfo('Asia/Tokyo')
 FIRST = dt.date(2026, 11, 20)
 DEFAULT = Path.home() / '.codex/automation-state/tokyo-date-spots-weekly'
 FIELDS = ('genre', 'name', 'area', 'desc', 'url', 'period', 'venue', 'reservation',
-          'kind', 'period_note', 'url_status', 'url_note', 'source_checked_at', 'source_evidence')
+          'kind', 'period_note', 'url_status', 'url_note', 'source_checked_at', 'source_evidence', 'venue_status', 'venue_evidence')
 
 
 def object_schema(properties):
@@ -152,8 +152,9 @@ def collect(config, worktree, scratch, text):
     result = json.loads(output)
     models = list(result.get('modelUsage', {}))
     usage = result.get('modelUsage', {}).get('claude-fable-5-2', {})
-    if (result.get('is_error') or models != ['claude-fable-5-2']
-            or usage.get('canonicalModel') != 'claude-fable-5-2' or not isinstance(usage.get('outputTokens'), int)
+    if (result.get('is_error') or not models or models[0] != 'claude-fable-5-2'
+            or result.get('model', 'claude-fable-5-2') != 'claude-fable-5-2'
+            or usage.get('canonicalModel') != 'claude-fable-5-2' or type(usage.get('outputTokens')) is not int
             or usage['outputTokens'] <= 0):
         raise RuntimeError('Claudeの実モデルが指定と一致しない、または収集失敗')
     packet = result.get('structured_output')
