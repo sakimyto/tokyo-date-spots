@@ -94,6 +94,10 @@ class AutomationTests(unittest.TestCase):
         self.assertEqual(state['runs'][DATE.isoformat()]['phase'], 'review')
 
     def test_publish_unknown_is_not_retried_on_resume(self):
+        with patch.object(weekly, 'codex') as codex:
+            with self.assertRaisesRegex(RuntimeError, 'stateがない'):
+                weekly.tick(self.root, self.config, DATE, resume=True)
+            codex.assert_not_called()
         weekly.save(self.root / 'state.json', {'runs': {DATE.isoformat(): {'status': 'pending', 'phase': 'publish', 'attempts': 1}}})
         with patch.object(weekly, 'collect') as collect, patch.object(weekly, 'codex') as codex:
             with self.assertRaisesRegex(RuntimeError, '公開の適用結果不明'):

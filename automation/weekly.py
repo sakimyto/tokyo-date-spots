@@ -183,7 +183,7 @@ def codex(config, root, phase, worktree, scratch, values, schema):
     if phase != 'review':
         args += ['--allow-network', '--exception-reason', '本人指定のMac週次更新・通常公開',
                  '--exception-scope', 'tokyo-date-spotsとsakimytocomの週次データ・既存公開手順',
-                 '--exception-expires', values['date'], '--exception-approver', 'owner',
+                 '--exception-expires', dt.datetime.now(JST).date().isoformat(), '--exception-approver', 'owner',
                  '--exception-approved-at', '2026-11-13']
     environment = {**os.environ, 'CURUMI_CODEX_BIN': str(root / 'codex-entry.py'),
                    'TOKYO_WEEKLY_CODEX_REAL': config['codex'], 'TOKYO_WEEKLY_SCHEMA': str(schema_path),
@@ -227,6 +227,8 @@ def tick(root, config, date, resume=False):
     previous = state['runs'].get(key)
     if previous and previous['status'] in ('published', 'no-change'):
         return 'duplicate'
+    if resume and not previous:
+        raise RuntimeError('再開対象の週のstateがない。新しい実行として開始しない')
     if (root / 'STOP').exists():
         return 'stopped'
     unsettled = {day: run for day, run in state['runs'].items() if run['status'] not in ('published', 'no-change')}
