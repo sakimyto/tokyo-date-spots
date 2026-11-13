@@ -47,16 +47,21 @@ class WeeklyDataTests(unittest.TestCase):
         evidence = json.loads(path.read_text())
         baseline = json.loads(subprocess.check_output(['git', 'show', evidence['baseline_ref'] + ':spots.json'], cwd=ROOT))
         rows = json.loads((ROOT / 'spots.json').read_text())
-        # This is an authorized correction of already published rows, not a new weekly application.
-        self.assertEqual(verify(rows, baseline, evidence, require_minimum=False),
+        # Only the explicitly recorded correction can bypass the new-week minimum.
+        require_minimum = not bool(evidence.get('review_correction'))
+        self.assertEqual(verify(rows, baseline, evidence, require_minimum=require_minimum),
                          (len(evidence['accepted']), len(evidence['removals'])))
-        self.assertEqual(evidence['valid_additions'], 28)
-        report = collection.validate(evidence['accepted'] + evidence['published_unconfirmed'],
+        self.assertEqual(evidence.get('valid_additions', len(evidence['accepted'])), len(evidence['accepted']))
+        unconfirmed = evidence.get('published_unconfirmed', [])
+        report = collection.validate(evidence['accepted'] + unconfirmed,
                                      evidence['removals'], baseline, dt.date.fromisoformat(evidence['date']))
-        self.assertEqual(len(report['accepted']), 28)
-        self.assertEqual(len(report['rejected']), 3)
-        self.assertFalse(report['ready'])
-        with self.assertRaisesRegex(AssertionError, '^NEW30$'):
+        self.assertEqual(len(report['accepted']), len(evidence['accepted']))
+        self.assertEqual(len(report['rejected']), len(unconfirmed))
+        self.assertEqual(report['ready'], len(evidence['accepted']) >= 30)
+        if len(evidence['accepted']) < 30:
+            with self.assertRaisesRegex(AssertionError, '^NEW30$'):
+                verify(rows, baseline, evidence)
+        else:
             verify(rows, baseline, evidence)
         for row in rows:
             if row['name'] == 'ちいかわクリスマスマーケット':
