@@ -11,7 +11,8 @@
 リポジトリのルートから実行する。出力先はrepository外の専用ディレクトリにする。採用済みの公開JSONを入力とし、ソースを次の順で重ねる。
 
 ```bash
-python3 pipeline/rebuild.py --date 2026-11-06 --output "$HOME/_pjsc/_work/date-spots-rebuild-20261106"
+weekly_date="$(TZ=Asia/Tokyo date +%F)"
+python3 pipeline/rebuild.py --date "$weekly_date" --output "$HOME/_pjsc/_work/date-spots-rebuild-$weekly_date"
 ```
 
 実行順は`merge_collab.py`、`merge_buffet.py`、`merge_miniature.py`、`merge_baby.py`、`merge_batch2.py`、`apply_rain.py`、ルートの`build.py`、`sync_csv.py`。**build.pyはCSVを再生成しない。必ず最後にsync_csv.pyを実行する。** 再mergeによる終了行の復活を防ぐため、終了したイベントは該当ソースと最終JSONの両方から外す。映画公開日・開業日だけの記述、常設は終了とみなさない。
