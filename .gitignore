@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+node_modules/
+pipeline/spots.json
+pipeline/spots.csv
+pipeline/index.html
+pipeline/verify.json
+tests/pwtest/shot-*.png
+.DS_Store

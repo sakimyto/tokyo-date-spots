@@ -1,0 +1,38 @@
+# ミニチュア・ジオラマ系スポット(公式ページを開いて場所・内容・営業を確認。2026-10-24確認)
+# 既存の ジャンル(テーマパーク/体験型/美術館・博物館)に混ぜて入れる。merge_miniature.py が名前単位で冪等にマージ。
+# 値: genre, kind, name, area, venue, desc, url, period, period_note, rain_ok(屋内で完結=True)
+ROWS = [
+ dict(genre='テーマパーク・遊園地',kind='',name='スモールワールズTOKYO',area='江東区 有明',
+  venue='有明物流センター(江東区有明1-3-33)・ゆりかもめ 有明テニスの森駅 徒歩3分',
+  desc='アジア最大級のミニチュアミュージアム。屋内で精巧なミニチュアの世界を巡る(ロケット打ち上げ演出も)。9:00〜19:00(最終入場18:00)、大人3,200円・4〜11歳1,700円・3歳以下無料',
+  url='https://smallworlds.jp/',period='',period_note='営業日・時間は公式カレンダーで要確認'),
+ dict(genre='体験型',kind='',name='京王れーるランド',area='日野市 程久保',
+  venue='日野市程久保3-36-39',
+  desc='京王電鉄の鉄道テーマパーク。運転体験・ジオラマ・アスレチックコーナー。9:30〜17:30(最終入館17:00)、400円(1歳以上)。車両展示場など屋外部分もあり',
+  url='https://www.keio-rail-land.jp/',period='',period_note='営業カレンダーは公式で要確認'),
+ dict(genre='体験型',kind='',name='京急ミュージアム',area='神奈川県 横浜市西区',
+  venue='京急グループ本社1階(横浜市西区高島1-2-8)・横浜駅東口 徒歩約7分',
+  desc='長さ約12mの京急ラインジオラマ(HOゲージ・運転台で操作体験100円)、歴史的名車デハ230形の展示、運転シミュレーター(要予約)。入館無料、10:00〜16:30、火曜休館',
+  url='https://www.keikyu.co.jp/museum/',period='',period_note='開館日カレンダーは公式で要確認'),
+ dict(genre='美術館・博物館',kind='',name='東武博物館',area='墨田区 東向島',
+  venue='墨田区東向島4-28-16',
+  desc='横14m×奥行7mの大パノラマに約130両のHOゲージ模型電車が走る約13分のパノラマショー(1日5回)。運転体験100円。10:00〜16:30(入館16:00まで)、月曜休館、大人200円',
+  url='https://www.tobu.co.jp/museum/',period='',period_note=''),
+ dict(genre='体験型',kind='',name='ホビーセンターカトー東京',area='新宿区 西落合',
+  venue='KATO社屋ビル1・2階(新宿区西落合1-24-10)',
+  desc='鉄道模型メーカーKATOの直営店。展示・販売・イベント・ワークショップ。平日11:00〜20:00、土日祝10:00〜19:00、年末年始のみ休み',
+  url='https://www.hobbycenterkato.com/tokyo',period='',period_note=''),
+ dict(genre='体験型',kind='',name='Vehicle Miniature Gallery JAPAN',area='神奈川県 横浜市南区',
+  venue='横浜市南区中島町4-81-6 内田ビル102・横浜市営地下鉄 弘明寺駅 徒歩2分',
+  desc='鉄道ジオラマを観覧・体験できる小さな鉄道ジオラマ博物館。入館料500円(3歳以下無料・現金のみ)',
+  url='https://sites.google.com/view/vmgjapan',period='',period_note='2026年10月から開館日が変則的(土日祝中心)。公式カレンダーで要確認'),
+ dict(genre='体験型',kind='',name='ポポンデッタ with 東武鉄道ギャラリー',area='台東区 花川戸',
+  venue='東武浅草駅直上 浅草エキミセ5F(台東区花川戸1-4-1)',
+  desc='Nゲージ専門店。レンタルレイアウトで自分の車両を走らせられる(60分 平日700円/土日祝1,000円)。東武鉄道の史料・歴代車両ギャラリーも。10:00〜20:00(施設の開館時間に準じる)',
+  url='https://popondetta.com/asakusa/index.html',period='',period_note='レンタルレイアウトは2週間前から電話予約可'),
+ dict(genre='美術館・博物館',kind='企画展',name='ミニチュアベーカリーの世界展 2026',area='台東区 浅草橋',
+  venue='TODAYS GALLERY STUDIO.(台東区浅草橋5-27-6 5F)',
+  desc='“小さなパン屋さん”のミニチュア作品の合同展&物販展(ワークショップ・限定グッズ)。平日・日曜11:00〜17:00/土曜・祝日11:00〜18:00、月・火休(11/3・11/23は開館)、入場800円(3歳以下無料)',
+  url='https://tgs.jp.net/event/miniature-bakery/',period='2026年10月23日〜2026年11月23日',period_note=''),
+
+]
