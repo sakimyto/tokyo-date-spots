@@ -23,7 +23,7 @@ def definition(python, target=TARGET):
             'EnvironmentVariables': {'TZ': 'Asia/Tokyo',
                 'TMPDIR': str(Path.home() / '_pjsc/_work/date-spots-automation-tmp'),
                 'PATH': ':'.join([str(Path.home() / '.bun/bin'), str(Path.home() / '.local/bin'),
-                    str(Path.home() / '.nvm/versions/node/v24.13.1/bin'), '/opt/homebrew/bin', '/usr/bin', '/bin'])}}
+                    str(Path.home() / '.nvm/versions/node/v22.22.0/bin'), '/opt/homebrew/bin', '/usr/bin', '/bin'])}}
 
 
 def main():
