@@ -17,6 +17,7 @@ import urllib.request
 from zoneinfo import ZoneInfo
 
 JST = ZoneInfo('Asia/Tokyo')
+COLLECT_MODEL = 'claude-opus-5-5'
 FIRST = dt.date(2026, 11, 20)
 DEFAULT = Path.home() / '.codex/automation-state/tokyo-date-spots-weekly'
 FIELDS = ('genre', 'name', 'area', 'desc', 'url', 'period', 'venue', 'reservation',
@@ -144,17 +145,17 @@ def prompt(root, phase, values):
 
 def collect(config, worktree, scratch, text):
     tools = 'Read,Glob,Grep,WebSearch,WebFetch'
-    output = command([config['claude'], '--print', '--model', 'claude-fable-5-2',
+    output = command([config['claude'], '--print', '--model', COLLECT_MODEL,
                       '--tools', tools, '--allowedTools', tools, '--permission-mode', 'dontAsk',
                       '--strict-mcp-config', '--mcp-config', '{"mcpServers":{}}',
                       '--output-format', 'json', '--json-schema', json.dumps(COLLECT_SCHEMA)],
                      worktree, text, timeout=3600)
     result = json.loads(output)
     models = list(result.get('modelUsage', {}))
-    usage = result.get('modelUsage', {}).get('claude-fable-5-2', {})
-    if (result.get('is_error') or not models or models[0] != 'claude-fable-5-2'
-            or result.get('model', 'claude-fable-5-2') != 'claude-fable-5-2'
-            or usage.get('canonicalModel') != 'claude-fable-5-2' or type(usage.get('outputTokens')) is not int
+    usage = result.get('modelUsage', {}).get(COLLECT_MODEL, {})
+    if (result.get('is_error') or not models or models[0] != COLLECT_MODEL
+            or result.get('model', COLLECT_MODEL) != COLLECT_MODEL
+            or usage.get('canonicalModel') != COLLECT_MODEL or type(usage.get('outputTokens')) is not int
             or usage['outputTokens'] <= 0):
         raise RuntimeError('Claudeの実モデルが指定と一致しない、または収集失敗')
     packet = result.get('structured_output')

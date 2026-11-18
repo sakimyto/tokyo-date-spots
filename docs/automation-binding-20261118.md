@@ -1,6 +1,6 @@
 # 週次Codexの接続修正と検証
 
-共有runnerは子CLIの環境変数を限定する。旧entryは削除されるTOKYO_WEEKLY変数を参照しており、呼び出し前にKeyErrorで止まった。各工程のentry.pyと隣接JSONで、実CLI・schema・応答先・工程・worktree・開始HEADを渡す方式へ変更した。モデル、権限、30件条件、独立レビュー、指定merge、公開照合は変えない。
+共有runnerは子CLIの環境変数を限定する。旧entryは削除されるTOKYO_WEEKLY変数を参照しており、呼び出し前にKeyErrorで止まった。各工程のentry.pyと隣接JSONで、実CLI・schema・応答先・工程・worktree・開始HEADを渡す方式へ変更した。Codexのモデル・権限、30件条件、独立レビュー、指定merge、公開照合は変えない。Claude収集の主モデルは現行のOpus 5.5に合わせ、主モデルを実メタデータで照合する。旧Fableのcaptured fixtureは保存し、モデルIDだけの意図した差分を合成検査で分類した。
 
 I1: 最小環境でも実装・レビュー・公開の3工程を起動できる。I2: 不正binding、相対パス、別工程、出力先逸脱、HEAD不一致ではCLIを起動しない。I3: STOP・実行中lock・未確定stateでは再配置しない。I4: 接続失敗は候補0件や公開成功にしない。I5: 既存の接続configとstateを保持する。
 

@@ -86,18 +86,21 @@ class AutomationTests(unittest.TestCase):
                 weekly.collect({'claude': 'fake'}, ROOT, self.root, 'test')
         self.assertFalse((self.root / 'collect/COLLECTED.json').exists())
 
-    def test_real_mixed_model_usage_and_wrong_primary(self):
+    def test_mixed_model_usage_and_wrong_primary(self):
         usage = json.loads((ROOT / 'tests/fixtures/claude-collect-model-usage.json').read_text())
+        # Keep the captured legacy fixture; remap its shape for the current model contract.
+        usage['claude-opus-5-5'] = {**usage.pop('claude-fable-5-2'), 'canonicalModel': 'claude-opus-5-5'}
+        usage = {'claude-opus-5-5': usage.pop('claude-opus-5-5'), **usage}
         result = {'is_error': False, 'modelUsage': usage, 'structured_output': self.valid_packet()}
         with patch.object(weekly, 'command', return_value=json.dumps(result)) as command:
             self.assertEqual(weekly.collect({'claude': 'fake'}, ROOT, self.root, 'test'), self.valid_packet())
-            self.assertEqual(command.call_args.args[0][2:4], ['--model', 'claude-fable-5-2'])
-        self.assertEqual((self.root / 'collect/MODEL.txt').read_text(), 'claude-fable-5-2\n')
+            self.assertEqual(command.call_args.args[0][2:4], ['--model', 'claude-opus-5-5'])
+        self.assertEqual((self.root / 'collect/MODEL.txt').read_text(), 'claude-opus-5-5\n')
         for models, extra in [
             ({'claude-haiku-5-5': usage['claude-haiku-5-5']}, {}),
             (dict(reversed(list(usage.items()))), {}),
             (usage, {'model': 'claude-haiku-5-5'}),
-            ({'claude-fable-5-2': {**usage['claude-fable-5-2'], 'outputTokens': 0}}, {}),
+            ({'claude-opus-5-5': {**usage['claude-opus-5-5'], 'outputTokens': 0}}, {}),
         ]:
             with self.subTest(models=list(models), extra=extra):
                 output = {**result, 'modelUsage': models, **extra}
