@@ -17,6 +17,7 @@ import urllib.request
 from zoneinfo import ZoneInfo
 
 JST = ZoneInfo('Asia/Tokyo')
+COLLECT_MODEL = 'claude-opus-5-5'
 FIRST = dt.date(2026, 11, 20)
 DEFAULT = Path.home() / '.codex/automation-state/tokyo-date-spots-weekly'
 FIELDS = ('genre', 'name', 'area', 'desc', 'url', 'period', 'venue', 'reservation',
@@ -75,22 +76,29 @@ def clean(path):
     return not command(['git', 'status', '--porcelain'], path)
 
 
+def public_response(url):
+    accept = 'application/json' if url.endswith('/spots.json') or '/spots?' in url else 'text/html'
+    request = urllib.request.Request(url, headers={
+        'User-Agent': 'TokyoDateSpotsWeekly/1.0 (public data verification)', 'Accept': accept})
+    return urllib.request.urlopen(request, timeout=45)
+
+
 def verify_public(worktree):
     expected = json.loads((worktree / 'spots.json').read_text())
-    with urllib.request.urlopen('https://sakimyto.github.io/tokyo-date-spots/', timeout=45) as response:
+    with public_response('https://sakimyto.github.io/tokyo-date-spots/') as response:
         if response.status != 200:
             raise RuntimeError('Pages HTMLがHTTP 200ではない')
-    with urllib.request.urlopen('https://sakimyto.github.io/tokyo-date-spots/spots.json', timeout=45) as response:
+    with public_response('https://sakimyto.github.io/tokyo-date-spots/spots.json') as response:
         if json.load(response) != expected:
             raise RuntimeError('公開JSONがローカルと一致しない')
-    with urllib.request.urlopen('https://sakimyto.com/lab/odekake', timeout=45) as response:
+    with public_response('https://sakimyto.com/lab/odekake') as response:
         if response.status != 200:
             raise RuntimeError('本体ページがHTTP 200ではない')
     actual = []
     page = 1
     while True:
         url = f'https://sakimyto.com/lab/odekake/spots?mode=any&feed=all&ended=1&page={page}'
-        with urllib.request.urlopen(url, timeout=45) as response:
+        with public_response(url) as response:
             result = json.load(response)
         if result.get('total') != len(expected) or result.get('page') != page or not 1 <= result.get('pageCount', 0) <= len(expected):
             raise RuntimeError('本体APIの件数・ページが不正')
@@ -144,17 +152,17 @@ def prompt(root, phase, values):
 
 def collect(config, worktree, scratch, text):
     tools = 'Read,Glob,Grep,WebSearch,WebFetch'
-    output = command([config['claude'], '--print', '--model', 'claude-fable-5-2',
+    output = command([config['claude'], '--print', '--model', COLLECT_MODEL,
                       '--tools', tools, '--allowedTools', tools, '--permission-mode', 'dontAsk',
                       '--strict-mcp-config', '--mcp-config', '{"mcpServers":{}}',
                       '--output-format', 'json', '--json-schema', json.dumps(COLLECT_SCHEMA)],
                      worktree, text, timeout=3600)
     result = json.loads(output)
     models = list(result.get('modelUsage', {}))
-    usage = result.get('modelUsage', {}).get('claude-fable-5-2', {})
-    if (result.get('is_error') or not models or models[0] != 'claude-fable-5-2'
-            or result.get('model', 'claude-fable-5-2') != 'claude-fable-5-2'
-            or usage.get('canonicalModel') != 'claude-fable-5-2' or type(usage.get('outputTokens')) is not int
+    usage = result.get('modelUsage', {}).get(COLLECT_MODEL, {})
+    if (result.get('is_error') or not models or models[0] != COLLECT_MODEL
+            or result.get('model', COLLECT_MODEL) != COLLECT_MODEL
+            or usage.get('canonicalModel') != COLLECT_MODEL or type(usage.get('outputTokens')) is not int
             or usage['outputTokens'] <= 0):
         raise RuntimeError('Claudeの実モデルが指定と一致しない、または収集失敗')
     packet = result.get('structured_output')
@@ -186,9 +194,14 @@ def codex(config, root, phase, worktree, scratch, values, schema):
                  '--exception-scope', 'tokyo-date-spotsとsakimytocomの週次データ・既存公開手順',
                  '--exception-expires', dt.datetime.now(JST).date().isoformat(), '--exception-approver', 'owner',
                  '--exception-approved-at', '2026-11-13']
-    environment = {**os.environ, 'CURUMI_CODEX_BIN': str(root / 'codex-entry.py'),
-                   'TOKYO_WEEKLY_CODEX_REAL': config['codex'], 'TOKYO_WEEKLY_SCHEMA': str(schema_path),
-                   'TOKYO_WEEKLY_RESPONSE': str(response_path)}
+    entry = scratch / (phase + '-entry.py')
+    binding = entry.with_suffix('.json')
+    shutil.copyfile(root / 'codex-entry.py', entry)
+    entry.chmod(0o700)
+    save(binding, {'version': 1, 'codex': str(Path(config['codex']).resolve()),
+                   'schema': str(schema_path.resolve()), 'response': str(response_path.resolve()),
+                   'phase': phase, 'worktree': str(Path(worktree).resolve()), 'head': head(worktree)})
+    environment = {**os.environ, 'CURUMI_CODEX_BIN': str(entry)}
     try:
         command(args, worktree, timeout=3630, env=environment)
         receipt = json.loads((out / 'result.json').read_text())
@@ -207,6 +220,8 @@ def codex(config, root, phase, worktree, scratch, values, schema):
         schema_path.unlink(missing_ok=True)
         response_path.unlink(missing_ok=True)
         input_path.unlink(missing_ok=True)
+        entry.unlink(missing_ok=True)
+        binding.unlink(missing_ok=True)
         for name in ('run.log', 'PROMPT.md', 'STATUS.md'):
             (out / name).unlink(missing_ok=True)
 

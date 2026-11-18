@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """検証済みの実行コピーとlaunchd定義を配置する。loadは--load指定時のみ。"""
 import argparse
+import fcntl
 import json
 import os
 from pathlib import Path
@@ -26,7 +27,7 @@ def definition(python, target=TARGET):
                     str(Path.home() / '.nvm/versions/node/v22.22.0/bin'), '/opt/homebrew/bin', '/usr/bin', '/bin'])}}
 
 
-def main():
+def install_copy():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--load', action='store_true')
     args = parser.parse_args()
@@ -42,10 +43,16 @@ def main():
               'delegate': str(Path.home() / '.codex/skills/curumi-codex-delegate/scripts/delegate-task.mjs'),
               'claude': shutil.which('claude') or str(Path.home() / '.local/bin/claude'),
               'codex': shutil.which('codex') or str(Path.home() / '.bun/bin/codex')}
+    config_path = TARGET / 'config.json'
+    if config_path.exists():
+        existing = json.loads(config_path.read_text())
+        if not isinstance(existing, dict):
+            raise RuntimeError('既存configが不正。上書きしない')
+        config.update(existing)
     for key in ('claude', 'codex', 'node', 'delegate'):
         if not Path(config[key]).is_file():
             raise RuntimeError(key + ' CLIが見つからない')
-    (TARGET / 'config.json').write_text(json.dumps(config, indent=2) + '\n')
+    config_path.write_text(json.dumps(config, indent=2) + '\n')
     plist = Path.home() / 'Library/LaunchAgents' / (LABEL + '.plist')
     plist.parent.mkdir(parents=True, exist_ok=True)
     expected = definition(sys.executable)
@@ -60,6 +67,23 @@ def main():
             subprocess.run(['launchctl', 'bootstrap', domain, str(plist)], check=True)
         subprocess.run(['launchctl', 'print', domain + '/' + LABEL], check=True)
     print('first scheduled occurrence: 2026-11-20 09:05 JST; RunAtLoad=false')
+
+
+def main():
+    TARGET.mkdir(parents=True, exist_ok=True)
+    with (TARGET / 'run.lock').open('a+') as lock:
+        try:
+            fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except BlockingIOError:
+            raise RuntimeError('週次処理が実行中。配置を変更しない') from None
+        state_path = TARGET / 'state.json'
+        if state_path.exists():
+            state = json.loads(state_path.read_text())
+            if not isinstance(state.get('runs'), dict) or any(run.get('status') not in ('published', 'no-change') for run in state['runs'].values()):
+                raise RuntimeError('未確定の週次処理がある。配置を変更しない')
+        if (TARGET / 'weekly.py').exists() and not (TARGET / 'STOP').exists():
+            raise RuntimeError('再配置はSTOPと実行中0を確認してから行う')
+        install_copy()
 
 
 if __name__ == '__main__':
