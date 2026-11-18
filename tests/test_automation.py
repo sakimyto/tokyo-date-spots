@@ -3,6 +3,10 @@ import fcntl
 import importlib.util
 import io
 import json
+import os
+import runpy
+import sys
+import subprocess
 from pathlib import Path
 import shutil
 import tempfile
@@ -127,6 +131,79 @@ class AutomationTests(unittest.TestCase):
         state = json.loads((self.root / 'state.json').read_text())
         self.assertEqual(state['runs'][DATE.isoformat()]['attempts'], 2)
         self.assertEqual(state['runs'][DATE.isoformat()]['status'], 'needs-reconciliation')
+
+    def binding(self, phase):
+        entry = self.root / (phase + '-entry.py')
+        shutil.copyfile(ROOT / 'automation/codex-entry.py', entry)
+        binary = self.root / 'fake-codex'
+        binary.write_text('#!/bin/sh\nexit 0\n')
+        schema = self.root / (phase + '-schema.json')
+        schema.write_text('{}')
+        return entry, {'version': 1, 'codex': str(binary), 'schema': str(schema),
+                       'response': str(self.root / (phase + '-response.json')), 'phase': phase,
+                       'worktree': str(ROOT), 'head': subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=ROOT, text=True).strip()}
+
+    def invoke_entry(self, entry, binding):
+        weekly.save(entry.with_suffix('.json'), binding)
+        with patch.dict(os.environ, {}, clear=True), patch.object(sys, 'argv', [str(entry), 'exec', '-']), patch.object(os, 'execv') as execute:
+            runpy.run_path(str(entry), run_name='__main__')
+        return execute
+
+    def test_entry_binding_survives_minimal_environment(self):
+        for phase in ['implement', 'review', 'publish']:
+            with self.subTest(phase=phase):
+                entry, binding = self.binding(phase)
+                execute = self.invoke_entry(entry, binding)
+                self.assertEqual(execute.call_args.args[0], binding['codex'])
+                self.assertIn(binding['schema'], execute.call_args.args[1])
+                self.assertIn(binding['response'], execute.call_args.args[1])
+
+    def test_entry_rejects_wrong_binding_and_head(self):
+        for phase in ['implement', 'review', 'publish']:
+            entry, base = self.binding(phase)
+            bad_values = [dict(base, extra='unexpected'), {k: v for k, v in base.items() if k != 'head'},
+                          dict(base, head='0' * 40), dict(base, phase='other'), dict(base, response='relative.json'),
+                          dict(base, response=str(self.root.parent / 'escaped.json')), dict(base, schema=str(self.root / 'other-schema.json'))]
+            for binding in bad_values:
+                with self.subTest(phase=phase, binding=binding):
+                    with self.assertRaises(SystemExit):
+                        self.invoke_entry(entry, binding)
+
+    def test_old_environment_variant_is_detected(self):
+        entry, binding = self.binding('review')
+        code = entry.read_text().replace("binding = json.loads(entry.with_suffix('.json').read_text())", "binding = json.loads(os.environ['TOKYO_WEEKLY_BINDING'])")
+        entry.write_text(code)
+        with self.assertRaises(KeyError):
+            self.invoke_entry(entry, binding)
+
+    def test_install_blocks_running_or_unsettled_before_copy(self):
+        weekly.save(self.root / 'state.json', {'runs': {'2026-11-20': {'status': 'pending'}}})
+        with patch.object(install, 'TARGET', self.root), patch.object(install, 'install_copy') as copy:
+            with self.assertRaisesRegex(RuntimeError, '未確定'):
+                install.main()
+            copy.assert_not_called()
+        (self.root / 'state.json').unlink()
+        (self.root / 'weekly.py').write_text('installed')
+        with patch.object(install, 'TARGET', self.root), patch.object(install, 'install_copy') as copy:
+            with self.assertRaisesRegex(RuntimeError, 'STOP'):
+                install.main()
+            copy.assert_not_called()
+        (self.root / 'STOP').touch()
+        with patch.object(install, 'TARGET', self.root), patch.object(install, 'install_copy') as copy:
+            install.main()
+            copy.assert_called_once()
+
+    def test_install_preserves_valid_config_without_default_clis(self):
+        binary = self.root / 'existing-cli'
+        binary.write_text('#!/bin/sh\nexit 0\n')
+        existing = {key: str(binary) for key in ['claude', 'codex', 'node', 'delegate']}
+        existing['scratch_root'] = str(self.root / 'custom-scratch')
+        weekly.save(self.root / 'config.json', existing)
+        with patch.object(install, 'TARGET', self.root), patch.object(install.Path, 'home', return_value=self.root), patch.object(install.shutil, 'which', side_effect=lambda name: '/missing/' + name), patch.object(install.subprocess, 'run'), patch.object(sys, 'argv', ['install.py']):
+            install.install_copy()
+        actual = json.loads((self.root / 'config.json').read_text())
+        for key, value in existing.items():
+            self.assertEqual(actual[key], value)
 
     def test_plist_does_not_run_on_load(self):
         value = install.definition('/verified/python3', self.root)

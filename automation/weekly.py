@@ -186,9 +186,14 @@ def codex(config, root, phase, worktree, scratch, values, schema):
                  '--exception-scope', 'tokyo-date-spotsとsakimytocomの週次データ・既存公開手順',
                  '--exception-expires', dt.datetime.now(JST).date().isoformat(), '--exception-approver', 'owner',
                  '--exception-approved-at', '2026-11-13']
-    environment = {**os.environ, 'CURUMI_CODEX_BIN': str(root / 'codex-entry.py'),
-                   'TOKYO_WEEKLY_CODEX_REAL': config['codex'], 'TOKYO_WEEKLY_SCHEMA': str(schema_path),
-                   'TOKYO_WEEKLY_RESPONSE': str(response_path)}
+    entry = scratch / (phase + '-entry.py')
+    binding = entry.with_suffix('.json')
+    shutil.copyfile(root / 'codex-entry.py', entry)
+    entry.chmod(0o700)
+    save(binding, {'version': 1, 'codex': str(Path(config['codex']).resolve()),
+                   'schema': str(schema_path.resolve()), 'response': str(response_path.resolve()),
+                   'phase': phase, 'worktree': str(Path(worktree).resolve()), 'head': head(worktree)})
+    environment = {**os.environ, 'CURUMI_CODEX_BIN': str(entry)}
     try:
         command(args, worktree, timeout=3630, env=environment)
         receipt = json.loads((out / 'result.json').read_text())
@@ -207,6 +212,8 @@ def codex(config, root, phase, worktree, scratch, values, schema):
         schema_path.unlink(missing_ok=True)
         response_path.unlink(missing_ok=True)
         input_path.unlink(missing_ok=True)
+        entry.unlink(missing_ok=True)
+        binding.unlink(missing_ok=True)
         for name in ('run.log', 'PROMPT.md', 'STATUS.md'):
             (out / name).unlink(missing_ok=True)
 
