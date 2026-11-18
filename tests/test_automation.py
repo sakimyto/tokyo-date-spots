@@ -226,7 +226,11 @@ class AutomationTests(unittest.TestCase):
         item['id'] = 'd4b2c29eb5'
         class Response(io.BytesIO):
             status = 200
-        def response(url, timeout):
+        def response(request, timeout):
+            self.assertIsInstance(request, weekly.urllib.request.Request)
+            self.assertEqual(request.get_header('User-agent'), 'TokyoDateSpotsWeekly/1.0 (public data verification)')
+            url = request.full_url
+            self.assertEqual(request.get_header('Accept'), 'application/json' if url.endswith('/spots.json') or '/spots?' in url else 'text/html')
             value = [row] if url.endswith('/spots.json') else {
                 'total': 1, 'page': 1, 'pageCount': 1, 'items': [item]}
             return Response(json.dumps(value).encode())

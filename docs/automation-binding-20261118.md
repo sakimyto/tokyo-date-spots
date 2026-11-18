@@ -15,3 +15,7 @@ Python 3.15.2で全24検査が成功した。接続修正後のコードで、�
 独立Codexは最小環境の3工程と不正binding・モデル不一致を読み取り専用で検証し、未解決のコード指摘なしとした。実行コピー・launchdの導入結果は端末の稼働記録へ残す。これらは将来の週次データの正しさや、Mac停止中の定刻起動を保証するものではない。
 
 PRとmainでも同じ24検査を実行する。GitHub公式Actionは完全commit、Pythonは3.15.2へ固定し、権限はcontents:readだけとした。Pagesへの公開は既存のmain公開経路を使う。
+
+実公開の読戻しでは、汎用Python User-Agentがサイトで403となることを確認した。公開照合用の識別子とHTML/JSONのAcceptを明示すると、認証なしで200になり、同じ全行照合を実行できた。検査はこのRequestのヘッダーと安定IDの負例を確認する。Cloudflareや認証設定は変更していない。
+
+初回CIは旧baseline commitを必要とする既存oracleがshallow checkoutで取得できず停止した。検査を省かずcheckoutをfetch-depth:0にし、同じ検査を再実行する。

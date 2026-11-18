@@ -76,22 +76,29 @@ def clean(path):
     return not command(['git', 'status', '--porcelain'], path)
 
 
+def public_response(url):
+    accept = 'application/json' if url.endswith('/spots.json') or '/spots?' in url else 'text/html'
+    request = urllib.request.Request(url, headers={
+        'User-Agent': 'TokyoDateSpotsWeekly/1.0 (public data verification)', 'Accept': accept})
+    return urllib.request.urlopen(request, timeout=45)
+
+
 def verify_public(worktree):
     expected = json.loads((worktree / 'spots.json').read_text())
-    with urllib.request.urlopen('https://sakimyto.github.io/tokyo-date-spots/', timeout=45) as response:
+    with public_response('https://sakimyto.github.io/tokyo-date-spots/') as response:
         if response.status != 200:
             raise RuntimeError('Pages HTMLがHTTP 200ではない')
-    with urllib.request.urlopen('https://sakimyto.github.io/tokyo-date-spots/spots.json', timeout=45) as response:
+    with public_response('https://sakimyto.github.io/tokyo-date-spots/spots.json') as response:
         if json.load(response) != expected:
             raise RuntimeError('公開JSONがローカルと一致しない')
-    with urllib.request.urlopen('https://sakimyto.com/lab/odekake', timeout=45) as response:
+    with public_response('https://sakimyto.com/lab/odekake') as response:
         if response.status != 200:
             raise RuntimeError('本体ページがHTTP 200ではない')
     actual = []
     page = 1
     while True:
         url = f'https://sakimyto.com/lab/odekake/spots?mode=any&feed=all&ended=1&page={page}'
-        with urllib.request.urlopen(url, timeout=45) as response:
+        with public_response(url) as response:
             result = json.load(response)
         if result.get('total') != len(expected) or result.get('page') != page or not 1 <= result.get('pageCount', 0) <= len(expected):
             raise RuntimeError('本体APIの件数・ページが不正')
