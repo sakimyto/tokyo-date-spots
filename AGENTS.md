@@ -1,6 +1,6 @@
 # 東京おでかけ先一覧
 
-公開元はmainのルート。採用済みデータは`spots.json`、テンプレートは`tpl.html`。週次の再構築・公開は[PUBLISH.md](PUBLISH.md)、Macの定期処理は[automation/README.md](automation/README.md)と[実行契約](.loop/weekly.md)を読む。
+公開元はmainのルート。採用済みデータは`spots.json`、テンプレートは`tpl.html`。週次の再構築・公開は[PUBLISH.md](PUBLISH.md)、Macの定期処理は[automation/README.md](automation/README.md)と[実行契約](.loop/weekly.md)を読む。定期処理の一覧は[ops/automation/manifest.json](ops/automation/manifest.json)、実行器の引き継ぎは[docs/automation-handoff.md](docs/automation-handoff.md)。
 
 通常の変更は既存の作業checkoutで行う。週次処理では主checkoutを直接編集せず、`~/_pjsc/_wt`の当週worktreeと`~/_pjsc/_work`のスクラッチを使う。Claudeの採用成果物を機械検査し、有効追加30件未満では週次適用・pushしない。常設や公開日・開業日だけの行は終了として消さない。
 

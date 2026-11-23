@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "timezone": "Asia/Tokyo",
+  "handover": "docs/automation-handoff.md",
+  "observedAt": "2026-11-24T08:05:00+09:00",
+  "observedBy": "Claude Code（claude-opus-5-5、Orca worker、task_8353c31dc649）。読み取りのみ",
+  "runnerKinds": {
+    "launchd": "macOS の LaunchAgent（~/Library/LaunchAgents/<label>.plist）。",
+    "orca": "Orca の automation（orca automations list / show）。",
+    "grok-routine": "Grok Bot の routine。本文はこの Mac にない。",
+    "github-actions": ".github/workflows の workflow。"
+  },
+  "scheduledSearch": {
+    "githubActionsSchedule": "なし。.github/workflows/automation-checks.yml は pull_request と main への push だけで起動する（2026-11-24 確認）。",
+    "orca": "odekake の登録なし（2026-11-24 の orca automations list）。",
+    "codexAutomations": "~/.codex/automations/*/automation.toml に tokyo-date-spots・odekake を含むものなし（2026-11-24 確認）。",
+    "crontab": "該当なし（2026-11-24 確認）。",
+    "launchd": "~/Library/LaunchAgents で該当するのは com.sakimyto.tokyo-date-spots-weekly だけ（2026-11-24 確認）。"
+  },
+  "jobs": [
+    {
+      "id": "odekake-weekly",
+      "purpose": "東京おでかけ先一覧（spots.json）を週1回更新し、Pages と sakimyto.com の /lab/odekake へ公開する。Claude が収集し、機械検査で有効追加30件以上を確かめ、Codex が実装・別セッションで確認・通常公開する。",
+      "kind": "script",
+      "kindNote": "外側は決まった手順の Python（weekly.py）。工程の中で claude --print と Codex（共有 runner の curumi-codex-delegate）を呼ぶ。",
+      "schedule": {
+        "kind": "weekly",
+        "weekday": "FR",
+        "hour": 9,
+        "minute": 5
+      },
+      "source": "ops/automation/odekake-weekly.prompt.md",
+      "canonical": [
+        ".loop/weekly.md",
+        "automation/README.md",
+        "PUBLISH.md",
+        "automation/install.py"
+      ],
+      "entrypoint": "automation/weekly.py",
+      "runtimeCopy": "~/.codex/automation-state/tokyo-date-spots-weekly/weekly.py（automation/install.py が配置する実行コピー。実行器はこちらを呼ぶ）",
+      "runner": {
+        "current": "launchd",
+        "registration": "com.sakimyto.tokyo-date-spots-weekly",
+        "desiredStatus": "active",
+        "observedStatus": "2026-11-24 観測: 読み込み済み・not running・runs=2・last exit code 1。plist は install.py の定義どおり（Weekday=5・Hour=9・Minute=5・RunAtLoad=false・TZ=Asia/Tokyo）。runs=2 は 11/18 の手動 preflight（exit 0）と 11/20 の定時の回と推定（未確認）。",
+        "lastRunEvidence": "2026-11-20 09:05 の初回が implement の工程で停止。state.json は runs[\"2026-11-20\"] = needs-reconciliation・phase implement・collection accepted 34 / removals 29。Codex の会話 01a1f650-71d9-76b0-84d1-ad495c892920 が usage_limit_exceeded（limit premium、解除予定 2026-11-23 13:42）で turn を始めずに終わった。最後に公開まで成功した週次は 2026-11-13（手動の移管作業、PR #3〜#6）。自動の回の成功はまだない。"
+      },
+      "inputs": [
+        "origin/main の spots.json（採用済みデータ）",
+        "当週の公式情報（Claude の WebSearch・WebFetch）",
+        "~/.codex/automation-state/tokyo-date-spots-weekly/config.json（CLI の場所と repo の場所。秘密情報は持たない）",
+        "sakimyto/sakimytocom の checkout（サイト側の当週 worktree の作成元）"
+      ],
+      "outputs": [
+        "tokyo-date-spots の PR と main への通常 merge（spots.json・spots.csv・index.html）と GitHub Pages",
+        "sakimytocom の PR と指定の merge スクリプト経由の merge、/lab/odekake の配備",
+        "~/.codex/automation-state/tokyo-date-spots-weekly/RESULT.md（短い結果。Slack・メール等の通知はしない）"
+      ],
+      "statePaths": [
+        "~/.codex/automation-state/tokyo-date-spots-weekly/state.json",
+        "~/.codex/automation-state/tokyo-date-spots-weekly/RESULT.md",
+        "~/.codex/automation-state/tokyo-date-spots-weekly/run.lock",
+        "~/.codex/automation-state/tokyo-date-spots-weekly/STOP",
+        "~/_pjsc/_work/date-spots-weekly-YYYYMMDD/",
+        "~/_pjsc/_wt/tokyo-date-spots-weekly-YYYYMMDD/ と ~/_pjsc/_wt/sakimytocom-odekake-weekly-YYYYMMDD/"
+      ],
+      "dedup": "state.json の runs に JST 日付ごとの行を持つ。published・no-change の日付は再実行しない（duplicate）。未確定の行が1つでもあれば新しい週を始めない。run.lock の flock で同じ Mac の同時実行を防ぐ（2つ目は何もせず exit 0）。公開の工程で中断した回は --resume でも再送しない。旧・新の実行器が同じ実行コピー・同じ state を使う限り、この重複防止は実行器に依らない。",
+      "stopConditions": "STOP ファイルがある、未確定の週がある、run.lock を別のプロセスが持っている、金曜 09:05 JST より前（--resume なし）、収集の入力不正・モデル不一致・有効追加30件未満、CLI の失敗・timeout、独立確認の不承認、公開結果の照合失敗。",
+      "stopMethod": "run.lock を生きたプロセスが持っていないことを確かめてから launchctl bootout gui/$(id -u)/com.sakimyto.tokyo-date-spots-weekly。plist・state・worktree は残す。工程の途中で止めるときは STOP を置き、実行中の CLI の終了を待つ（automation/README.md の「停止と再開」）。",
+      "humanDecisions": [
+        "11/20 の回は 2026-11-24 に本人が見送りを決め（Orca item 36）、同日 08:41 JST に state.json の行を abandoned へ移した。未確定の行は0件。docs/automation-handoff.md の「11/20 の回の扱い」。",
+        "Orca へ移すか launchd に残すか。本人方針は Orca へ移す。外側が決まった手順のスクリプトなので、Orca に移しても AI の会話が1つ増えるだけで、Codex の利用枠に依存する失敗の形は変わらない。",
+        "旧 Grok routine 9-05-bot（sakimemo AL-146）の停止は 2026-11-13 の依頼元報告だけで、この Mac から実設定を確かめられない。"
+      ],
+      "ledgerIds": ["AL-366", "AL-146", "DUP-47"],
+      "handoff": {
+        "target": "orca",
+        "status": "not-started",
+        "order": "この repo の処理はこれ1件。外部へ公開する処理なので、sakimytocom の引き継ぎ順でも最後（weekly-search-growth・security-knowledge-weekly の後）にする。",
+        "blockers": [
+          "Orca のエージェントの会話が最大約4時間のスクリプトを見届けられるか未確認（切り離して起動し、終わりを待つ必要がある）。",
+          "Orca の会話から起動したときに、plist と同じ環境（PATH・TMPDIR・TZ）だけで動き、会話の環境変数（委任の深さなど）を引き継がないかは未確認。"
+        ]
+      }
+    }
+  ]
+}
